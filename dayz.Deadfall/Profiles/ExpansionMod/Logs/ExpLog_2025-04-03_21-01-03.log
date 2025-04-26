@@ -1,0 +1,16 @@
+21:06:22.003 [MissionAirdrop] An airdrop is heading towards "OWF Industries" (pos=<7167.299805, 0.000000, 4161.319824> type=Random_OWFIndustries) with a ExpansionAirdropContainer
+21:27:54.999 [VehicleDeleted] Lady_Bicycle_Purple (id=CAE4B04C1941CDB72B4130A4A80A4192 pos=<1092.19, 164.73, 9085.4>)
+21:28:20.401 [VehicleEnter] Player "Dizzy" (id=tQ7rIW6zr1nMQE8A7uzpLc_GJHb0_QwfchGPoHeKVOQ=) entered vehicle Bicycle (id=6BD41C63CC46B577AA3325989B733843 pos=<1090.63, 164.74, 9085.44>) as driver
+21:28:49.784 [VehicleLeave] Player "Dizzy" (id=tQ7rIW6zr1nMQE8A7uzpLc_GJHb0_QwfchGPoHeKVOQ=) left vehicle Bicycle (id=6BD41C63CC46B577AA3325989B733843 pos=<1082.54, 164.83, 9067.27>)
+21:28:51.556 [VehicleDeleted] Lady_Bicycle_Purple (id=6BD41C63CC46B577AA3325989B733843 pos=<1082.54, 164.83, 9067.27>)
+21:29:17.084 [VehicleDeleted] Lady_Bicycle_Purple (id=E934B3AD8B4B6BA37375DC81C809FA73 pos=<1077.08, 165.14, 9064.71>)
+21:29:39.620 [VehicleDeleted] Lady_Bicycle_Purple (id=CF49C30AC54B442E097CDC8C0C2A9FBD pos=<1075.22, 165.6, 9060.99>)
+21:29:55.122 [VehicleEnter] Player "Dizzy" (id=tQ7rIW6zr1nMQE8A7uzpLc_GJHb0_QwfchGPoHeKVOQ=) entered vehicle Bicycle (id=82FCBB516E47E4CEF13B43A3DE8D82AB pos=<1076.13, 165.71, 9058.93>) as driver
+21:30:46.199 [VehicleLeave] Player "Dizzy" (id=tQ7rIW6zr1nMQE8A7uzpLc_GJHb0_QwfchGPoHeKVOQ=) left vehicle Bicycle (id=82FCBB516E47E4CEF13B43A3DE8D82AB pos=<1124.19, 176.85, 8805.98>)
+22:32:26.053 [MissionAirdrop] An airdrop is heading towards "OWF Industries" (pos=<7167.299805, 0.000000, 4161.319824> type=Random_OWFIndustries) with a ExpansionAirdropContainer
+22:41:25.820 [Killfeed] Dizzy commited suicide with Hunting Knife.
+22:52:47.830 [Party] Player "BalloonKnot" (id=-dazT0HVJXjFJhkRALYMCelVopEgdVXGpV_qM0I4eP4=) joinded the party "Yaryar" (id=63 ownerUID= ownerName=)
+22:52:47.831 [Party] Player "BalloonKnot" (id=-dazT0HVJXjFJhkRALYMCelVopEgdVXGpV_qM0I4eP4=) created a party named Yaryar (Yar)
+22:55:38.377 [Party] Player "BalloonKnot" (id=-dazT0HVJXjFJhkRALYMCelVopEgdVXGpV_qM0I4eP4=) left the party "Yaryar" (id=63 ownerUID=-dazT0HVJXjFJhkRALYMCelVopEgdVXGpV_qM0I4eP4= ownerName=BalloonKnot)
+23:58:47.214 [MissionAirdrop] An airdrop is heading towards "Algonquin" (pos=<4627.195313, 0.000000, 7687.189941> type=Random_Algonquin) with a ExpansionAirdropContainer_Medical
+01:23:59.282 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Basebuilding

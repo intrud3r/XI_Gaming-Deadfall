@@ -1,0 +1,35 @@
+---------------------------------------------
+ServerPanel log started at 27.03.2025 22:07:05
+
+27.03.2025 22:07:05 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+27.03.2025 22:07:05 [ServerPanelConfig]: Reading Server Config
+27.03.2025 22:07:05 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+27.03.2025 22:07:05 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+27.03.2025 22:07:05 [ServerPanelConfigRPC]: GetConfigRequest
+27.03.2025 22:07:05 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+27.03.2025 22:07:05 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+27.03.2025 22:07:05 [ServerPanelHelpers]: Initialized ServerPanelBase
+27.03.2025 22:07:36 [ServerPanelConfigRPC]: Bertun (Kg8hEBaHFJgxgt87slDPoVnN7rLbFr5AOuz_KhP9Cdc=) - Config sync
+27.03.2025 22:07:37 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 22:08:46 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 22:08:58 [ServerPanelConfigRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Config sync
+27.03.2025 22:09:01 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 22:09:01 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 22:10:23 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 22:24:41 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 22:24:41 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 23:12:23 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+27.03.2025 23:17:01 [ServerPanelStatsRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Player Stats sync
+27.03.2025 23:17:01 [ServerPanelStatsRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Player Minimum Stats sync
+27.03.2025 23:45:46 [ServerPanelConfigRPC]: Goobis (b1JoOAzglIgU8KyMK5DQrUoNStz8E5R4ZvXCzFgmlbM=) - Config sync
+28.03.2025 00:04:51 [ServerPanelConfigRPC]: Self Harmony  (jkwuYTxnbAemB5KWeV4Eq94h1d1gm5YXlykHR2FwUck=) - Config sync
+28.03.2025 00:08:29 [ServerPanelConfigRPC]: Soap (vlAJX5oi2PGn5Gd8NIT4qVP0bmbZLV8jjTZdXZ4_BSQ=) - Config sync
+28.03.2025 00:09:59 [ServerPanelConfigRPC]: Noxx (n3e4q30vnWu5IXyAVUPYaREY8ONNVRvd2ek0yVUR9as=) - Config sync
+28.03.2025 00:10:26 [ServerPanelStatsRPC]: Noxx (n3e4q30vnWu5IXyAVUPYaREY8ONNVRvd2ek0yVUR9as=) - Player Stats sync
+28.03.2025 00:10:26 [ServerPanelStatsRPC]: Noxx (n3e4q30vnWu5IXyAVUPYaREY8ONNVRvd2ek0yVUR9as=) - Player Minimum Stats sync
+28.03.2025 00:50:14 [ServerPanelConfigRPC]: Soap (vlAJX5oi2PGn5Gd8NIT4qVP0bmbZLV8jjTZdXZ4_BSQ=) - Config sync
+28.03.2025 00:51:10 [ServerPanelConfigRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Config sync
+28.03.2025 00:58:03 [ServerPanelConfigRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Config sync
+28.03.2025 02:05:50 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+28.03.2025 02:40:39 [ServerPanelStatsRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Player Stats sync
+28.03.2025 02:40:39 [ServerPanelStatsRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Player Minimum Stats sync

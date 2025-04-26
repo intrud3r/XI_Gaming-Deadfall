@@ -1,0 +1,36 @@
+---------------------------------------------
+ServerPanel log started at 20.03.2025 07:01:02
+
+20.03.2025 07:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+20.03.2025 07:01:02 [ServerPanelConfig]: Reading Server Config
+20.03.2025 07:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+20.03.2025 07:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+20.03.2025 07:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+20.03.2025 07:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+20.03.2025 07:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+20.03.2025 07:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+20.03.2025 07:53:01 [ServerPanelConfigRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Config sync
+20.03.2025 07:53:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+20.03.2025 07:53:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+20.03.2025 07:53:28 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+20.03.2025 07:53:28 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+20.03.2025 08:02:55 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+20.03.2025 08:02:55 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+20.03.2025 08:12:45 [ServerPanelConfigRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Config sync
+20.03.2025 08:25:27 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+20.03.2025 08:25:27 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+20.03.2025 08:30:12 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+20.03.2025 08:30:12 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+20.03.2025 08:32:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+20.03.2025 08:32:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+20.03.2025 08:33:26 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+20.03.2025 08:33:26 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+20.03.2025 08:35:13 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+20.03.2025 08:35:13 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+20.03.2025 09:03:53 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+20.03.2025 09:20:07 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+20.03.2025 09:20:07 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+20.03.2025 09:32:43 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+20.03.2025 09:32:43 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+20.03.2025 10:03:36 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+20.03.2025 10:03:36 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync

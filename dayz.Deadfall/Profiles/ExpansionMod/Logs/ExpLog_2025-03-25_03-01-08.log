@@ -1,0 +1,28 @@
+03:06:27.448 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Military
+04:33:29.507 [MissionAirdrop] An airdrop is heading towards "Seneca" (pos=<7648.691895, 0.000000, 1011.718018> type=Random_Seneca) with a ExpansionAirdropContainer_Medical
+06:00:40.511 [MissionAirdrop] An airdrop is heading towards "Tuscarora" (pos=<2451.096191, 0.000000, 8775.758789> type=Random_Tuscarora) with a ExpansionAirdropContainer_Military
+06:18:33.489 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=9A14D7096042536EF465029C8ACE8FFE pos=<1098.45, 164.64, 9068.74>) as driver
+06:18:50.946 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=9A14D7096042536EF465029C8ACE8FFE pos=<1121.91, 161.36, 9038.27>)
+06:19:03.283 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=9A14D7096042536EF465029C8ACE8FFE pos=<1121.91, 161.36, 9038.27>) as driver
+06:21:15.785 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=9A14D7096042536EF465029C8ACE8FFE pos=<1170.45, 176.44, 8769.16>)
+06:21:37.977 [VehicleDeleted] Old_Bike_Pink (id=9A14D7096042536EF465029C8ACE8FFE pos=<1170.45, 176.44, 8769.16>)
+06:30:39.328 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1167.03, 176.32, 8772.14>) as driver
+06:31:07.361 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1299.97, 147.2, 8792.28>)
+06:31:14.086 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1299.97, 147.2, 8792.28>) as driver
+06:32:28.476 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1494.48, 146.64, 8630.93>)
+06:33:45.650 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1494.48, 146.64, 8630.93>) as driver
+06:34:33.650 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1710.12, 169.04, 8411.89>)
+06:36:10.196 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1710.12, 169.04, 8411.89>) as driver
+06:36:23.324 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1757.52, 169.2, 8387.43>)
+06:37:37.696 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1757.55, 169.11, 8387.44>) as driver
+06:37:42.751 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=885CD952AF43633AFF24FB93D5F05F34 pos=<1760.23, 169.1, 8385.62>)
+06:38:15.957 [VehicleDeleted] Old_Bike (id=CC38ADEE734B21C2C7ED1981A7B77040 pos=<1749.95, 169.16, 8390.22>)
+06:38:38.485 [VehicleDeleted] Old_Bike (id=2C9AC00D724861730D8BEC82BC15F39D pos=<1759.76, 169.16, 8384.22>)
+06:38:48.557 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=5007FFF0614342CED6CC4E93C74BF98C pos=<1763.99, 169.16, 8383.97>) as driver
+06:39:49.545 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=5007FFF0614342CED6CC4E93C74BF98C pos=<2047.5, 181.88, 8333.39>)
+06:39:52.142 [VehicleDeleted] Old_Bike (id=5007FFF0614342CED6CC4E93C74BF98C pos=<2047.5, 181.88, 8333.39>)
+06:39:58.915 [VehicleDeleted] Old_Bike (id=F4C08917594EEDF46C301BBEFAF6357C pos=<2047.04, 181.91, 8333.87>)
+06:51:15.770 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=4A9C979EAD45D10DC85CC19D84E00CAD pos=<2047.57, 181.89, 8333.56>) as driver
+06:51:34.414 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=4A9C979EAD45D10DC85CC19D84E00CAD pos=<2088.41, 181.75, 8357.55>)
+06:58:15.650 [VehicleEnter] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) entered vehicle Bicycle (id=4A9C979EAD45D10DC85CC19D84E00CAD pos=<2088.41, 181.75, 8357.55>) as driver
+06:58:31.762 [VehicleLeave] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left vehicle Bicycle (id=4A9C979EAD45D10DC85CC19D84E00CAD pos=<2123.71, 179.86, 8393.89>)

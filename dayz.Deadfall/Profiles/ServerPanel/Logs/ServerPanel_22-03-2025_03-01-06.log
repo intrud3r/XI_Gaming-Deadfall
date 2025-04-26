@@ -1,0 +1,26 @@
+---------------------------------------------
+ServerPanel log started at 22.03.2025 03:01:06
+
+22.03.2025 03:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+22.03.2025 03:01:06 [ServerPanelConfig]: Reading Server Config
+22.03.2025 03:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+22.03.2025 03:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+22.03.2025 03:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+22.03.2025 03:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+22.03.2025 03:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+22.03.2025 03:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+22.03.2025 03:04:53 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 03:29:51 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+22.03.2025 03:29:51 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+22.03.2025 03:30:06 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+22.03.2025 03:30:06 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+22.03.2025 03:33:32 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 03:34:32 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 03:39:11 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 03:41:09 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 04:29:03 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 04:31:36 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 04:39:26 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 04:58:55 [ServerPanelConfigRPC]: CracklinOatBranCereal (nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) - Config sync
+22.03.2025 05:04:12 [ServerPanelStatsRPC]: CracklinOatBranCereal (nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) - Player Stats sync
+22.03.2025 05:04:12 [ServerPanelStatsRPC]: CracklinOatBranCereal (nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) - Player Minimum Stats sync

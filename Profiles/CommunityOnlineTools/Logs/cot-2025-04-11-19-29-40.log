@@ -1,0 +1,703 @@
+[COT 2025-04-11 19:36:39] 76561198352827856: Activated Community Online Tools [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 19:36:45] 76561198352827856: Set GodMode To true [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 19:37:00] 76561198352827856: Teleported 76561198352827856 to position <7129.652344, 169.584412, 5100.571777>
+[COT 2025-04-11 19:37:15] 76561198352827856: Entered the Free Camera
+[COT 2025-04-11 19:37:32] 76561198352827856: Left the Free Camera
+[COT 2025-04-11 19:37:54] 76561198352827856: Set GodMode To false [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 19:37:56] 76561198352827856: Set GodMode To true [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 19:38:27] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<597f1ff0>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:38:27] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<597f4e30>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:38:27] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<597f2b80>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:38:39] 76561198352827856: Spawned Entity MMG Solo Locker Purple Kit (mmg_solo_locker_purple_kit<597f42a0>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:38:40] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<597faab0>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:38:45] 76561198352827856: Spawned Entity MMG Solo Locker Green Kit (mmg_solo_locker_green_kit<88e45ce0>, 100, 1000, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:39:05] 76561198352827856: Spawned Entity MMG Palette Storage (mmg_palette_storage_base<88e40060>, 100, 5500, 15, 0) at <7127.125977, 163.003784, 5087.802246>
+[COT 2025-04-11 19:39:22] 76561198352827856: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<88e55b40>, 100, 1000, 15, 0) at <7128.184570, 163.003784, 5086.449707>
+[COT 2025-04-11 19:39:23] 76561198352827856: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<88e54420>, 100, 1000, 15, 0) at <7128.184570, 163.003784, 5086.449707>
+[COT 2025-04-11 19:39:23] 76561198352827856: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<88e566d0>, 100, 1000, 15, 0) at <7128.184570, 163.003784, 5086.449707>
+[COT 2025-04-11 19:39:58] 76561198352827856: Spawned Entity Ammo box (Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0>, 100, 99999, 15, 0) at <7125.833496, 163.003784, 5085.952148>
+[COT 2025-04-11 19:40:03] 76561198352827856: Spawned Entity Ammo box (Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50>, 100, 99999, 15, 0) at <7126.117676, 163.318558, 5085.994141>
+[COT 2025-04-11 19:40:19] 76561198352827856: ESP: ESP updating
+[COT 2025-04-11 19:41:03] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-126.161003, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:03] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-127.161003, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:03] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-128.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:03] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-129.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-130.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-131.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-132.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-133.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-134.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-135.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-136.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-137.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-138.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-137.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-138.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-139.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-140.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-142.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-143.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-144.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-145.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-147.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-148.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-149.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-150.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-151.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-152.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-153.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-152.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-151.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-152.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-153.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-154.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-156.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-157.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-158.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-159.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-160.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-161.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-162.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-163.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-164.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-165.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-166.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-167.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-168.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-169.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-170.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-171.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-172.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-173.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-174.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-175.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-176.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-177.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-178.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-179.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-180.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-181.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-182.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-183.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-184.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-185.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-186.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-187.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-188.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-189.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-190.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-191.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-192.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-193.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-194.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-195.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-196.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-197.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-198.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-199.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-200.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-201.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-202.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-203.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-204.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-203.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-204.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-205.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-206.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-207.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-208.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-209.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-210.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-211.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:11] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-212.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:12] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-213.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:12] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-214.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:12] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-215.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:12] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-216.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-217.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-218.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-219.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-220.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-221.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-222.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-223.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-224.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-225.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-226.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-227.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-228.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:13] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-229.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-230.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-231.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-232.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-233.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-234.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-235.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-236.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-237.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-238.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-239.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-240.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-241.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-242.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:14] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-243.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-244.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-245.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-246.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-247.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-248.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-249.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-250.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-251.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-252.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-253.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-254.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-255.160995, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-256.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-257.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-258.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:15] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-259.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-260.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-261.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-262.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-263.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-264.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-265.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-266.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-267.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-268.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-269.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-270.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-271.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-272.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-273.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-274.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:16] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-275.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-276.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-277.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-278.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-279.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-280.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-281.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-282.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-283.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-284.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-285.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-286.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-287.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-288.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-289.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:17] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-290.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-291.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-292.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-293.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-294.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-295.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-296.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-297.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-298.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-299.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-300.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-301.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-302.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-303.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-304.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-305.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-306.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-307.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-308.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-309.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-310.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-311.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-312.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-313.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-314.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-315.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-316.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-317.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-318.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-319.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-320.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-321.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-322.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:19] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-323.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:20] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-324.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:20] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-325.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:20] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-326.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:20] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-327.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:20] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-328.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-329.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-330.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-331.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-332.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-333.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-334.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:21] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<-335.161011, 0.000000, -0.000000>
+[COT 2025-04-11 19:41:37] 76561198352827856: Set Invisibility To 1 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 19:41:50] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.729980, 162.934998, 5085.950195>
+[COT 2025-04-11 19:41:51] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.629883, 162.934998, 5085.950195>
+[COT 2025-04-11 19:41:52] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.729980, 162.934998, 5085.950195>
+[COT 2025-04-11 19:41:55] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.729980, 162.934998, 5086.049805>
+[COT 2025-04-11 19:41:56] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.729980, 162.934998, 5086.149902>
+[COT 2025-04-11 19:41:59] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<24.937401, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:00] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<25.037399, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:00] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<25.137400, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:00] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<25.237400, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:01] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=orientation value=<25.137400, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:02] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.149902>
+[COT 2025-04-11 19:42:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.250000>
+[COT 2025-04-11 19:42:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.350098>
+[COT 2025-04-11 19:42:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.450195>
+[COT 2025-04-11 19:42:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.350098>
+[COT 2025-04-11 19:42:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.250000>
+[COT 2025-04-11 19:42:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.149902>
+[COT 2025-04-11 19:42:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.049805>
+[COT 2025-04-11 19:42:09] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.149902>
+[COT 2025-04-11 19:42:10] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=position value=<7125.830078, 162.934998, 5086.049805>
+[COT 2025-04-11 19:42:25] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.120117, 163.149002, 5085.990234>
+[COT 2025-04-11 19:42:26] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.120117, 163.248993, 5085.990234>
+[COT 2025-04-11 19:42:27] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.120117, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:30] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-66.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:30] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-67.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:30] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-68.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:30] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-69.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-70.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-69.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-68.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-66.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-65.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-64.467903, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-63.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-62.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:31] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-61.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-60.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-59.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-58.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-57.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-56.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-55.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-54.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-53.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-52.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-51.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-50.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-48.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-47.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-45.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-44.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-43.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:32] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-42.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-40.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-39.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-38.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-37.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-36.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-35.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-34.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-35.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-34.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-33.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-32.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-31.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-30.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-29.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-28.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-27.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-26.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-24.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-23.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-21.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-20.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-19.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-18.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-17.467899, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-15.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-14.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-13.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-12.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-11.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-9.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-8.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-7.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-5.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-4.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-3.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-2.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-1.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<-0.467900, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<0.532100, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<1.532100, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<2.532100, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<3.532100, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<4.532100, 0.000000, 0.000000>
+[COT 2025-04-11 19:42:35] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<5.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<7.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<8.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<9.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<10.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<11.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<12.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<13.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<14.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<15.532100, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<16.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<17.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<18.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:36] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<19.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:37] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<20.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:37] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<21.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:37] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<22.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:37] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<23.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:38] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.532101, 0.000000, -0.000000>
+[COT 2025-04-11 19:42:44] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.220215, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:45] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.120117, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:46] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7126.020020, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:47] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.919922, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:48] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:53] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.348999, 5085.890137>
+[COT 2025-04-11 19:42:54] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.348999, 5085.990234>
+[COT 2025-04-11 19:42:55] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.348999, 5086.089844>
+[COT 2025-04-11 19:42:56] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.919922, 163.348999, 5086.089844>
+[COT 2025-04-11 19:42:57] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.348999, 5086.089844>
+[COT 2025-04-11 19:43:03] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.633301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.533300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.433300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.333300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.233299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.133301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:04] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.033300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<23.833300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<23.733299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<23.833300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<23.933300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.033300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.133301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.233299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.333300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.433300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.533300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.633301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:05] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.733299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.833300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<24.933300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.033300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.133301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.233299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.333300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.433300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.533300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.633301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.733299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.833300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:06] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.933300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.833300, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:07] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.733299, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:08] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.633301, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3<88e7cba0> action=heal
+[COT 2025-04-11 19:43:18] 76561198352827856: ESP target=Hel_MagazineLoading_DeepMagentaCamo_SLOT3:17092 position=<7125.830078, 162.934998, 5086.049805> action=delete
+[COT 2025-04-11 19:43:22] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.248993, 5086.089844>
+[COT 2025-04-11 19:43:22] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.149002, 5086.089844>
+[COT 2025-04-11 19:43:23] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 163.048996, 5086.089844>
+[COT 2025-04-11 19:43:26] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.949005, 5086.089844>
+[COT 2025-04-11 19:43:27] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.848999, 5086.089844>
+[COT 2025-04-11 19:43:28] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.949005, 5086.089844>
+[COT 2025-04-11 19:43:33] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.848999, 5086.089844>
+[COT 2025-04-11 19:43:34] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.949005, 5086.089844>
+[COT 2025-04-11 19:43:41] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=position value=<7125.819824, 162.899994, 5086.089844>
+[COT 2025-04-11 19:43:46] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<25.533800, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:46] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<26.533800, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:47] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<27.533800, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:47] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<28.533800, 0.000000, -0.000000>
+[COT 2025-04-11 19:43:47] 76561198352827856: ESP target=Hel_MagazineLoading_DeepYellow_SLOT3<8da32b50> action=orientation value=<29.533800, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:10] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.029785, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:11] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.129883, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:11] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.229980, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:12] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.330078, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:12] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.430176, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:12] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.529785, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:12] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:13] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.529785, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:13] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:14] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5087.899902>
+[COT 2025-04-11 19:44:14] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5087.799805>
+[COT 2025-04-11 19:44:15] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5087.899902>
+[COT 2025-04-11 19:44:15] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.000000>
+[COT 2025-04-11 19:44:15] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.100098>
+[COT 2025-04-11 19:44:16] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.200195>
+[COT 2025-04-11 19:44:16] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.299805>
+[COT 2025-04-11 19:44:16] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.399902>
+[COT 2025-04-11 19:44:16] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.500000>
+[COT 2025-04-11 19:44:17] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.600098>
+[COT 2025-04-11 19:44:17] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.700195>
+[COT 2025-04-11 19:44:17] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.799805>
+[COT 2025-04-11 19:44:17] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5088.899902>
+[COT 2025-04-11 19:44:18] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.000000>
+[COT 2025-04-11 19:44:18] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.100098>
+[COT 2025-04-11 19:44:22] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.200195>
+[COT 2025-04-11 19:44:22] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.299805>
+[COT 2025-04-11 19:44:23] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.399902>
+[COT 2025-04-11 19:44:24] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.500000>
+[COT 2025-04-11 19:44:25] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.600098>
+[COT 2025-04-11 19:44:27] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-19.799999, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:28] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-18.799999, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:28] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-17.799999, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-16.799999, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-15.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-14.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-15.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-14.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-13.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-11.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-10.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-9.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-8.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-7.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-6.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-5.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-4.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-3.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:29] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-2.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-1.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<-0.800000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<0.200000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<1.200000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<2.200000, 0.000000, 0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<3.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<4.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<5.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:30] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<6.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<7.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<8.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<9.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<10.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<11.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<12.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<13.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<14.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<15.200000, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:31] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<16.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:32] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<17.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:32] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<18.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:32] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<19.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:32] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<20.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:32] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<21.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:33] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<22.200001, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:34] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.700195>
+[COT 2025-04-11 19:44:34] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.799805>
+[COT 2025-04-11 19:44:35] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5089.899902>
+[COT 2025-04-11 19:44:36] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5090.000000>
+[COT 2025-04-11 19:44:39] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<23.201700, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:40] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<24.201700, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:40] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<25.201700, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:42] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<26.201700, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:43] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=orientation value=<25.201700, 0.000000, -0.000000>
+[COT 2025-04-11 19:44:45] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:50] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.529785, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:51] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.629883, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:51] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.729980, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:52] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.830078, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:52] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7127.930176, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:52] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7128.029785, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:54] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7128.029785, 163.041000, 5090.200195>
+[COT 2025-04-11 19:44:55] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7128.029785, 163.041000, 5090.100098>
+[COT 2025-04-11 19:44:56] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7128.029785, 163.041000, 5090.000000>
+[COT 2025-04-11 19:44:57] 76561198352827856: ESP target=mmg_palette_storage_base<88e40060> action=position value=<7128.129883, 163.041000, 5090.000000>
+[COT 2025-04-11 19:45:16] 76561198352827856: Deleted Entity mmg_palette_storage:10036 at <7128.129883, 163.041000, 5090.000000>
+[COT 2025-04-11 19:45:27] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<a3c95260>, 100, 5000, 15, 0) at <7127.171387, 163.003784, 5088.544922>
+[COT 2025-04-11 19:46:15] 76561198352827856: Spawned Entity CodeLock (CodeLock<a3c9f440>, 100, 1500, 15, 0) at <7126.186035, 163.003784, 5086.761719>
+[COT 2025-04-11 19:46:15] 76561198352827856: Spawned Entity CodeLock (CodeLock<a3c9e8b0>, 100, 1500, 15, 0) at <7126.186035, 163.003784, 5086.761719>
+[COT 2025-04-11 19:46:16] 76561198352827856: Spawned Entity CodeLock (CodeLock<a3c9dd20>, 100, 1500, 15, 0) at <7126.186035, 163.003784, 5086.761719>
+[COT 2025-04-11 19:46:16] 76561198352827856: Spawned Entity CodeLock (CodeLock<a3c9ba70>, 100, 1500, 15, 0) at <7126.186035, 163.003784, 5086.761719>
+[COT 2025-04-11 19:47:32] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<a3468c10>, 100, 5000, 15, 0) at <7126.744141, 163.003784, 5087.500000>
+[COT 2025-04-11 19:48:15] 76561198352827856: Teleported 76561198352827856 to position <3299.928955, 173.360001, 6758.991699>
+[COT 2025-04-11 19:48:22] 76561198352827856: Entered the Free Camera
+[COT 2025-04-11 19:48:35] 76561198352827856: Left the Free Camera
+[COT 2025-04-11 19:49:00] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<98463130>, 100, 5000, 15, 0) at <3312.296387, 173.587784, 6684.297363>
+[COT 2025-04-11 19:49:00] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<98463cc0>, 100, 5000, 15, 0) at <3312.296387, 173.587784, 6684.297363>
+[COT 2025-04-11 19:49:40] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<98487350>, 100, 1000, 15, 0) at <3311.531738, 173.587784, 6684.349121>
+[COT 2025-04-11 19:49:58] 76561198352827856: Spawned Entity CodeLock (CodeLock<984850a0>, 100, 1500, 15, 0) at <3310.655762, 173.587875, 6684.303711>
+[COT 2025-04-11 19:49:58] 76561198352827856: Spawned Entity CodeLock (CodeLock<9848f280>, 100, 1500, 15, 0) at <3310.655762, 173.587875, 6684.303711>
+[COT 2025-04-11 19:49:58] 76561198352827856: Spawned Entity CodeLock (CodeLock<984909a0>, 100, 1500, 15, 0) at <3310.655762, 173.587875, 6684.303711>
+[COT 2025-04-11 19:53:33] 76561198352827856: Entered the Free Camera
+[COT 2025-04-11 19:54:26] 76561198352827856: Teleported 76561198352827856 to position <7118.674805, 162.649994, 5101.599609>
+[COT 2025-04-11 19:54:34] 76561198352827856: Left the Free Camera
+[COT 2025-04-11 19:54:40] 76561198352827856: ESP: Clearing ESP
+[COT 2025-04-11 19:55:25] 76561198352827856: ESP: Viewing ESP
+[COT 2025-04-11 19:55:33] 76561198352827856: ESP target=mmg_army_box_medic_grey<44724d40> action=position value=<7133.750000, 162.964005, 5088.459961>
+[COT 2025-04-11 19:55:34] 76561198352827856: ESP target=mmg_army_box_medic_grey<44724d40> action=position value=<7133.850098, 162.964005, 5088.459961>
+[COT 2025-04-11 19:55:35] 76561198352827856: ESP target=mmg_army_box_medic_grey<44724d40> action=position value=<7133.950195, 162.964005, 5088.459961>
+[COT 2025-04-11 19:55:45] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.063995, 5089.270020>
+[COT 2025-04-11 19:55:46] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.164001, 5089.270020>
+[COT 2025-04-11 19:55:46] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.264008, 5089.270020>
+[COT 2025-04-11 19:55:48] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.264008, 5089.270020>
+[COT 2025-04-11 19:55:56] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.270020>
+[COT 2025-04-11 19:55:58] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.390137, 163.363998, 5089.270020>
+[COT 2025-04-11 19:55:58] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.490234, 163.363998, 5089.270020>
+[COT 2025-04-11 19:55:59] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.390137, 163.363998, 5089.270020>
+[COT 2025-04-11 19:56:00] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.270020>
+[COT 2025-04-11 19:56:01] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.370117>
+[COT 2025-04-11 19:56:01] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.470215>
+[COT 2025-04-11 19:56:02] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.370117>
+[COT 2025-04-11 19:56:02] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.270020>
+[COT 2025-04-11 19:56:02] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.169922>
+[COT 2025-04-11 19:56:02] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5089.069824>
+[COT 2025-04-11 19:56:03] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5088.970215>
+[COT 2025-04-11 19:56:03] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5088.870117>
+[COT 2025-04-11 19:56:07] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5088.770020>
+[COT 2025-04-11 19:56:08] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5088.669922>
+[COT 2025-04-11 19:56:09] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.290039, 163.363998, 5088.569824>
+[COT 2025-04-11 19:56:12] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.363998, 5088.569824>
+[COT 2025-04-11 19:56:16] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.264008, 5088.569824>
+[COT 2025-04-11 19:56:18] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.189941, 163.363998, 5088.569824>
+[COT 2025-04-11 19:56:19] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.089844, 163.363998, 5088.569824>
+[COT 2025-04-11 19:56:23] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<119.740997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<119.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<119.941002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.041000, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.140999, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.240997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.341003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:24] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.441002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.341003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.441002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.541000, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.640999, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.740997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<120.941002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.041000, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:25] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.140999, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:28] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.240997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:28] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.341003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.441002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.541000, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.640999, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.740997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<121.941002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<122.041000, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<122.140999, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:29] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<122.240997, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:30] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<122.341003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:30] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=orientation value=<122.441002, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:40] 76561198352827856: ESP target=ExpansionSafeMini<4834a5f0> action=position value=<7134.089844, 163.399994, 5088.569824>
+[COT 2025-04-11 19:56:48] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=orientation value=<112.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:49] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=orientation value=<113.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:49] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=orientation value=<114.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:49] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=orientation value=<115.841003, 0.000000, -0.000000>
+[COT 2025-04-11 19:56:51] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=position value=<7135.419922, 162.964005, 5090.279785>
+[COT 2025-04-11 19:56:52] 76561198352827856: ESP target=ExpansionSafeMini<48364630> action=position value=<7134.419922, 162.964005, 5090.279785>
+[COT 2025-04-11 19:57:06] 76561198352827856: ESP: Clearing ESP
+[COT 2025-04-11 19:57:17] 76561198352827856: Entered the Free Camera
+[COT 2025-04-11 19:59:04] 76561198352827856: ESP: Viewing ESP
+[COT 2025-04-11 19:59:15] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-132.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:15] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-133.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-134.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-135.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-134.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-133.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-132.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-131.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:16] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-132.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-131.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-130.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-128.794006, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-127.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-126.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-125.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-124.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-123.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-122.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-121.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-119.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-118.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-117.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-116.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:17] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-115.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-114.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-113.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-112.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-111.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-110.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-109.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-108.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-107.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-105.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-104.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-103.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-102.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-101.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-100.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-99.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:18] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-98.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-97.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-96.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-95.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-94.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-93.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-91.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-90.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-89.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-88.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-87.793999, 0.000000, -0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-86.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-84.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-83.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-82.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-81.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-80.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-79.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:19] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-77.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-76.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-75.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-74.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-73.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-72.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-71.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-70.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-69.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-68.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-67.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-66.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:20] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-65.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:21] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-64.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:21] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-63.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:21] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-62.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:21] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-61.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:21] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-60.793999, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:32] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-59.793201, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:33] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-58.793201, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:33] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-57.793201, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:33] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=orientation value=<-56.793201, 0.000000, 0.000000>
+[COT 2025-04-11 19:59:37] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.729980, 162.964005, 5081.930176>
+[COT 2025-04-11 19:59:38] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.830078, 162.964005, 5081.930176>
+[COT 2025-04-11 19:59:40] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.830078, 162.964005, 5082.029785>
+[COT 2025-04-11 19:59:41] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.830078, 162.964005, 5081.930176>
+[COT 2025-04-11 19:59:41] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.830078, 162.964005, 5081.830078>
+[COT 2025-04-11 19:59:43] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7119.930176, 162.964005, 5081.830078>
+[COT 2025-04-11 19:59:44] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7120.029785, 162.964005, 5081.830078>
+[COT 2025-04-11 19:59:45] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7120.029785, 162.964005, 5081.729980>
+[COT 2025-04-11 19:59:47] 76561198352827856: ESP target=mmg_storage_openable_noLock_base<49690ef0> action=position value=<7120.129883, 162.964005, 5081.729980>
+[COT 2025-04-11 19:59:58] 76561198352827856: ESP: Clearing ESP
+[COT 2025-04-11 20:02:36] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<98523e50>, 500, 30, 15, 0) at <4772.186035, 353.584534, 3926.259766>
+[COT 2025-04-11 20:02:57] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<984f0960>, 500, 30, 15, 0) at <4771.005859, 353.617950, 3925.284912>
+[COT 2025-04-11 20:03:07] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<984f2080>, 500, 30, 15, 0) at <4772.435059, 353.584534, 3926.219971>
+[COT 2025-04-11 20:03:16] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<984f4330>, 500, 30, 15, 0) at <4774.906250, 352.306366, 3924.307129>
+[COT 2025-04-11 20:03:52] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<985086f0>, 500, 30, 15, 0) at <4774.076172, 353.584534, 3926.167969>
+[COT 2025-04-11 20:04:04] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<98506440>, 500, 30, 15, 0) at <4773.906738, 353.609680, 3922.378906>
+[COT 2025-04-11 20:04:39] 76561198352827856: Spawned Entity Teddy Bear (Bear_Pink<313268a0>, 500, 30, 15, 0) at <4774.937500, 353.609985, 3925.503906>
+[COT 2025-04-11 20:08:11] 76561198352827856: Left the Free Camera
+[COT 2025-04-11 20:08:41] 76561198352827856: Entered the Free Camera
+[COT 2025-04-11 20:09:05] 76561198352827856: Left the Free Camera
+[COT 2025-04-11 20:09:14] 76561198352827856: Set Invisibility To 0 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-11 20:09:31] 76561198352827856: Spawned Entity Fannypack (Clothing<97ddfc00>, 550, 100, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:32] 76561198352827856: Spawned Entity Fannypack (Clothing<97ddf070>, 550, 100, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:32] 76561198352827856: Spawned Entity Fannypack (Clothing<97ded7b0>, 550, 100, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:35] 76561198352827856: Spawned Entity Lennon glasses pink (Lennon_glasses_pink_mung<97deb500>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:35] 76561198352827856: Spawned Entity Lennon glasses pink (Lennon_glasses_pink_mung<97dec090>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:35] 76561198352827856: Spawned Entity Lennon glasses pink (Lennon_glasses_pink_mung<97db8ba0>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:36] 76561198352827856: Spawned Entity victorian glasses pink (victorian_glasses_pink_mung<97dc1660>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:36] 76561198352827856: Spawned Entity victorian glasses pink (victorian_glasses_pink_mung<97dbd100>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:37] 76561198352827856: Spawned Entity victorian glasses pink (victorian_glasses_pink_mung<97dcc3d0>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:37] 76561198352827856: Spawned Entity victorian glasses pink (victorian_glasses_pink_mung<97dd0930>, 550, 50, 15, 0) at <4744.991699, 338.781891, 3960.754639>
+[COT 2025-04-11 20:09:53] 76561198352827856: Set Invisibility To 1 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]

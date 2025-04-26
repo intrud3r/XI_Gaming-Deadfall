@@ -1,0 +1,60 @@
+<VehicleParts>Candy_MustFrank
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Doors_Driver
+	Candy_MustFrank_Doors_CoDriver
+	Candy_MustFrank_Doors_Trunk
+	Candy_MustFrank_Doors_Trunk0
+	Candy_MustFrank_Doors_Hood
+	
+<VehicleParts>Candy_MustFrank_White
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Doors_Driver_White
+	Candy_MustFrank_Doors_CoDriver_White
+	Candy_MustFrank_Doors_Trunk_White
+	Candy_MustFrank_Doors_Trunk0_White
+	Candy_MustFrank_Doors_Hood_White
+	
+<VehicleParts>Candy_MustFrank_NoGun
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Doors_Driver
+	Candy_MustFrank_Doors_CoDriver
+	Candy_MustFrank_Doors_Trunk
+	Candy_MustFrank_Doors_Trunk0
+	Candy_MustFrank_Doors_Hood
+	
+<VehicleParts>Candy_MustFrank_NoGun_White
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Wheel
+	Candy_MustFrank_Doors_Driver_White
+	Candy_MustFrank_Doors_CoDriver_White
+	Candy_MustFrank_Doors_Trunk_White
+	Candy_MustFrank_Doors_Trunk0_White
+	Candy_MustFrank_Doors_Hood_White
+	

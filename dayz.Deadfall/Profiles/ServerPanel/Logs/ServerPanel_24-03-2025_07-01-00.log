@@ -1,0 +1,16 @@
+---------------------------------------------
+ServerPanel log started at 24.03.2025 07:01:00
+
+24.03.2025 07:01:00 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+24.03.2025 07:01:00 [ServerPanelConfig]: Reading Server Config
+24.03.2025 07:01:00 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+24.03.2025 07:01:00 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+24.03.2025 07:01:00 [ServerPanelConfigRPC]: GetConfigRequest
+24.03.2025 07:01:00 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+24.03.2025 07:01:00 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+24.03.2025 07:01:00 [ServerPanelHelpers]: Initialized ServerPanelBase
+24.03.2025 08:20:47 [ServerPanelConfigRPC]: FREDLOX (FsSJ7q6m0ovGEGJfofYnDPNQmTP4n7EsHoPdnJgRldg=) - Config sync
+24.03.2025 08:26:26 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+24.03.2025 09:06:56 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+24.03.2025 09:06:56 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+24.03.2025 10:17:37 [ServerPanelConfigRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Config sync

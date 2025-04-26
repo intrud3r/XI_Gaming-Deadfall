@@ -1,0 +1,477 @@
+07:01:34.152 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:04:40.279 [Safezone] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<6685.79, 102.97, 6117.18>) entered the safezone
+07:04:40.281 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:05:47.060 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6749.9, 105.48, 6050.57>) entered the safezone
+07:06:17.810 [MissionAirdrop] An airdrop is heading towards "Tuscarora" (pos=<2451.096191, 0.000000, 8775.758789> type=Random_Tuscarora) with a ExpansionAirdropContainer_Medical
+07:06:19.800 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (587cf300) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+07:06:21.056 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (587d0a20) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+07:06:36.605 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought battery9v x1 (61d225c0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+07:06:37.347 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought battery9v x1 (61d1f780) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+07:06:38.091 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought battery9v x1 (61d30170) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+07:09:05.408 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought ammobox_50bmg_20rnd x5 (85ea65a0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 320.
+07:12:26.265 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought expansion_pmii25optic x1 (33e2ecc0) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1100.
+07:12:34.527 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6656.79, 110.9, 6118.17>) entered the safezone
+07:12:34.529 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:12:44.150 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has sold expansion_pmii25optic x1 (33e2ecc0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 825.
+07:14:51.902 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has deposited 827 on his ATM account.
+07:15:29.830 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+07:15:47.160 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+07:17:48.468 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+08:31:22.453 [BaseRaiding] BF_DoubleDoorBarricade (<2962.308105, 208.095001, 496.829163>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2961.724121, 207.758484, 497.520416>)" by 10 health points. Reason: Failed to enter the correct code.
+08:31:22.453 [BaseRaiding] BF_DoubleDoorBarricade (<2962.308105, 208.095001, 496.829163>) The correct code was 1011 and the player tried 1110
+08:31:39.302 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2955.385986, 215.985260, 482.768707>)" by 10 health points. Reason: Failed to enter the correct code.
+08:31:39.302 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) The correct code was 1110 and the player tried 1011
+08:31:42.630 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2955.385986, 215.985260, 482.768707>)" by 10 health points. Reason: Failed to enter the correct code.
+08:31:42.630 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) The correct code was 1110 and the player tried 1011
+08:31:45.804 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2955.385986, 215.985260, 482.768707>)" by 10 health points. Reason: Failed to enter the correct code.
+08:31:45.806 [BaseRaiding] BF_DoubleDoorBarricade (<2954.946289, 216.057251, 481.306488>) The correct code was 1110 and the player tried 1011
+08:32:16.625 [BaseRaiding] BF_DoubleDoorBarricade (<2950.839844, 246.466614, 474.014099>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2952.378174, 246.432999, 474.324554>)" by 10 health points. Reason: Failed to enter the correct code.
+08:32:16.625 [BaseRaiding] BF_DoubleDoorBarricade (<2950.839844, 246.466614, 474.014099>) The correct code was 1110 and the player tried 1011
+08:32:20.041 [BaseRaiding] BF_DoubleDoorBarricade (<2950.839844, 246.466614, 474.014099>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2952.378174, 246.432999, 474.324554>)" by 10 health points. Reason: Failed to enter the correct code.
+08:32:20.042 [BaseRaiding] BF_DoubleDoorBarricade (<2950.839844, 246.466614, 474.014099>) The correct code was 1110 and the player tried 1011
+08:33:29.855 [MissionAirdrop] An airdrop is heading towards "Mohawk" (pos=<7978.891113, 0.000000, 7093.604004> type=Random_Mohawk) with a ExpansionAirdropContainer_Military
+08:33:41.406 [EntityStorage] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<2948.26, 246.33, 469.35>) restored entity "FireplaceIndoor" (GlobalID=80000000800000008000000080006BDB pos=<2946.34, 246.29, 469.49>)
+08:44:35.246 [VehicleDeleted] Boat_01_Camo (id=10D25832B744FC446E913590703BB45C pos=<2949.32, 246.32, 470.38>)
+08:44:50.035 [BaseRaiding] ExpansionWall6x3 (<2947.268066, 262.592072, 471.957336>) Damaged "player "F11 Simulator" (ID = "m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=" at <2946.778564, 261.946564, 470.854706>)" by 10 health points. Reason: Failed to enter the correct code.
+08:44:50.035 [BaseRaiding] ExpansionWall6x3 (<2947.268066, 262.592072, 471.957336>) The correct code was 1011 and the player tried 1110
+08:45:34.277 [VehicleDeleted] ExpansionUtilityBoat (id=2807902D8E416473C01343B674AEA181 pos=<2949.62, 267.07, 468.33>)
+08:46:11.423 [VehicleDeleted] ExpansionUtilityBoat_Green (id=431E51DF6143CEC640BE978B582B388E pos=<2949.74, 267.05, 469.3>)
+08:47:58.390 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle RHIB (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3403.91, 168.67, 1172.15>) as driver
+08:48:01.539 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle RHIB (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3403.905762, 168.667023, 1172.154785>)
+08:48:17.898 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle RHIB (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3404.15, 168.67, 1172.86>) as passenger
+08:48:53.800 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle RHIB (id=ED6D7AF7EC421CE013D529BFE78E3674 pos=<3431.92, 168.63, 1179.02>) as driver
+08:48:58.171 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle RHIB (id=ED6D7AF7EC421CE013D529BFE78E3674 pos=<3431.92, 168.56, 1178.95>)
+08:49:02.259 [VehicleDeleted] ExpansionUtilityBoat_Green (id=ED6D7AF7EC421CE013D529BFE78E3674 pos=<3431.88, 168.56, 1178.9>)
+08:49:58.859 [VehicleDeleted] ExpansionUtilityBoat_Green (id=9381F6676C4A74F3987C4EB2BD016573 pos=<3395.23, 168.48, 1148.17>)
+08:50:12.287 [VehicleDeleted] ExpansionZodiacBoat_Black (id=40A03D0D71427171191312924D4AC0A4 pos=<3393.09, 168.88, 1151.1>)
+08:50:12.646 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle RHIB (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3368.74, 169.12, 1176.01>)
+08:50:12.734 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle RHIB (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3368.74, 169.12, 1176.01>)
+08:50:30.871 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle PBX (id=B3C0E0216B46B9B9AB24F8BD5BB297CC pos=<3396.02, 168.62, 1178.54>) as driver
+08:50:34.466 [VehicleEngine] Player "Druss" [uid=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=] started vehicle PBX (id=B3C0E0216B46B9B9AB24F8BD5BB297CC pos=<3395.970947, 168.595154, 1178.493286>)
+08:50:46.222 [VehicleDeleted] ExpansionZodiacBoat_Black (id=B3C0E0216B46B9B9AB24F8BD5BB297CC pos=<3396, 168.53, 1178.33>)
+08:51:06.410 [VehicleDeleted] ExpansionZodiacBoat_Black (id=F068E8F22A41D1ED1961F2A5421DD52C pos=<3393.43, 168.94, 1175.67>)
+08:51:55.966 [VehicleDeleted] ExpansionUtilityBoat (id=1BE646DAC94A3C57C110E6AB6AF52169 pos=<3368.74, 169.12, 1176.01>)
+08:52:02.566 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle PBX (id=525C8606A74C5E38A827B79CDCCAD67E pos=<3416.56, 168.94, 1172.96>) as driver
+08:52:06.910 [VehicleEngine] Player "Druss" [uid=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=] started vehicle PBX (id=525C8606A74C5E38A827B79CDCCAD67E pos=<3421.894287, 168.951797, 1173.958984>)
+08:52:17.042 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle PBX (id=FDC6CF0BB041785D543CA29A2F32809C pos=<3416.17, 168.92, 1171.43>) as driver
+08:52:21.644 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle PBX (id=FDC6CF0BB041785D543CA29A2F32809C pos=<3416.174072, 168.919601, 1171.428467>)
+08:53:25.234 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:53:51.449 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:00:43.123 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle PBX (id=FDC6CF0BB041785D543CA29A2F32809C pos=<3798.84, 170.42, 727.3>)
+09:00:54.306 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle PBX (id=525C8606A74C5E38A827B79CDCCAD67E pos=<3794.47, 169.28, 733.31>)
+09:03:35.363 [VehicleDeleted] ExpansionZodiacBoat_Black (id=FDC6CF0BB041785D543CA29A2F32809C pos=<3798.79, 170.39, 727.4>)
+09:03:42.671 [VehicleDeleted] ExpansionZodiacBoat_Black (id=525C8606A74C5E38A827B79CDCCAD67E pos=<3794.02, 169.14, 734.12>)
+09:09:42.382 [EntityStorage] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<3789.18, 179, 704.75>) restored entity "ExpansionParkingMeter" (GlobalID=80000000800000008000000080006BFE pos=<3788.07, 179.51, 703.76>)
+09:22:04.316 [Killfeed] [uwu] Druss fell to their death.
+09:22:33.851 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:23:01.601 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:28:12.132 [Killfeed] [uwu] Druss got run over with a LHD-9 USS Khe Sanh.
+09:28:12.132 [Killfeed] [uwu] London got run over with a LHD-9 USS Khe Sanh.
+09:28:38.199 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:29:28.796 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:30:11.023 [VehicleDeleted] ExpansionLHD (id=12D3A87CCA4CA2574FC0D58C5CA6EE29 pos=<2937.44, 173.67, 1366.68>)
+09:30:29.695 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:32:13.320 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) as pilot
+09:32:15.972 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=34DFBDF97E40CCC6ED43CF97763E7E9F pos=<2967.55, 151.23, 1376.05>) as pilot
+09:32:28.750 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle If it quacks like a duck... (id=34DFBDF97E40CCC6ED43CF97763E7E9F pos=<2967.55, 151.23, 1376.05>)
+09:32:31.218 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>)
+09:32:36.656 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) as pilot
+09:33:21.015 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=34DFBDF97E40CCC6ED43CF97763E7E9F pos=<2967.55, 151.23, 1376.05>) as pilot
+09:33:32.488 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle If it quacks like a duck... (id=34DFBDF97E40CCC6ED43CF97763E7E9F pos=<2967.55, 151.23, 1376.05>)
+09:33:58.449 [VehicleDeleted] ExpansionHatchBird (id=34DFBDF97E40CCC6ED43CF97763E7E9F pos=<2967.55, 151.23, 1376.05>)
+09:34:00.589 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) as passenger
+09:34:07.222 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>)
+09:34:13.558 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) as passenger
+09:34:14.257 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) switched seats in vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) to passenger
+09:34:18.500 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.44, 151.23, 1381.98>) as passenger
+09:34:30.679 [VehicleEngine] Player "Druss" [uid=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=] started vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<2968.440186, 151.229172, 1381.984497>)
+09:40:17.062 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7460.72, 123.61, 6154.24>)
+09:40:21.191 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7460.72, 123.61, 6154.24>)
+09:40:28.453 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7460.72, 123.61, 6154.24>) as pilot
+09:40:33.027 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7460.723145, 123.609055, 6154.237305>)
+09:41:31.332 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7485.895508, 141.639969, 6351.609375>)
+09:41:34.179 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7485.9, 141.64, 6351.61>)
+09:43:47.453 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7485.9, 141.64, 6351.61>) as pilot
+09:44:36.894 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle If it quacks like a duck... (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7485.9, 141.64, 6351.61>)
+09:44:39.992 [VehicleDeleted] ExpansionHatchBird (id=D41A99BC994B0B24170C7D90ACA2133B pos=<7485.9, 141.64, 6351.61>)
+09:45:59.886 [Killfeed] [uwu] London fell to their death.
+09:46:12.214 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:47:19.656 [Killfeed] [uwu] London fell to their death.
+09:47:35.449 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:55:40.226 [Killfeed] [uwu] London fell to their death.
+09:56:33.058 [Killfeed] [uwu] London got killed.
+09:56:43.539 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:59:58.152 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+09:59:58.152 [BaseBuildingRaiding] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<7470.34, 120.75, 6345.31>) damaged ExpansionBarbedWire at <7474.29, 120.74, 6352.97>
+09:59:58.152 [BaseBuildingRaiding] They dealt 154.338 * 1 = 154.338 damage with Bullet_308Win from PNC_W_ScarH_pixel
+09:59:58.152 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 145.662
+09:59:58.152 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:00:07.902 [MissionAirdrop] An airdrop is heading towards "Algonquin" (pos=<4627.195313, 0.000000, 7687.189941> type=Random_Algonquin) with a ExpansionAirdropContainer_Basebuilding
+10:06:20.601 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:06:20.601 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7497.67, 124.35, 6349.59>) damaged BF_DoorBarricade at <7497.11, 124.3, 6350.87>
+10:06:20.601 [BaseBuildingRaiding] They dealt 6.5 * 1 = 6.5 damage with FirearmHit_Rifle from Aug
+10:06:20.601 [BaseBuildingRaiding] H_Middle_Holder hitpoints decreased from 2000 to 1993.5
+10:06:20.601 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:07:24.121 [Killfeed] [uwu] Druss got killed by [uwu] London with AUR AX from a distance of 13 m.
+10:07:59.710 [Killfeed] [uwu] Druss got killed.
+10:08:08.671 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+10:20:33.117 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce680f0> at <7472.919434, 126.840996, 6331.678223> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.117 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.117 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7472.92, 126.84, 6331.68>
+10:20:33.117 [BaseBuildingRaiding] They dealt 4.31868 * 50 = 215.934 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.117 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29784.1
+10:20:33.117 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.117 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3f54d4a0> at <7473.251953, 126.841248, 6327.448242> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.117 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.117 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7473.25, 126.84, 6327.45>
+10:20:33.117 [BaseBuildingRaiding] They dealt 4.03172 * 50 = 201.586 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.117 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29798.4
+10:20:33.117 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.121 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40faf030> at <7472.916992, 123.838104, 6331.678711> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.121 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.121 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7472.92, 123.84, 6331.68>
+10:20:33.121 [BaseBuildingRaiding] They dealt 2.77109 * 50 = 138.554 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.121 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29859.6 to 29721.1
+10:20:33.121 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.121 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40fba520> at <7473.250000, 123.837563, 6327.448730> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.121 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.121 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7473.25, 123.84, 6327.45>
+10:20:33.121 [BaseBuildingRaiding] They dealt 2.70627 * 50 = 135.313 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.121 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29864.7
+10:20:33.121 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.125 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<41767590> at <7475.200684, 126.838852, 6329.729980> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.125 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7475.2, 126.84, 6329.73>
+10:20:33.125 [BaseBuildingRaiding] They dealt 3.53514 * 50 = 176.757 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29823.2
+10:20:33.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.125 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3ec236a0> at <7475.202637, 129.842545, 6329.729492> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.125 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7475.2, 129.84, 6329.73>
+10:20:33.125 [BaseBuildingRaiding] They dealt 3.55208 * 50 = 177.604 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29822.4
+10:20:33.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.125 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<40f9dac0> at <7471.523438, 120.737129, 6327.796875> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.125 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7471.52, 120.74, 6327.8>
+10:20:33.125 [BaseBuildingRaiding] They dealt 3.39575 * 50 = 169.788 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 130.212
+10:20:33.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.125 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<3ec40d10> at <7472.305176, 120.739998, 6332.261230> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.125 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7472.3, 120.74, 6332.26>
+10:20:33.125 [BaseBuildingRaiding] They dealt 3.20908 * 50 = 160.454 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 139.546
+10:20:33.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.125 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<42c144f0> at <7472.915039, 120.839188, 6331.678223> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.125 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7472.92, 120.84, 6331.68>
+10:20:33.128 [BaseBuildingRaiding] They dealt 2.74834 * 50 = 137.417 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.128 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29862.6
+10:20:33.128 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.128 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce82720> at <7473.248047, 120.838509, 6327.448730> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.128 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7473.25, 120.84, 6327.45>
+10:20:33.128 [BaseBuildingRaiding] They dealt 2.53813 * 50 = 126.906 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.128 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29873.1
+10:20:33.128 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.128 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40f9e6d0> at <7477.485352, 131.344635, 6327.781250> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.128 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.49, 131.34, 6327.78>
+10:20:33.128 [BaseBuildingRaiding] They dealt 2.61055 * 50 = 130.527 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.128 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29869.5
+10:20:33.128 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.128 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3f0518d0> at <7476.815918, 126.837784, 6336.240723> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.128 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7476.82, 126.84, 6336.24>
+10:20:33.132 [BaseBuildingRaiding] They dealt 2.56691 * 50 = 128.345 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29871.7
+10:20:33.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.132 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec44960> at <7476.813965, 123.835030, 6336.240723> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.132 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.132 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7476.81, 123.84, 6336.24>
+10:20:33.132 [BaseBuildingRaiding] They dealt 2.33165 * 50 = 116.583 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29883.4
+10:20:33.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.132 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec491c0> at <7477.814453, 126.838104, 6323.552246> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.132 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.132 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.81, 126.84, 6323.55>
+10:20:33.132 [BaseBuildingRaiding] They dealt 2.14641 * 50 = 107.32 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29892.7
+10:20:33.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.132 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<3f060a10> at <7475.875488, 120.734489, 6324.439453> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.132 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.132 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7475.88, 120.73, 6324.44>
+10:20:33.132 [BaseBuildingRaiding] They dealt 1.75269 * 50 = 87.6347 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 292.565 to 204.93
+10:20:33.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.132 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3e7dae30> at <7477.477539, 120.835846, 6327.781250> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.132 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.132 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.48, 120.84, 6327.78>
+10:20:33.132 [BaseBuildingRaiding] They dealt 1.47913 * 50 = 73.9567 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29926
+10:20:33.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.132 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce54750> at <7481.711426, 126.835983, 6328.113770> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.132 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.132 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7481.71, 126.84, 6328.11>
+10:20:33.136 [BaseBuildingRaiding] They dealt 1.37965 * 50 = 68.9827 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.136 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29931
+10:20:33.136 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.136 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec16990> at <7480.710938, 126.831505, 6340.803223> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.136 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.136 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7480.71, 126.83, 6340.8>
+10:20:33.136 [BaseBuildingRaiding] They dealt 0.658416 * 50 = 32.9208 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.136 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29967.1
+10:20:33.136 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:33.136 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40f901a0> at <7480.711426, 123.829224, 6340.803711> has been hit by explosive FlashGrenade<35ba70b0>
+10:20:33.136 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:33.136 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7480.71, 123.83, 6340.8>
+10:20:33.136 [BaseBuildingRaiding] They dealt 0.494598 * 50 = 24.7299 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:33.136 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29975.3
+10:20:33.136 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.812 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<425594b0> at <7477.146973, 126.831032, 6332.011230> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.812 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+10:20:45.812 [BaseBuildingRaiding] They dealt 4.94865 * 50 = 247.433 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29752.6
+10:20:45.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.812 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<42bf6e80> at <7479.095215, 126.831032, 6334.292480> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.812 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+10:20:45.812 [BaseBuildingRaiding] They dealt 4.91794 * 50 = 245.897 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29754.1
+10:20:45.816 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.816 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce7ead0> at <7481.376953, 126.831505, 6332.344238> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.816 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.816 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7481.38, 126.83, 6332.34>
+10:20:45.816 [BaseBuildingRaiding] They dealt 3.45353 * 50 = 172.676 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.816 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29827.3
+10:20:45.816 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.816 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3f0518d0> at <7476.815918, 126.837784, 6336.240723> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.816 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.816 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7476.82, 126.84, 6336.24>
+10:20:45.816 [BaseBuildingRaiding] They dealt 4.90997 * 50 = 245.498 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.816 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29871.7 to 29626.2
+10:20:45.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.820 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<4132f370> at <7479.095215, 123.833168, 6334.292480> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.820 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.820 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7479.1, 123.83, 6334.29>
+10:20:45.820 [BaseBuildingRaiding] They dealt 4.91454 * 50 = 245.727 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.820 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29754.3
+10:20:45.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.820 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3e7f9cc0> at <7481.376465, 123.832245, 6332.343750> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.820 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.820 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7481.38, 123.83, 6332.34>
+10:20:45.820 [BaseBuildingRaiding] They dealt 4.71762 * 50 = 235.881 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.820 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29764.1
+10:20:45.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.820 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce54750> at <7481.711426, 126.835983, 6328.113770> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.820 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.820 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7481.71, 126.84, 6328.11>
+10:20:45.820 [BaseBuildingRaiding] They dealt 4.67979 * 50 = 233.989 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.820 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29931 to 29697
+10:20:45.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.820 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec44960> at <7476.813965, 123.835030, 6336.240723> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.824 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7476.81, 123.84, 6336.24>
+10:20:45.824 [BaseBuildingRaiding] They dealt 4.57475 * 50 = 228.737 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.824 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29883.4 to 29654.7
+10:20:45.824 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.824 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec2c760> at <7477.144531, 120.836586, 6332.010742> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.824 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+10:20:45.824 [BaseBuildingRaiding] They dealt 4.15283 * 50 = 207.642 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.824 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29792.4
+10:20:45.824 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.824 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3e802d80> at <7482.992188, 126.831032, 6338.854980> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.824 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7482.99, 126.83, 6338.86>
+10:20:45.828 [BaseBuildingRaiding] They dealt 3.71308 * 50 = 185.654 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.828 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29814.3
+10:20:45.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.828 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<41346960> at <7485.273926, 126.831032, 6336.906738> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.828 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7485.27, 126.83, 6336.91>
+10:20:45.828 [BaseBuildingRaiding] They dealt 3.61343 * 50 = 180.671 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.828 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29819.3
+10:20:45.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.828 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ec16990> at <7480.710938, 126.831505, 6340.803223> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.828 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7480.71, 126.83, 6340.8>
+10:20:45.828 [BaseBuildingRaiding] They dealt 3.50656 * 50 = 175.328 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.828 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29967.1 to 29791.8
+10:20:45.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.828 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40fb5cc0> at <7480.378418, 126.831505, 6345.033203> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.828 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7480.38, 126.83, 6345.03>
+10:20:45.828 [BaseBuildingRaiding] They dealt 2.20545 * 50 = 110.273 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.828 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29889.7
+10:20:45.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.828 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40f88900> at <7489.503418, 123.827805, 6337.239258> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.832 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7489.5, 123.83, 6337.24>
+10:20:45.832 [BaseBuildingRaiding] They dealt 2.12899 * 50 = 106.449 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.832 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29893.6
+10:20:45.832 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:45.832 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<4131a1b0> at <7493.402344, 129.870087, 6341.825684> has been hit by explosive FlashGrenade<35b96750>
+10:20:45.832 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:20:45.832 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7493.4, 129.87, 6341.83>
+10:20:45.832 [BaseBuildingRaiding] They dealt 0.507411 * 50 = 25.3705 damage with FlashGrenade_Ammo from FlashGrenade
+10:20:45.832 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 274.629
+10:20:45.832 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.070 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<42bf1a10> at <7482.326660, 123.828751, 6347.314453> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.070 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7482.33, 123.83, 6347.31>
+10:21:01.070 [BaseBuildingRaiding] They dealt 5 * 50 = 250 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29750
+10:21:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.070 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce6bd40> at <7484.275391, 123.828751, 6349.595703> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.070 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7484.28, 123.83, 6349.6>
+10:21:01.070 [BaseBuildingRaiding] They dealt 5 * 50 = 250 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29750
+10:21:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.070 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3c8b9850> at <7480.378418, 120.825996, 6345.033203> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.070 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7480.38, 120.83, 6345.03>
+10:21:01.070 [BaseBuildingRaiding] They dealt 2.76175 * 50 = 138.087 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29083.7 to 28945.6
+10:21:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.074 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<40fb1460> at <7477.764160, 123.829224, 6351.211426> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.074 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.074 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7477.76, 123.83, 6351.21>
+10:21:01.074 [BaseBuildingRaiding] They dealt 4.93408 * 50 = 246.704 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.074 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29753.3
+10:21:01.074 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.074 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<4177c750> at <7475.815918, 120.826469, 6348.930176> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.074 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.074 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+10:21:01.074 [BaseBuildingRaiding] They dealt 2.57612 * 50 = 128.806 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.074 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29871.2
+10:21:01.074 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.078 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<41762120> at <7486.223633, 123.828751, 6351.876953> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.078 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7486.22, 123.83, 6351.88>
+10:21:01.078 [BaseBuildingRaiding] They dealt 4.68907 * 50 = 234.453 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29765.5
+10:21:01.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.078 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<40f919c0> at <7486.434082, 123.831505, 6352.123535> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.078 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7486.43, 123.83, 6352.12>
+10:21:01.078 [BaseBuildingRaiding] They dealt 4.60134 * 50 = 230.067 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29769.9
+10:21:01.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.078 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3ce60850> at <7481.660645, 123.829224, 6355.773438> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.078 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7481.66, 123.83, 6355.77>
+10:21:01.078 [BaseBuildingRaiding] They dealt 4.37387 * 50 = 218.694 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29781.3
+10:21:01.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.078 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3f551d00> at <7475.482910, 120.826942, 6353.159668> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.082 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.082 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+10:21:01.082 [BaseBuildingRaiding] They dealt 2.14278 * 50 = 107.139 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.082 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29892.9
+10:21:01.082 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.082 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<425351b0> at <7488.367188, 123.828423, 6349.444336> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.082 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.082 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7488.37, 123.83, 6349.44>
+10:21:01.082 [BaseBuildingRaiding] They dealt 4.21374 * 50 = 210.687 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.082 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29789.3
+10:21:01.082 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.082 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<42557c90> at <7483.942383, 126.831978, 6353.825195> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.082 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.082 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7483.94, 126.83, 6353.82>
+10:21:01.082 [BaseBuildingRaiding] They dealt 4.10432 * 50 = 205.216 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29794.8
+10:21:01.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.085 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<42be10b0> at <7480.519531, 126.992973, 6345.016602> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.085 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7480.52, 126.99, 6345.02>
+10:21:01.085 [BaseBuildingRaiding] They dealt 4.09459 * 50 = 204.73 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 95.2704
+10:21:01.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.085 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<40fb3890> at <7475.766602, 126.993454, 6349.076660> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.085 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7475.77, 126.99, 6349.08>
+10:21:01.085 [BaseBuildingRaiding] They dealt 3.83323 * 50 = 191.661 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 108.339
+10:21:01.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.085 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<40f89510> at <7488.171875, 123.828751, 6354.158203> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.085 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7488.17, 123.83, 6354.16>
+10:21:01.085 [BaseBuildingRaiding] They dealt 3.82614 * 50 = 191.307 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29808.7
+10:21:01.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.085 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3ce8c3f0> at <7486.889160, 123.828278, 6343.417480> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.085 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7486.89, 123.83, 6343.42>
+10:21:01.085 [BaseBuildingRaiding] They dealt 3.79452 * 50 = 189.726 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.089 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29810.3
+10:21:01.089 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.089 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3f534690> at <7484.940918, 120.825523, 6341.136230> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.089 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.089 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+10:21:01.089 [BaseBuildingRaiding] They dealt 1.95843 * 50 = 97.9214 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.089 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29986.3 to 29888.3
+10:21:01.089 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.089 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<4255e920> at <7488.504883, 126.831978, 6349.928711> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.089 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.089 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7488.5, 126.83, 6349.93>
+10:21:01.089 [BaseBuildingRaiding] They dealt 3.63025 * 50 = 181.512 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29818.5
+10:21:01.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.093 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3ec2d370> at <7490.120117, 123.828751, 6356.439453> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.093 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.093 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7490.12, 123.83, 6356.44>
+10:21:01.093 [BaseBuildingRaiding] They dealt 2.8949 * 50 = 144.745 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29855.3
+10:21:01.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.093 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<41324a90> at <7490.203613, 124.118279, 6342.916504> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.093 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.093 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7490.2, 124.12, 6342.92>
+10:21:01.093 [BaseBuildingRaiding] They dealt 2.89125 * 50 = 144.563 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29855.4
+10:21:01.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.093 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<42be6520> at <7492.054688, 123.828423, 6354.177246> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.093 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.097 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7492.06, 123.83, 6354.18>
+10:21:01.097 [BaseBuildingRaiding] They dealt 2.63216 * 50 = 131.608 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.097 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29868.4
+10:21:01.097 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.097 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3f085920> at <7485.557129, 123.829224, 6360.335938> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.097 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.097 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7485.56, 123.83, 6360.34>
+10:21:01.097 [BaseBuildingRaiding] They dealt 2.72056 * 50 = 136.028 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.097 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29864
+10:21:01.097 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.097 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3e802d80> at <7482.992188, 126.831032, 6338.854980> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.097 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.097 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7482.99, 126.83, 6338.86>
+10:21:01.097 [BaseBuildingRaiding] They dealt 2.55386 * 50 = 127.693 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.101 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29814.3 to 29686.7
+10:21:01.101 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.101 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3e7f0c00> at <7492.068848, 120.828835, 6358.720215> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.101 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7492.07, 120.83, 6358.72>
+10:21:01.101 [BaseBuildingRaiding] They dealt 1.0937 * 50 = 54.685 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.101 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29945.3
+10:21:01.101 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.101 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3ce6ed80> at <7491.451660, 123.828751, 6339.520508> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.101 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+10:21:01.105 [BaseBuildingRaiding] They dealt 1.88081 * 50 = 94.0406 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.105 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29906
+10:21:01.105 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:01.105 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ce674e0> at <7489.503418, 120.825050, 6337.239258> has been hit by explosive FlashGrenade<35b94320>
+10:21:01.105 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:01.105 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+10:21:01.105 [BaseBuildingRaiding] They dealt 0.946789 * 50 = 47.3395 damage with FlashGrenade_Ammo from FlashGrenade
+10:21:01.105 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29952.7
+10:21:01.105 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:50:33.007 [BaseRaiding] BF_DoorBarricade (<7498.440918, 124.298714, 6350.924316>) Damaged "player "London" (ID = "kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=" at <7497.072754, 124.345940, 6351.545898>)" by 10 health points. Reason: Failed to enter the correct code.
+10:50:33.007 [BaseRaiding] BF_DoorBarricade (<7498.440918, 124.298714, 6350.924316>) The correct code was 1110 and the player tried 1011
+10:58:50.984 [Safezone] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<6763.34, 102.7, 6068.42>) entered the safezone
+11:00:01.398 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:00:01.406 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:00:01.414 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

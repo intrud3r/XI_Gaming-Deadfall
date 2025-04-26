@@ -1,0 +1,82 @@
+11:02:14.851 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:03:20.859 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:03:58.765 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6672.83, 102.5, 6115.3>) entered the safezone
+11:03:58.765 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:05:15.496 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+11:05:50.882 [VehicleDeleted] ExpansionUAZ (id=FB4A5D029C4DDA6B39FCFDA81AA96940 pos=<5803.42, 243.78, 3890.86>)
+11:06:21.207 [MissionAirdrop] An airdrop is heading towards "Ontario" (pos=<6884.233398, 0.000000, 2921.709961> type=Random_Ontario) with a ExpansionAirdropContainer_Medical
+11:06:28.296 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle UAZ 469 Roofless (id=3068F2227648E65AE08A64AA053565A1 pos=<5786.46, 293.28, 3884.65>) as driver
+11:06:32.769 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle UAZ 469 Roofless (id=3068F2227648E65AE08A64AA053565A1 pos=<5786.457520, 293.283508, 3884.646973>)
+11:07:01.722 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle UAZ 469 Roofless (id=3068F2227648E65AE08A64AA053565A1 pos=<5752.119141, 294.365692, 4000.143799>)
+11:07:04.007 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle UAZ 469 Roofless (id=3068F2227648E65AE08A64AA053565A1 pos=<5752.12, 294.37, 4000.14>)
+11:07:13.136 [VehicleDeleted] ExpansionUAZRoofless (id=3068F2227648E65AE08A64AA053565A1 pos=<5752.12, 294.37, 4000.14>)
+11:08:26.816 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle M3S Covered (id=CA1E6474A94D2409DE1857B63FC85F67 pos=<5754.73, 294.33, 4004.34>) as driver
+11:08:31.503 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle M3S Covered (id=3380613E664A3B3477774DABBAAE5F1A pos=<5757.92, 294.29, 4004.43>) as driver
+11:08:33.546 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle M3S Covered (id=CA1E6474A94D2409DE1857B63FC85F67 pos=<5754.726563, 294.327637, 4004.334473>)
+11:08:34.410 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] started vehicle M3S Covered (id=3380613E664A3B3477774DABBAAE5F1A pos=<5757.916016, 294.289368, 4004.429688>)
+11:11:40.417 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] stopped vehicle M3S Covered (id=3380613E664A3B3477774DABBAAE5F1A pos=<5540.675781, 279.089233, 5032.673828>)
+11:11:44.843 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle M3S Covered (id=3380613E664A3B3477774DABBAAE5F1A pos=<5541.02, 279.01, 5032.59>)
+11:11:48.320 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle M3S Covered (id=CA1E6474A94D2409DE1857B63FC85F67 pos=<5542.937012, 279.106293, 5039.064941>)
+11:11:49.285 [VehicleDeleted] Truck_01_Covered_White (id=3380613E664A3B3477774DABBAAE5F1A pos=<5541.09, 279, 5032.57>)
+11:11:52.511 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle M3S Covered (id=CA1E6474A94D2409DE1857B63FC85F67 pos=<5543.26, 279.03, 5038.91>)
+11:11:53.046 [VehicleDeleted] Truck_01_Covered_Orange (id=CA1E6474A94D2409DE1857B63FC85F67 pos=<5543.29, 279.02, 5038.9>)
+11:12:41.937 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Gyrocopter (id=5B4E64550340C11E7BC4158DFF811311 pos=<5537.47, 280.05, 5035.78>) as pilot
+11:12:44.406 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] started vehicle Gyrocopter (id=5B4E64550340C11E7BC4158DFF811311 pos=<5537.492188, 280.050507, 5035.798828>)
+11:12:45.613 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5540.95, 279.45, 5037.09>) as pilot
+11:12:55.011 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5540.952148, 279.450470, 5037.093262>)
+11:13:04.726 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] stopped vehicle Gyrocopter (id=5B4E64550340C11E7BC4158DFF811311 pos=<5450.074707, 303.719574, 5119.323730>)
+11:13:08.710 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Gyrocopter (id=5B4E64550340C11E7BC4158DFF811311 pos=<5449.96, 303.76, 5119.62>)
+11:13:14.628 [VehicleDeleted] ExpansionGyrocopter (id=5B4E64550340C11E7BC4158DFF811311 pos=<5449.96, 303.76, 5119.62>)
+11:13:51.656 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Mh-6 Little Bird (id=B2D44851AE430C338A133F92DA511FCF pos=<5437.99, 308.88, 5154.66>) as pilot
+11:14:00.160 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5424.423828, 312.212860, 5164.740723>)
+11:14:02.027 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] started vehicle Mh-6 Little Bird (id=B2D44851AE430C338A133F92DA511FCF pos=<5438.048340, 308.859253, 5154.583496>)
+11:14:02.843 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5424.44, 312.2, 5164.75>)
+11:15:07.648 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5424.84, 312.17, 5165.24>) as pilot
+11:15:10.296 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<5424.848145, 312.169495, 5165.241699>)
+11:17:55.105 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Mh-6 Little Bird (id=B2D44851AE430C338A133F92DA511FCF pos=<3935.07, 200.75, 1947.86>)
+11:18:08.550 [VehicleDestroyed] ExpansionMh6 (id=B2D44851AE430C338A133F92DA511FCF pos=<3882.51, 116.97, 1770.3>)
+11:18:34.968 [VehicleDeleted] ExpansionMh6 (id=B2D44851AE430C338A133F92DA511FCF pos=<3883.23, 116.86, 1768.87>)
+11:18:35.167 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<3815.987305, 119.664665, 1885.045654>)
+11:18:40.125 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<3813.3, 117.74, 1885.51>)
+11:18:49.125 [VehicleDeleted] ExpansionGyrocopter (id=BEA1795AE24CB06DCA8D66ACFABE7999 pos=<3813.3, 117.74, 1885.51>)
+11:19:06.726 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3807.54, 117.41, 1887.76>) as pilot
+11:19:16.425 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3807.586426, 117.405190, 1887.793701>)
+11:21:24.246 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<4801.058105, 338.821350, 4124.707520>)
+11:21:29.683 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<4801.06, 338.82, 4124.71>)
+11:21:53.171 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Vodnik (id=D5A0280FD84D47DF4AAB3792B1740147 pos=<3724.87, 117.93, 1930.4>) as driver
+11:22:08.687 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] started vehicle Vodnik (id=D5A0280FD84D47DF4AAB3792B1740147 pos=<3724.867432, 117.926453, 1930.395508>)
+11:23:40.753 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<4801.09, 338.82, 4124.66>) as pilot
+11:23:45.968 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<4801.093750, 338.820801, 4124.658203>)
+11:26:19.996 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3918.643066, 166.236816, 5789.663086>)
+11:26:22.855 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3918.64, 166.24, 5789.66>)
+11:28:44.828 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] stopped vehicle Vodnik (id=D5A0280FD84D47DF4AAB3792B1740147 pos=<1545.989868, 118.030678, 4812.472168>)
+11:29:20.050 [VehicleDeleted] ExpansionVodnik (id=D5A0280FD84D47DF4AAB3792B1740147 pos=<1550.56, 114.54, 4823.62>)
+11:38:18.296 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3918.66, 166.24, 5789.5>) as pilot
+11:38:20.117 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<3918.656250, 166.235947, 5789.502441>)
+11:40:58.078 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<7464.26, 120.79, 6355.58>)
+11:42:57.253 [Territory] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7498.127441, 124.350441, 6349.157227>) was invited to join the territory uwu at <7497.675781, 121.551865, 6350.663086> by the player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=)
+11:48:58.593 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:05:20.332 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:15:33.253 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:15:33.253 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7484.53, 120.77, 6336.68>) damaged ExpansionBarbedWire at <7478.19, 120.74, 6327.25>
+12:15:33.253 [BaseBuildingRaiding] They dealt 3.73697 * 1 = 3.73697 damage with Bullet_556x45 from PNC_W_AUGA3
+12:15:33.253 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 296.263
+12:15:33.253 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:15:33.402 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:15:33.402 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7484.53, 120.77, 6336.68>) damaged ExpansionBarbedWire at <7475.88, 120.73, 6324.44>
+12:15:33.402 [BaseBuildingRaiding] They dealt 3.71824 * 1 = 3.71824 damage with Bullet_556x45 from PNC_W_AUGA3
+12:15:33.402 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 296.282
+12:15:33.402 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:15:33.437 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:15:33.437 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7484.53, 120.77, 6336.68>) damaged ExpansionBarbedWire at <7475.88, 120.73, 6324.44>
+12:15:33.437 [BaseBuildingRaiding] They dealt 3.71718 * 1 = 3.71718 damage with Bullet_556x45 from PNC_W_AUGA3
+12:15:33.437 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 296.282 to 292.565
+12:15:33.437 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:18:17.464 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:20:23.324 [VehicleDeleted] ExpansionBigGyrocopter (id=7851220380483EA86766F08773BD9FCC pos=<7464.26, 120.79, 6355.58>)
+12:32:26.222 [MissionAirdrop] An airdrop is heading towards "Mohawk" (pos=<7978.891113, 0.000000, 7093.604004> type=Random_Mohawk) with a ExpansionAirdropContainer_Medical
+12:42:11.617 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:51:36.187 [Killfeed] Brewce got killed by an Infected.
+12:53:57.144 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6674.14, 109.79, 6107.93>) entered the safezone
+12:55:27.546 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:58:42.277 [MissionAirdrop] An airdrop is heading towards "Erie" (pos=<723.437744, 0.000000, 8062.600098> type=Random_Erie) with a ExpansionAirdropContainer_Medical

@@ -1,0 +1,41 @@
+---------------------------------------------
+ServerPanel log started at 30.03.2025 10:01:02
+
+30.03.2025 10:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+30.03.2025 10:01:02 [ServerPanelConfig]: Reading Server Config
+30.03.2025 10:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+30.03.2025 10:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+30.03.2025 10:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+30.03.2025 10:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+30.03.2025 10:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+30.03.2025 10:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+30.03.2025 10:01:32 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync
+30.03.2025 10:51:25 [ServerPanelConfigRPC]: DieselschluckerGomez (exNEjakyVFZjgAa5eNfrPxoWq2montLOe5s_QoBH94s=) - Config sync
+30.03.2025 10:54:47 [ServerPanelConfigRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+30.03.2025 10:55:46 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 10:55:46 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 10:55:58 [ServerPanelConfigRPC]: Left Hand (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+30.03.2025 11:01:44 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:01:44 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:01:49 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:01:49 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:01:50 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:01:50 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:01:51 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:01:51 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:03:04 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:03:04 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:03:05 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:03:05 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:03:57 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:03:57 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:10:36 [ServerPanelConfigRPC]: Left Hand (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+30.03.2025 11:11:56 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:11:56 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:12:18 [ServerPanelConfigRPC]: Left Hand (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+30.03.2025 11:21:48 [ServerPanelConfigRPC]: Toroknyaszainto (tNHP1HUq0k1mzI9-zqrggCKzjfezxkzZKvQCnRVypn8=) - Config sync
+30.03.2025 11:23:50 [ServerPanelConfigRPC]: Toroknyaszainto (tNHP1HUq0k1mzI9-zqrggCKzjfezxkzZKvQCnRVypn8=) - Config sync
+30.03.2025 11:26:46 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync
+30.03.2025 11:30:01 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 11:30:01 [ServerPanelStatsRPC]: Right Hand (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 11:53:18 [ServerPanelConfigRPC]: Left Hand (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync

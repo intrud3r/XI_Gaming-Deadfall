@@ -1,0 +1,882 @@
+22:01:36.148 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:02:01.156 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:02:12.507 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:02:45.453 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6700.47, 102.85, 6070.74>) entered the safezone
+22:02:46.328 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6701.03, 102.83, 6072.14>) entered the safezone
+22:02:46.679 [Safezone] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<6700.37, 102.83, 6071.63>) entered the safezone
+22:05:12.585 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has withdrawn 1000 from his ATM account.
+22:05:32.851 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (6d7bd1e0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+22:05:33.429 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (6d7b52b0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+22:05:34.898 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (6d7b69d0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+22:06:19.039 [MissionAirdrop] An airdrop is heading towards "Oneida" (pos=<2112.001953, 0.000000, 6058.072266> type=Random_Oneida) with a ExpansionAirdropContainer_Military
+22:06:36.882 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought weaponcleaningkit x1 (5a465d00) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+22:07:25.953 [ATM] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has withdrawn 1000 from his ATM account.
+22:08:05.078 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has bought huntingoptic x1 (3d982f00) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1000.
+22:08:21.109 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has sold huntingoptic x1 (3d982f00) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 750.
+22:08:23.031 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought smallgascanister x1 (5601af90) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 80.
+22:08:47.609 [ATM] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has withdrawn 5000 from his ATM account.
+22:09:13.726 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has bought expansion_pmii25optic x1 (3a69fd80) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1100.
+22:09:26.250 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has bought pso11optic x1 (3de80eb0, Battery9V<56043710>) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1410.
+22:09:41.773 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has bought acogoptic_6x x1 (3ca6d230) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1200.
+22:09:59.671 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has sold pso11optic x1 (3de80eb0, Battery9V<56043710>) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1057.
+22:10:00.796 [Market] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has sold expansion_pmii25optic x1 (3a69fd80) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 825.
+22:10:24.093 [ATM] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) has deposited 3922 on his ATM account.
+22:10:51.937 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has deposited 888 on his ATM account.
+22:13:55.343 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has withdrawn 20 from his ATM account.
+22:14:15.625 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought charcoaltablets x1 (4432b270) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+22:14:17.117 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought charcoaltablets x1 (473f80e0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+22:14:20.890 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought bloodtestkit x1 (9bc4a250) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+22:15:01.335 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has deposited 11 on his ATM account.
+22:19:48.656 [Killfeed] [uwu] Donnie Deeks got killed.
+22:20:17.359 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:20:39.273 [Killfeed] [uwu] Donnie Deeks commited suicide with Bone Knife.
+22:20:48.828 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:21:10.164 [Safezone] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<6682.9, 102.58, 6080.1>) entered the safezone
+22:22:18.507 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:22:28.132 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:23:10.367 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:23:25.023 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6671.78, 120.5, 6016.49>) entered the safezone
+22:23:35.093 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:23:45.093 [Safezone] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<6672.62, 120.4, 6016.03>) entered the safezone
+22:26:54.656 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:26:57.390 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:26:57.671 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:35:25.375 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6753.68, 104.04, 6056.19>) entered the safezone
+22:35:39.585 [ATM] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has withdrawn 100734 from his ATM account.
+22:36:05.765 [Market] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has bought pnc_mag_honeybadger_coupled_60rnd x2 (3bf67e00) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 500.
+22:36:44.453 [Market] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has bought ammobox_300aac_ap_20rnd x30 (28e0c8a0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1920.
+22:37:00.203 [Market] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has bought leathersewingkit x4 (37304970) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+22:37:03.093 [Market] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has bought weaponcleaningkit x3 (372fe160) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 24.
+22:37:29.125 [ATM] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has deposited 98270 on his ATM account.
+22:37:51.257 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:55:45.234 [BaseRaiding] ExpansionSafeLarge (<7501.101074, 122.308746, 6349.743652>) Damaged "player "London" (ID = "kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=" at <7499.758301, 121.592026, 6348.513184>)" by 10 health points. Reason: Failed to enter the correct code.
+22:55:45.234 [BaseRaiding] ExpansionSafeLarge (<7501.101074, 122.308746, 6349.743652>) The correct code was 0617 and the player tried 1011
+22:57:24.632 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:58:25.210 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:59:32.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:59:32.781 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7496.81, 124.35, 6351.78>) damaged BF_DoorBarricade at <7498.33, 124.3, 6351.87>
+22:59:32.781 [BaseBuildingRaiding] They dealt 9.75 * 1 = 9.75 damage with MeleeFist_Heavy from SurvivorM_Francis
+22:59:32.781 [BaseBuildingRaiding] E_Outer_Upper_Plate hitpoints decreased from 15750 to 15740.3
+22:59:32.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:59:38.757 [BaseRaiding] BF_DoorBarricade (<7497.112305, 124.298866, 6350.866211>) Damaged "player "Donnie Deeks" (ID = "GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=" at <7497.164551, 124.345932, 6351.631348>)" by 10 health points. Reason: Failed to enter the correct code.
+22:59:38.757 [BaseRaiding] BF_DoorBarricade (<7497.112305, 124.298866, 6350.866211>) The correct code was 1011 and the player tried 1110
+23:00:16.671 [Territory] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.362305, 121.592010, 6346.413086>) was invited to join the territory uwu at <7497.675781, 121.551865, 6350.663086> by the player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=)
+23:03:18.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:03:18.078 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.28, 121.59, 6346.86>) damaged ExpansionStairS1_5x3x3 at <7491.7, 120.83, 6339.31>
+23:03:18.078 [BaseBuildingRaiding] They dealt 106.582 * 1 = 106.582 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:03:18.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29893.4
+23:03:18.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:03:18.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:03:18.257 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.28, 121.59, 6346.86>) damaged ExpansionStairS1_5x3x3 at <7491.7, 120.83, 6339.31>
+23:03:18.257 [BaseBuildingRaiding] They dealt 106.584 * 1 = 106.584 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:03:18.257 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29893.4 to 29786.8
+23:03:18.257 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:03:18.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:03:18.406 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.28, 121.59, 6346.86>) damaged ExpansionStairS1_5x3x3 at <7491.7, 120.83, 6339.31>
+23:03:18.406 [BaseBuildingRaiding] They dealt 106.575 * 1 = 106.575 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:03:18.406 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29786.8 to 29680.3
+23:03:18.406 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:03:18.570 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:03:18.570 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.28, 121.59, 6346.86>) damaged ExpansionStairS1_5x3x3 at <7491.7, 120.83, 6339.31>
+23:03:18.570 [BaseBuildingRaiding] They dealt 106.575 * 1 = 106.575 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:03:18.570 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29680.3 to 29573.7
+23:03:18.570 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:03:18.703 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:03:18.703 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.28, 121.59, 6346.86>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:03:18.703 [BaseBuildingRaiding] They dealt 3.22982 * 1 = 3.22982 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:03:18.703 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29952.7 to 29949.4
+23:03:18.703 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.335 [BaseBuildingRaiding] BaseRaiding: BF_DoorBarricade<452af320> at <7494.888672, 121.551865, 6347.253418> has been hit by explosive FlashGrenade<3ff811c0>
+23:05:04.335 [BaseBuildingRaiding] BaseRaiding: BF_DoubleDoorBarricade<3fb82430> at <7492.977539, 121.757774, 6348.627930> has been hit by explosive FlashGrenade<3ff811c0>
+23:05:04.335 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<41d601c0> at <7493.316406, 121.592018, 6344.924316> has been hit by explosive FlashGrenade<3ff811c0>
+23:05:04.335 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.335 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7493.32, 121.59, 6344.92>
+23:05:04.335 [BaseBuildingRaiding] They dealt 4.4158 * 50 = 220.79 damage with FlashGrenade_Ammo from FlashGrenade
+23:05:04.335 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29779.2
+23:05:04.335 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.343 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<3fb55070> at <7491.451660, 123.828751, 6339.520508> has been hit by explosive FlashGrenade<3ff811c0>
+23:05:04.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.343 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:05:04.343 [BaseBuildingRaiding] They dealt 3.89612 * 50 = 194.806 damage with FlashGrenade_Ammo from FlashGrenade
+23:05:04.343 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29906 to 29711.2
+23:05:04.343 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.828 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.72, 124.3, 6351.18>) damaged BF_DoubleDoorBarricade at <7497.12, 124.39, 6352.8>
+23:05:04.828 [BaseBuildingRaiding] They dealt 107.323 * 1 = 107.323 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:05:04.828 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15750 to 15642.7
+23:05:04.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.828 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.828 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.72, 124.3, 6351.18>) damaged BF_DoubleDoorBarricade at <7497.12, 124.39, 6352.8>
+23:05:04.828 [BaseBuildingRaiding] They dealt 107.323 * 1 = 107.323 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:05:04.828 [BaseBuildingRaiding] D_RIGHT_FINAL_PLANKS hitpoints decreased from 12000 to 11892.7
+23:05:04.828 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.867 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.867 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.74, 124.33, 6351.24>) damaged BF_DoubleDoorBarricade at <7497.12, 124.39, 6352.8>
+23:05:04.867 [BaseBuildingRaiding] They dealt 107.273 * 1 = 107.273 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:05:04.867 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15642.7 to 15535.4
+23:05:04.867 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:04.867 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:05:04.867 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7494.74, 124.33, 6351.24>) damaged BF_DoubleDoorBarricade at <7497.12, 124.39, 6352.8>
+23:05:04.867 [BaseBuildingRaiding] They dealt 107.273 * 1 = 107.273 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:05:04.875 [BaseBuildingRaiding] D_RIGHT_FINAL_PLANKS hitpoints decreased from 11892.7 to 11785.4
+23:05:04.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:05:40.015 [BaseRaiding] BF_DoorBarricade (<7494.888672, 121.551865, 6347.253418>) Damaged "player "Donnie Deeks" (ID = "GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=" at <7494.736816, 121.591995, 6346.782715>)" by 10 health points. Reason: Failed to enter the correct code.
+23:05:40.015 [BaseRaiding] BF_DoorBarricade (<7494.888672, 121.551865, 6347.253418>) The correct code was 1011 and the player tried 1110
+23:06:35.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.406 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.48, 124.1, 6344.98>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.406 [BaseBuildingRaiding] They dealt 31.9589 * 1 = 31.9589 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.406 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29968
+23:06:35.406 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:35.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.406 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.48, 124.1, 6344.98>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.406 [BaseBuildingRaiding] They dealt 31.9632 * 1 = 31.9632 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.406 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29968 to 29936.1
+23:06:35.414 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:35.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.953 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.34, 124.1, 6345.07>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.953 [BaseBuildingRaiding] They dealt 32.2099 * 1 = 32.2099 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29936.1 to 29903.9
+23:06:35.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:35.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.953 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.34, 124.1, 6345.07>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.953 [BaseBuildingRaiding] They dealt 15.7234 * 1 = 15.7234 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29903.9 to 29888.1
+23:06:35.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:35.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.953 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.34, 124.1, 6345.07>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.953 [BaseBuildingRaiding] They dealt 32.212 * 1 = 32.212 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29888.1 to 29855.9
+23:06:35.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:35.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:35.953 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.34, 124.1, 6345.07>) damaged ExpansionWall6x3 at <7494.83, 123.87, 6356.37>
+23:06:35.953 [BaseBuildingRaiding] They dealt 32.2085 * 1 = 32.2085 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:35.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29855.9 to 29823.7
+23:06:35.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.710 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.710 [BaseBuildingRaiding] They dealt 32.1866 * 1 = 32.1866 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29967.8
+23:06:38.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.710 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.710 [BaseBuildingRaiding] They dealt 32.2034 * 1 = 32.2034 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29967.8 to 29935.6
+23:06:38.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.710 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.710 [BaseBuildingRaiding] They dealt 32.1898 * 1 = 32.1898 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29935.6 to 29903.4
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.718 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.718 [BaseBuildingRaiding] They dealt 32.2018 * 1 = 32.2018 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29903.4 to 29871.2
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.718 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.718 [BaseBuildingRaiding] They dealt 32.2235 * 1 = 32.2235 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29871.2 to 29839
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.718 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.718 [BaseBuildingRaiding] They dealt 32.2065 * 1 = 32.2065 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29839 to 29806.8
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.718 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.718 [BaseBuildingRaiding] They dealt 32.1868 * 1 = 32.1868 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29806.8 to 29774.6
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:38.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:38.718 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.15, 124.08, 6352.21>) damaged ExpansionWall6x3 at <7483.28, 123.83, 6362.28>
+23:06:38.718 [BaseBuildingRaiding] They dealt 32.1913 * 1 = 32.1913 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:38.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29774.6 to 29742.4
+23:06:38.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.062 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.062 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.88, 124.08, 6349.05>) damaged ExpansionWall6x3 at <7484.28, 123.83, 6349.6>
+23:06:40.062 [BaseBuildingRaiding] They dealt 33.3903 * 1 = 33.3903 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.062 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29750 to 29716.6
+23:06:40.062 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.101 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.101 [BaseBuildingRaiding] They dealt 31.642 * 1 = 31.642 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.101 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29892.9 to 29861.2
+23:06:40.101 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.101 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.101 [BaseBuildingRaiding] They dealt 31.5979 * 1 = 31.5979 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.101 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29861.2 to 29829.6
+23:06:40.101 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.101 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.101 [BaseBuildingRaiding] They dealt 31.6257 * 1 = 31.6257 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.101 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29829.6 to 29798
+23:06:40.101 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.101 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.109 [BaseBuildingRaiding] They dealt 31.6512 * 1 = 31.6512 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29798 to 29766.3
+23:06:40.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.109 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.109 [BaseBuildingRaiding] They dealt 31.5743 * 1 = 31.5743 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29766.3 to 29734.8
+23:06:40.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.109 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.109 [BaseBuildingRaiding] They dealt 31.6336 * 1 = 31.6336 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29734.8 to 29703.1
+23:06:40.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.109 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.84, 124.08, 6349.01>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:06:40.109 [BaseBuildingRaiding] They dealt 31.5912 * 1 = 31.5912 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29703.1 to 29671.5
+23:06:40.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.578 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.578 [BaseBuildingRaiding] They dealt 32.2282 * 1 = 32.2282 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29871.2 to 29839
+23:06:40.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.578 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.578 [BaseBuildingRaiding] They dealt 12.0368 * 1 = 12.0368 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29839 to 29826.9
+23:06:40.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.578 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.578 [BaseBuildingRaiding] They dealt 32.1261 * 1 = 32.1261 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29826.9 to 29794.8
+23:06:40.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.2183 * 1 = 32.2183 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29794.8 to 29762.6
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.0998 * 1 = 32.0998 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29762.6 to 29730.5
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.1604 * 1 = 32.1604 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29730.5 to 29698.3
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.1411 * 1 = 32.1411 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29698.3 to 29666.2
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.2308 * 1 = 32.2308 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29666.2 to 29634
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:06:40.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:06:40.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7490.14, 124.08, 6348.35>) damaged ExpansionWall6x3 at <7475.82, 120.83, 6348.93>
+23:06:40.585 [BaseBuildingRaiding] They dealt 32.1002 * 1 = 32.1002 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:06:40.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29634 to 29601.9
+23:06:40.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.273 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.273 [BaseBuildingRaiding] They dealt 33.1466 * 1 = 33.1466 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29888.3 to 29855.2
+23:07:21.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.273 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.273 [BaseBuildingRaiding] They dealt 33.1423 * 1 = 33.1423 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29855.2 to 29822.1
+23:07:21.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.273 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.273 [BaseBuildingRaiding] They dealt 33.1647 * 1 = 33.1647 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29822.1 to 29788.9
+23:07:21.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.273 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.281 [BaseBuildingRaiding] They dealt 33.1916 * 1 = 33.1916 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29788.9 to 29755.7
+23:07:21.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.281 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.281 [BaseBuildingRaiding] They dealt 33.175 * 1 = 33.175 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29755.7 to 29722.5
+23:07:21.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.281 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.281 [BaseBuildingRaiding] They dealt 33.1664 * 1 = 33.1664 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29722.5 to 29689.4
+23:07:21.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.281 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.281 [BaseBuildingRaiding] They dealt 33.1468 * 1 = 33.1468 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29689.4 to 29656.2
+23:07:21.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:21.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:21.281 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7491.13, 124.11, 6344.76>) damaged ExpansionWall6x3 at <7484.94, 120.83, 6341.14>
+23:07:21.281 [BaseBuildingRaiding] They dealt 33.144 * 1 = 33.144 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:21.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29656.2 to 29623.1
+23:07:21.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.0989 * 1 = 34.0989 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29711.2 to 29677.1
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.1018 * 1 = 34.1018 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29677.1 to 29643
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.0989 * 1 = 34.0989 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29643 to 29608.9
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.1042 * 1 = 34.1042 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29608.9 to 29574.7
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.1074 * 1 = 34.1074 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29574.7 to 29540.6
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.0945 * 1 = 34.0945 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29540.6 to 29506.5
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.0992 * 1 = 34.0992 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29506.5 to 29472.4
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:24.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:24.882 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7492.13, 124.07, 6339.68>) damaged ExpansionFloor6x6 at <7491.45, 123.83, 6339.52>
+23:07:24.882 [BaseBuildingRaiding] They dealt 34.0891 * 1 = 34.0891 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:24.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29472.4 to 29438.4
+23:07:24.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.656 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.656 [BaseBuildingRaiding] They dealt 33.8465 * 1 = 33.8465 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.656 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15750 to 15716.2
+23:07:40.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.656 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.656 [BaseBuildingRaiding] They dealt 33.8484 * 1 = 33.8484 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.656 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15716.2 to 15682.3
+23:07:40.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.656 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.656 [BaseBuildingRaiding] They dealt 33.8499 * 1 = 33.8499 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.656 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15682.3 to 15648.5
+23:07:40.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.656 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.656 [BaseBuildingRaiding] They dealt 33.8482 * 1 = 33.8482 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.656 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15648.5 to 15614.6
+23:07:40.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.656 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.656 [BaseBuildingRaiding] They dealt 33.8503 * 1 = 33.8503 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.664 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15614.6 to 15580.8
+23:07:40.664 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.664 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.664 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.664 [BaseBuildingRaiding] They dealt 33.8469 * 1 = 33.8469 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.664 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15580.8 to 15546.9
+23:07:40.664 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:07:40.664 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:07:40.664 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7493.76, 123.12, 6350.03>) damaged BF_DoubleDoorBarricade at <7496.38, 124.3, 6353.34>
+23:07:40.664 [BaseBuildingRaiding] They dealt 33.8446 * 1 = 33.8446 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:07:40.664 [BaseBuildingRaiding] E_RIGHT_OUTER_PLATE hitpoints decreased from 15546.9 to 15513.1
+23:07:40.664 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:02.187 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:02.187 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.98, 120.76, 6340.32>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:15:02.187 [BaseBuildingRaiding] They dealt 107.224 * 1 = 107.224 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:02.187 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29949.4 to 29842.2
+23:15:02.187 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:06.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:06.250 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.63, 120.77, 6336.58>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:15:06.250 [BaseBuildingRaiding] They dealt 107.163 * 1 = 107.163 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:06.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29842.2 to 29735
+23:15:06.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.390 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.390 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:47.390 [BaseBuildingRaiding] They dealt 106.394 * 1 = 106.394 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.390 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29754.1 to 29647.7
+23:15:47.390 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.500 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.500 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:47.500 [BaseBuildingRaiding] They dealt 106.652 * 1 = 106.652 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.500 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29647.7 to 29541.1
+23:15:47.507 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.507 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.507 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:47.507 [BaseBuildingRaiding] They dealt 104.078 * 1 = 104.078 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.507 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29541.1 to 29437
+23:15:47.507 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.632 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.632 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:47.632 [BaseBuildingRaiding] They dealt 106.755 * 1 = 106.755 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.632 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29437 to 29330.2
+23:15:47.632 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.632 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.632 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:47.632 [BaseBuildingRaiding] They dealt 61.9778 * 1 = 61.9778 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.632 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29752.6 to 29690.6
+23:15:47.632 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.695 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.695 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:47.695 [BaseBuildingRaiding] They dealt 106.35 * 1 = 106.35 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.695 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29690.6 to 29584.2
+23:15:47.695 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.921 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.921 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:47.921 [BaseBuildingRaiding] They dealt 106.342 * 1 = 106.342 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.921 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29584.2 to 29477.9
+23:15:47.921 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:47.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:47.945 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.6, 124.08, 6340.9>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:47.945 [BaseBuildingRaiding] They dealt 106.354 * 1 = 106.354 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:47.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29477.9 to 29371.5
+23:15:47.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.062 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.062 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.62, 124.08, 6340.92>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:48.062 [BaseBuildingRaiding] They dealt 106.344 * 1 = 106.344 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.062 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29371.5 to 29265.2
+23:15:48.062 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.093 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.093 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.64, 124.08, 6340.93>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:48.093 [BaseBuildingRaiding] They dealt 106.713 * 1 = 106.713 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29330.2 to 29223.5
+23:15:48.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.195 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.195 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.67, 124.08, 6340.97>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:48.195 [BaseBuildingRaiding] They dealt 106.675 * 1 = 106.675 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.195 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29223.5 to 29116.8
+23:15:48.195 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.296 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.296 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.7, 124.08, 6341>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:48.296 [BaseBuildingRaiding] They dealt 106.666 * 1 = 106.666 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.296 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29116.8 to 29010.2
+23:15:48.296 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.437 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.437 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.76, 124.08, 6341.06>) damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:15:48.437 [BaseBuildingRaiding] They dealt 106.277 * 1 = 106.277 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.437 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29265.2 to 29158.9
+23:15:48.437 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.515 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.515 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.78, 124.08, 6341.09>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:48.515 [BaseBuildingRaiding] They dealt 106.647 * 1 = 106.647 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.515 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29010.2 to 28903.5
+23:15:48.515 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:15:48.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:15:48.585 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.8, 124.09, 6341.11>) damaged ExpansionFloor6x6 at <7479.1, 126.83, 6334.29>
+23:15:48.585 [BaseBuildingRaiding] They dealt 106.655 * 1 = 106.655 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:15:48.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28903.5 to 28796.9
+23:15:48.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.148 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<4432e2b0> at <7471.523438, 120.737129, 6327.796875> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.148 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7471.52, 120.74, 6327.8>
+23:17:28.148 [BaseBuildingRaiding] They dealt 34.3731 * 50 = 1718.66 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 130.212 to 0
+23:17:28.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.148 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<443160b0> at <7473.248047, 120.838509, 6327.448730> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.148 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7473.25, 120.84, 6327.45>
+23:17:28.148 [BaseBuildingRaiding] They dealt 22.5026 * 50 = 1125.13 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29873.1 to 28748
+23:17:28.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.148 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<402c1f00> at <7472.915039, 120.839188, 6331.678223> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7472.92, 120.84, 6331.68>
+23:17:28.156 [BaseBuildingRaiding] They dealt 18.268 * 50 = 913.398 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29862.6 to 28949.2
+23:17:28.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.156 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<42343b10> at <7472.305176, 120.739998, 6332.261230> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7472.3, 120.74, 6332.26>
+23:17:28.156 [BaseBuildingRaiding] They dealt 21.5935 * 50 = 1079.67 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 139.546 to 0
+23:17:28.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.156 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<435e0d40> at <7475.196289, 120.837044, 6329.729980> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7475.2, 120.84, 6329.73>
+23:17:28.156 [BaseBuildingRaiding] They dealt 15.4792 * 50 = 773.96 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29226
+23:17:28.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.156 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<435d6460> at <7475.406738, 120.835938, 6329.976074> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7475.41, 120.84, 6329.98>
+23:17:28.156 [BaseBuildingRaiding] They dealt 14.5896 * 50 = 729.481 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29270.5
+23:17:28.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.156 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<452a01e0> at <7475.875488, 120.734489, 6324.439453> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7475.88, 120.73, 6324.44>
+23:17:28.156 [BaseBuildingRaiding] They dealt 14.3962 * 50 = 719.811 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 204.93 to 0
+23:17:28.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.156 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<3ff677a0> at <7477.477539, 120.835846, 6327.781250> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.156 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.48, 120.84, 6327.78>
+23:17:28.156 [BaseBuildingRaiding] They dealt 9.21186 * 50 = 460.593 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29926 to 29465.4
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.164 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<41d58920> at <7477.144531, 120.836586, 6332.010742> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.164 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:17:28.164 [BaseBuildingRaiding] They dealt 6.94403 * 50 = 347.201 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29792.4 to 29445.2
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.164 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<43f82520> at <7477.160645, 126.841141, 6325.096191> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.164 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7477.16, 126.84, 6325.1>
+23:17:28.164 [BaseBuildingRaiding] They dealt 6.62689 * 50 = 331.344 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29668.7
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.164 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<443190f0> at <7477.146973, 126.831032, 6332.011230> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.164 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.15, 126.83, 6332.01>
+23:17:28.164 [BaseBuildingRaiding] They dealt 3.28244 * 50 = 164.122 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29158.9 to 28994.8
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.164 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<402a3070> at <7475.202637, 129.842545, 6329.729492> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.164 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7475.2, 129.84, 6329.73>
+23:17:28.164 [BaseBuildingRaiding] They dealt 3.14632 * 50 = 157.316 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29822.4 to 29665.1
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:17:28.164 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<41d44370> at <7477.814453, 126.838104, 6323.552246> has been hit by explosive RGD5Grenade<452b2f70>
+23:17:28.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:28.164 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7477.81, 126.84, 6323.55>
+23:17:28.164 [BaseBuildingRaiding] They dealt 1.29422 * 50 = 64.7108 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:17:28.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29892.7 to 29828
+23:17:28.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:18:21.937 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<46d557e0> at <7485.533691, 121.015709, 6296.272461> has been hit by explosive RGD5Grenade<452adb00>
+23:18:21.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:18:21.937 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7485.53, 121.02, 6296.27>
+23:18:21.945 [BaseBuildingRaiding] They dealt 20.3548 * 50 = 1017.74 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:18:21.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 0
+23:18:21.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:18:21.945 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<45cef750> at <7491.725586, 121.239403, 6299.272461> has been hit by explosive RGD5Grenade<452adb00>
+23:18:21.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:18:21.945 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7491.73, 121.24, 6299.27>
+23:18:21.945 [BaseBuildingRaiding] They dealt 15.8363 * 50 = 791.816 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:18:21.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 0
+23:18:21.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:18:21.945 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<3af299e0> at <7485.660645, 120.922173, 6301.937988> has been hit by explosive RGD5Grenade<452adb00>
+23:18:21.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:18:21.945 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <7485.66, 120.92, 6301.94>
+23:18:21.945 [BaseBuildingRaiding] They dealt 0.531227 * 50 = 26.5614 damage with RGD5Grenade_Ammo from RGD5Grenade
+23:18:21.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 273.439
+23:18:21.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:19.203 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:19.203 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.83, 120.75, 6359.35>) damaged ExpansionWall6x3 at <7483.28, 120.83, 6362.28>
+23:21:19.203 [BaseBuildingRaiding] They dealt 68.2596 * 1 = 68.2596 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:19.203 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29931.7
+23:21:19.203 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:19.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:19.382 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.67, 120.75, 6359.08>) damaged ExpansionWall6x3 at <7483.28, 120.83, 6362.28>
+23:21:19.382 [BaseBuildingRaiding] They dealt 100.264 * 1 = 100.264 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:19.382 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29931.7 to 29831.5
+23:21:19.382 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:19.679 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:19.679 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.43, 120.75, 6358.61>) damaged ExpansionBarbedWire at <7481.76, 120.74, 6361.61>
+23:21:19.679 [BaseBuildingRaiding] They dealt 42.1013 * 1 = 42.1013 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:19.679 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 257.899
+23:21:19.679 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:19.890 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:19.890 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.33, 120.75, 6358.28>) damaged ExpansionBarbedWire at <7481.76, 120.74, 6361.61>
+23:21:19.890 [BaseBuildingRaiding] They dealt 106.473 * 1 = 106.473 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:19.890 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 257.899 to 151.426
+23:21:19.890 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:20.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:20.007 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.27, 120.75, 6358.05>) damaged ExpansionBarbedWire at <7481.76, 120.74, 6361.61>
+23:21:20.007 [BaseBuildingRaiding] They dealt 92.4335 * 1 = 92.4335 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:20.007 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 151.426 to 58.9922
+23:21:20.007 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:20.007 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:20.007 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.27, 120.75, 6358.05>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:20.007 [BaseBuildingRaiding] They dealt 92.312 * 1 = 92.312 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:20.007 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 207.688
+23:21:20.007 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:20.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:20.242 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7489.19, 120.75, 6357.65>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:20.242 [BaseBuildingRaiding] They dealt 17.3873 * 1 = 17.3873 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:20.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 207.688 to 190.301
+23:21:20.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:23.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:23.710 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.7, 120.75, 6354>) damaged ExpansionBarbedWire at <7474.29, 120.74, 6352.97>
+23:21:23.710 [BaseBuildingRaiding] They dealt 106.006 * 1 = 106.006 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:23.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 145.662 to 39.6562
+23:21:23.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:23.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:23.914 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.61, 120.75, 6353.72>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:23.914 [BaseBuildingRaiding] They dealt 35.0822 * 1 = 35.0822 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:23.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 190.301 to 155.219
+23:21:23.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.070 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.59, 120.75, 6353.64>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:24.070 [BaseBuildingRaiding] They dealt 99.243 * 1 = 99.243 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 155.219 to 55.9755
+23:21:24.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.250 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.61, 120.75, 6353.72>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.250 [BaseBuildingRaiding] They dealt 99.5212 * 1 = 99.5212 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29900.5
+23:21:24.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.335 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.335 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.65, 120.75, 6353.86>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.335 [BaseBuildingRaiding] They dealt 67.9047 * 1 = 67.9047 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.335 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29900.5 to 29832.6
+23:21:24.335 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.453 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.453 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.7, 120.75, 6354.02>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.453 [BaseBuildingRaiding] They dealt 99.7967 * 1 = 99.7967 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.453 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29832.6 to 29732.8
+23:21:24.453 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.648 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.648 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.82, 120.75, 6354.34>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.648 [BaseBuildingRaiding] They dealt 99.909 * 1 = 99.909 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.648 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29732.8 to 29632.9
+23:21:24.648 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.765 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.88, 120.75, 6354.5>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.765 [BaseBuildingRaiding] They dealt 93.1182 * 1 = 93.1182 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29632.9 to 29539.8
+23:21:24.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.843 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.95, 120.75, 6354.66>) damaged ExpansionWall6x3 at <7479.38, 120.83, 6357.72>
+23:21:24.843 [BaseBuildingRaiding] They dealt 82.5456 * 1 = 82.5456 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29539.8 to 29457.2
+23:21:24.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:24.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:24.960 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7488.02, 120.75, 6354.82>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:24.960 [BaseBuildingRaiding] They dealt 53.3754 * 1 = 53.3754 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:24.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 55.9755 to 2.60009
+23:21:24.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:25.054 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:25.054 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7488.09, 120.75, 6354.97>) damaged ExpansionBarbedWire at <7478.39, 120.74, 6357.8>
+23:21:25.054 [BaseBuildingRaiding] They dealt 67.5823 * 1 = 67.5823 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:25.054 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 2.60009 to 0
+23:21:25.054 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:25.359 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:25.359 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7488.3, 120.75, 6355.44>) damaged ExpansionBarbedWire at <7481.76, 120.74, 6361.61>
+23:21:25.359 [BaseBuildingRaiding] They dealt 106.406 * 1 = 106.406 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:25.359 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 58.9922 to 0
+23:21:25.367 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:25.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:25.843 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7488.48, 120.75, 6355.82>) damaged ExpansionBarbedWire at <7474.29, 120.74, 6352.97>
+23:21:25.843 [BaseBuildingRaiding] They dealt 57.3371 * 1 = 57.3371 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:25.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 39.6562 to 0
+23:21:25.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:25.929 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:25.929 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7488.48, 120.75, 6355.8>) damaged ExpansionWall6x3 at <7475.48, 120.83, 6353.16>
+23:21:25.929 [BaseBuildingRaiding] They dealt 61.1734 * 1 = 61.1734 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:25.929 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29671.5 to 29610.4
+23:21:25.929 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.226 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.79, 120.75, 6347.3>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.226 [BaseBuildingRaiding] They dealt 106.218 * 1 = 106.218 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.226 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29735 to 29628.8
+23:21:32.226 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.304 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.304 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.86, 120.75, 6347.18>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.304 [BaseBuildingRaiding] They dealt 106.265 * 1 = 106.265 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.304 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29628.8 to 29522.6
+23:21:32.304 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.304 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.304 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.86, 120.75, 6347.18>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.304 [BaseBuildingRaiding] They dealt 54.5439 * 1 = 54.5439 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.304 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29522.6 to 29468
+23:21:32.304 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.398 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.398 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7484.97, 120.75, 6346.99>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.398 [BaseBuildingRaiding] They dealt 106.288 * 1 = 106.288 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.406 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29468 to 29361.7
+23:21:32.406 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.539 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.539 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.11, 120.76, 6346.75>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.539 [BaseBuildingRaiding] They dealt 106.104 * 1 = 106.104 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.539 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29361.7 to 29255.6
+23:21:32.539 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.632 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.632 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.21, 120.76, 6346.57>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:32.632 [BaseBuildingRaiding] They dealt 106.15 * 1 = 106.15 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.632 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29255.6 to 29149.5
+23:21:32.632 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.726 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.726 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.32, 120.76, 6346.38>) damaged ExpansionBarbedWire at <7493.51, 120.82, 6336.29>
+23:21:32.726 [BaseBuildingRaiding] They dealt 106.119 * 1 = 106.119 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.726 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 193.881
+23:21:32.726 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.812 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.44, 120.76, 6346.2>) damaged ExpansionBarbedWire at <7493.51, 120.82, 6336.29>
+23:21:32.812 [BaseBuildingRaiding] They dealt 106.104 * 1 = 106.104 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 193.881 to 87.7775
+23:21:32.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:32.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:32.914 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.5, 120.76, 6346.01>) damaged ExpansionWall6x3 at <7493.73, 120.82, 6337.57>
+23:21:32.914 [BaseBuildingRaiding] They dealt 106.199 * 1 = 106.199 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:32.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29893.8
+23:21:32.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.000 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.51, 120.76, 6345.88>) damaged ExpansionWall6x3 at <7493.73, 120.82, 6337.57>
+23:21:33.000 [BaseBuildingRaiding] They dealt 106.173 * 1 = 106.173 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.000 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29893.8 to 29787.6
+23:21:33.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.000 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.51, 120.76, 6345.88>) damaged ExpansionBarbedWire at <7493.51, 120.82, 6336.29>
+23:21:33.000 [BaseBuildingRaiding] They dealt 106.173 * 1 = 106.173 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.000 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 87.7775 to 0
+23:21:33.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.328 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.328 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.63, 120.76, 6345.25>) damaged ExpansionBarbedWire at <7496.56, 120.82, 6339.45>
+23:21:33.328 [BaseBuildingRaiding] They dealt 106.225 * 1 = 106.225 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.328 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 193.775
+23:21:33.328 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.406 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.78, 120.76, 6345.11>) damaged ExpansionBarbedWire at <7496.56, 120.82, 6339.45>
+23:21:33.406 [BaseBuildingRaiding] They dealt 106.291 * 1 = 106.291 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.406 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 193.775 to 87.4838
+23:21:33.406 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.546 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.546 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7485.96, 120.76, 6344.9>) damaged ExpansionWall6x3 at <7493.73, 120.82, 6337.57>
+23:21:33.546 [BaseBuildingRaiding] They dealt 106.363 * 1 = 106.363 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.546 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29787.6 to 29681.3
+23:21:33.546 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:33.617 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:33.617 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486, 120.76, 6344.77>) damaged ExpansionStairS1_5x3x3 at <7491.7, 120.83, 6339.31>
+23:21:33.617 [BaseBuildingRaiding] They dealt 106.892 * 1 = 106.892 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:33.617 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29573.7 to 29466.8
+23:21:33.617 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:34.609 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:34.609 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7486.92, 120.76, 6343.01>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:34.609 [BaseBuildingRaiding] They dealt 106.687 * 1 = 106.687 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:34.609 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29149.5 to 29042.8
+23:21:34.609 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:34.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:34.960 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.25, 120.76, 6342.47>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:34.960 [BaseBuildingRaiding] They dealt 106.892 * 1 = 106.892 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:34.968 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29042.8 to 28935.9
+23:21:34.968 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:35.007 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:35.007 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.38, 120.76, 6342.3>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:35.007 [BaseBuildingRaiding] They dealt 106.818 * 1 = 106.818 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:35.007 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28935.9 to 28829.1
+23:21:35.007 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:35.140 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:35.140 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.56, 120.76, 6342.2>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:35.140 [BaseBuildingRaiding] They dealt 106.767 * 1 = 106.767 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:35.140 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28829.1 to 28722.3
+23:21:35.140 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:35.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:35.226 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.75, 120.76, 6342.15>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:21:35.226 [BaseBuildingRaiding] They dealt 106.68 * 1 = 106.68 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:21:35.226 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28722.3 to 28615.6
+23:21:35.226 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:22:10.875 [Killfeed] [uwu] London got killed by [uwu] Donnie Deeks with ORIGIN from a distance of 1 m.
+23:22:24.468 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+23:23:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:01.070 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:01.070 [BaseBuildingRaiding] They dealt 31.2161 * 1 = 31.2161 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29445.2 to 29413.9
+23:23:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:01.070 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:01.070 [BaseBuildingRaiding] They dealt 31.2211 * 1 = 31.2211 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29413.9 to 29382.7
+23:23:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:01.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:01.070 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:01.070 [BaseBuildingRaiding] They dealt 31.2146 * 1 = 31.2146 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:01.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29382.7 to 29351.5
+23:23:01.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:03.140 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:03.148 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:03.148 [BaseBuildingRaiding] They dealt 31.1012 * 1 = 31.1012 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:03.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29351.5 to 29320.4
+23:23:03.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:03.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:03.148 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:03.148 [BaseBuildingRaiding] They dealt 31.1718 * 1 = 31.1718 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:03.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29320.4 to 29289.2
+23:23:03.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:03.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:03.148 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:03.148 [BaseBuildingRaiding] They dealt 31.2074 * 1 = 31.2074 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:03.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29289.2 to 29258
+23:23:03.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:03.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:03.148 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.52, 123.6, 6346.36>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:03.148 [BaseBuildingRaiding] They dealt 31.2109 * 1 = 31.2109 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:03.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29258 to 29226.8
+23:23:03.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:04.500 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:04.500 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7461.68, 123.55, 6346.51>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:04.500 [BaseBuildingRaiding] They dealt 31.2183 * 1 = 31.2183 damage with Bullet_12GaugePellets from PNC_W_Origin_12ga
+23:23:04.500 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29226.8 to 29195.6
+23:23:04.500 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:29.968 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:29.968 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7487.15, 120.8, 6321.98>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:29.968 [BaseBuildingRaiding] They dealt 138.526 * 1 = 138.526 damage with Bullet_308Win from PNC_W_FAL
+23:23:29.968 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29195.6 to 29057.1
+23:23:29.968 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:34.179 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:34.179 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7487.05, 120.8, 6321.89>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:34.179 [BaseBuildingRaiding] They dealt 138.536 * 1 = 138.536 damage with Bullet_308Win from PNC_W_FAL
+23:23:34.179 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29057.1 to 28918.5
+23:23:34.179 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:36.140 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:23:36.140 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7460.97, 123.37, 6348.66>) damaged ExpansionWall6x3 at <7477.14, 120.84, 6332.01>
+23:23:36.140 [BaseBuildingRaiding] They dealt 286.704 * 1 = 286.704 damage with Bullet_12_7_55 from PNC_W_ASh127_camo
+23:23:36.140 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28918.5 to 28631.8
+23:23:36.140 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:23:36.898 [Killfeed] [uwu] Donnie Deeks got killed by [uwu] London with LAR from a distance of 37 m.
+23:23:48.414 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+23:26:42.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:26:42.781 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7497.32, 120.99, 6322.84>) damaged ExpansionBarbedWire at <7485.66, 120.92, 6301.94>
+23:26:42.781 [BaseBuildingRaiding] They dealt 49.1 * 1 = 49.1 damage with Bullet_12_7_55 from PNC_W_ASh127_camo
+23:26:42.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 273.439 to 224.339
+23:26:42.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:31:50.140 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Military
+23:33:13.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:33:13.843 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7457.6, 120.75, 6333.68>) damaged ExpansionBarbedWire at <7484.8, 120.74, 6340.04>
+23:33:13.843 [BaseBuildingRaiding] They dealt 137.469 * 1 = 137.469 damage with Bullet_308Win from PNC_W_FAL
+23:33:13.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 162.531
+23:33:13.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:33:13.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:33:13.843 [BaseBuildingRaiding] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<7457.6, 120.75, 6333.68>) damaged ExpansionWall6x3 at <7489.5, 120.83, 6337.24>
+23:33:13.843 [BaseBuildingRaiding] They dealt 137.359 * 1 = 137.359 damage with Bullet_308Win from PNC_W_FAL
+23:33:13.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28615.6 to 28478.3
+23:33:13.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:36:49.492 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:36:49.492 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7511.64, 121.47, 6333.62>) damaged ExpansionBarbedWire at <7485.05, 120.99, 6296.4>
+23:36:49.492 [BaseBuildingRaiding] They dealt 41.4271 * 1 = 41.4271 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:36:49.492 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 258.573
+23:36:49.492 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:37:12.304 [Killfeed] [uwu] Donnie Deeks got killed by [uwu] London with LAR from a distance of 22 m.
+23:37:29.804 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+23:39:36.429 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+23:39:55.312 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:39:55.312 [BaseBuildingRaiding] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE= pos=<7487.19, 120.75, 6350.33>) damaged ExpansionBarbedWire at <7484.8, 120.74, 6340.04>
+23:39:55.312 [BaseBuildingRaiding] They dealt 106.106 * 1 = 106.106 damage with Bullet_556x45 from PNC_W_Scar_kryp
+23:39:55.312 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 162.531 to 56.4259
+23:39:55.312 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:40:02.843 [Party] Player "Donnie Deeks" (id=GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+00:06:17.632 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+00:59:16.148 [MissionAirdrop] An airdrop is heading towards "Tuscarora" (pos=<2451.096191, 0.000000, 8775.758789> type=Random_Tuscarora) with a ExpansionAirdropContainer_Basebuilding
+02:26:22.148 [MissionAirdrop] An airdrop is heading towards "Algonquin" (pos=<4627.195313, 0.000000, 7687.189941> type=Random_Algonquin) with a ExpansionAirdropContainer
+02:44:06.429 [Party] Player "butlao13" (id=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI=) joinded the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+02:47:22.632 [Party] Player "bootylao" (id=JKIP8-DXtaQDzkJ5CU8EzHOQe9QtAEya76BaTIcC2is=) joinded the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+02:48:04.812 [Killfeed] [Lao] bootylao commited suicide with Bone Knife.
+02:48:25.320 [Party] Player "bootylao" (id=JKIP8-DXtaQDzkJ5CU8EzHOQe9QtAEya76BaTIcC2is=) joinded the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+02:48:41.031 [Killfeed] [Lao] bootylao commited suicide with Bone Knife.
+02:48:49.609 [Party] Player "bootylao" (id=JKIP8-DXtaQDzkJ5CU8EzHOQe9QtAEya76BaTIcC2is=) joinded the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+02:49:12.820 [Killfeed] [Lao] bootylao commited suicide with Bone Knife.
+02:49:20.281 [Party] Player "bootylao" (id=JKIP8-DXtaQDzkJ5CU8EzHOQe9QtAEya76BaTIcC2is=) joinded the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+02:56:04.734 [Party] Player "butlao13" (id=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI=) left the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)
+03:00:01.031 [Party] Player "bootylao" (id=JKIP8-DXtaQDzkJ5CU8EzHOQe9QtAEya76BaTIcC2is=) left the party "Butlaos" (id=8 ownerUID=zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI= ownerName=butlao13)

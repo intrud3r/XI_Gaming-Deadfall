@@ -1,0 +1,235 @@
+15:01:19.183 [VehicleDeleted] Old_Bike (id=D31A3FE4AF4456A3C625A094177446C2 pos=<6867.39, 128.65, 5770.39>)
+15:01:53.007 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+15:06:19.152 [MissionAirdrop] An airdrop is heading towards "Huron" (pos=<5645.566895, 0.000000, 8244.150391> type=Random_Huron) with a ExpansionAirdropContainer_Basebuilding
+15:08:07.132 [VehicleDeleted] Lady_Bicycle (id=41C4D5EFFE4EEB2659EF00A47166D933 pos=<7482.43, 120.72, 6349.35>)
+15:08:07.136 [VehicleDeleted] Lady_Bicycle_Purple (id=FDF054BCAB41565A4EA52A87B384F480 pos=<7483.83, 120.72, 6350.07>)
+15:08:34.046 [VehicleDeleted] Lady_Bicycle (id=E08008F9EE4624E6E07FAB8B4F2E33CD pos=<7480.03, 120.72, 6348.04>)
+15:08:34.046 [VehicleDeleted] Lady_Bicycle_Purple (id=2AFF0BE0474AE2A2063B6FB1047D0E99 pos=<7481.3, 120.72, 6348.74>)
+15:14:07.996 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+15:15:46.761 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=5A03E1F5E24D856F63CE1CA750CCB118 pos=<7489.02, 120.78, 6327.53>) as driver
+15:15:54.312 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=5A03E1F5E24D856F63CE1CA750CCB118 pos=<7484.47, 120.75, 6329.46>)
+15:16:00.089 [VehicleDeleted] Old_Bike (id=5A03E1F5E24D856F63CE1CA750CCB118 pos=<7484.47, 120.75, 6329.46>)
+15:20:16.781 [Party] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) joinded the party "The boys" (id=41 ownerUID= ownerName=)
+15:20:16.781 [Party] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) created a party named The boys (boys)
+15:21:25.183 [Party] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) left the party "The boys" (id=41 ownerUID=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc= ownerName=Midcore)
+15:21:54.207 [Party] Player "OggeBus" (id=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU=) joinded the party "boyz_clan" (id=42 ownerUID= ownerName=)
+15:21:54.210 [Party] Player "OggeBus" (id=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU=) created a party named boyz_clan (bzc)
+15:26:41.667 [Killfeed] Midcore got killed by [uwu] F11 Simulator with MAKR from a distance of 125 m.
+15:29:50.195 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+15:35:46.484 [VehicleAttachments] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=051516CBD6491B19062D35AB0F95C798 pos=<7485.61, 120.76, 6329.08>)
+15:35:52.718 [VehicleDeleted] Old_Bike (id=051516CBD6491B19062D35AB0F95C798 pos=<7485.69, 120.76, 6329.02>)
+15:37:02.203 [Safezone] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc= pos=<6764.78, 102.48, 6077.2>) entered the safezone
+15:38:22.828 [VehicleDeleted] Old_Bike (id=AE9D07D54A4ED5C99A39408EA4984654 pos=<7485.89, 120.74, 6345.81>)
+15:38:47.011 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=69610B12014AF69F3D6784AE59732980 pos=<7487.56, 120.75, 6331.16>) as driver
+15:39:17.851 [Market] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) has sold slingbag_gray x1 (cace5890) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 67.
+15:39:24.890 [Market] Player "Midcore" (id=C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) has sold zmijovkacap_green x1 (ceb0fac0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 14.
+15:39:27.171 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=69610B12014AF69F3D6784AE59732980 pos=<7409.95, 127.98, 6118.88>)
+15:39:43.039 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=69610B12014AF69F3D6784AE59732980 pos=<7409.95, 127.98, 6118.88>) as driver
+15:40:57.281 [Safezone] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<6744.45, 106.77, 6045.5>) entered the safezone
+15:41:22.164 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:41:25.187 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6757.12, 103.75, 6067.35>) entered the safezone
+15:41:52.558 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=69610B12014AF69F3D6784AE59732980 pos=<6768.36, 103.3, 6058.43>)
+15:41:52.675 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:41:53.640 [Safezone] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY= pos=<6763.57, 102.48, 6078.06>) entered the safezone
+15:42:00.015 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:42:03.597 [VehicleDeleted] Lady_Bicycle_Purple (id=69610B12014AF69F3D6784AE59732980 pos=<6768.36, 103.3, 6058.43>)
+15:42:05.539 [Safezone] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<6759.44, 103.08, 6062.22>) entered the safezone
+15:42:12.859 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6757.92, 103.5, 6058.61>) entered the safezone
+15:42:32.691 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:42:38.714 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+15:42:51.867 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=10100ED0FB4DDC8B1305039F4E5AD319 pos=<6754.91, 106.62, 6040.41>) as driver
+15:43:21.398 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (b7cf1070) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:43:21.605 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (ccf9d5e0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:43:21.765 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (ccfb4bd0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:43:23.230 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (c52bcc40) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:43:54.765 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=10100ED0FB4DDC8B1305039F4E5AD319 pos=<7118.43, 102.16, 6025.23>)
+15:43:56.195 [VehicleDeleted] Lady_Bicycle_Purple (id=10100ED0FB4DDC8B1305039F4E5AD319 pos=<7118.43, 102.16, 6025.23>)
+15:44:04.195 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<7122.38, 102.25, 6028.11>) as driver
+15:44:29.527 [Killfeed] [bzc] OggeBus got killed.
+15:44:40.441 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought canteen x1 (cafd0720) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 18.
+15:44:41.527 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (cafcd6e0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:44:41.851 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (cb56f6a0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:44:42.062 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (c4c855a0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:44:42.335 [Market] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought sodacan_spite x1 (c4c6a360) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+15:45:16.730 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<7482.91, 120.73, 6335>)
+15:45:30.167 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<7482.91, 120.73, 6335>) as driver
+15:45:33.757 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<7482.91, 120.73, 6335>)
+15:45:59.625 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<7482.91, 120.73, 6335>) as driver
+15:46:02.324 [VehicleDeleted] Lady_Bicycle (id=AE9D0BFA624CCE72747B5FA74E29B5B1 pos=<7482.88, 120.73, 6332.71>)
+15:46:12.437 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<7481.75, 120.73, 6332.87>) as driver
+15:46:24.945 [ATM] Player "Ov3rKi11" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has deposited 5953 on his ATM account.
+15:47:06.164 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:47:11.304 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<7363.22, 131.61, 6072.41>)
+15:47:40.335 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<7363.22, 131.61, 6072.41>) as driver
+15:47:45.261 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:47:55.976 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<7364.91, 131.52, 6073.9>) as driver
+15:49:15.359 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<6935.22, 111.32, 5894.48>)
+15:49:19.421 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<6935.22, 111.32, 5894.48>) as driver
+15:49:21.890 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<6935.22, 111.32, 5894.48>)
+15:49:23.460 [VehicleDeleted] Lady_Bicycle (id=1A9A1A06194E57E02B0806949D2FA02F pos=<6935.22, 111.32, 5894.48>)
+15:49:23.574 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<6801.69, 116.95, 5908.22>)
+15:49:33.742 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<6801.69, 116.95, 5908.22>) as driver
+15:49:35.015 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<6928.01, 111.04, 5899.72>) as driver
+15:50:28.234 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<6599.3, 142.77, 5922.94>)
+15:50:34.628 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<6599.3, 142.77, 5922.94>) as driver
+15:51:07.972 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<6573.72, 146.36, 5927.55>)
+15:51:13.746 [VehicleAttachments] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) detached Bicycle Wheel (type=ladybicycle_wheel) from vehicle Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<6573.72, 146.36, 5927.55>)
+15:52:00.136 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<6326.41, 174.87, 5711.18>)
+15:52:01.406 [VehicleDeleted] Lady_Bicycle (id=8FB63E04C0499A1CD4579AA323A77B01 pos=<6573.72, 146.36, 5927.55>)
+15:52:12.300 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<6326.41, 174.87, 5711.18>) as driver
+15:52:17.035 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=5869D986D14013BD32891AB9585F645E pos=<6568.6, 146.25, 5932.03>) as driver
+15:52:33.472 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=5869D986D14013BD32891AB9585F645E pos=<6559.22, 149.39, 5922.37>)
+15:52:39.414 [VehicleDeleted] Lady_Bicycle (id=5869D986D14013BD32891AB9585F645E pos=<6559.22, 149.39, 5922.37>)
+15:52:59.929 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=83870F87FD49B50C1CF1D79E3EAAA8A6 pos=<6549.24, 153.51, 5910.11>) as driver
+15:54:51.566 [Party] Player "OggeBus" (id=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU=) joinded the party "boyz_clan" (id=42 ownerUID=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU= ownerName=OggeBus)
+15:55:05.476 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=83870F87FD49B50C1CF1D79E3EAAA8A6 pos=<6089.28, 180.23, 5605.25>)
+15:55:10.468 [VehicleDeleted] Lady_Bicycle (id=83870F87FD49B50C1CF1D79E3EAAA8A6 pos=<6089.81, 179.93, 5605.36>)
+15:55:30.515 [Party] Player "OggeBus" (id=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU=) left the party "boyz_clan" (id=42 ownerUID=wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU= ownerName=OggeBus)
+15:56:20.074 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<6024.34, 200.44, 5598.31>) as driver
+16:01:22.105 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<4848.58, 338.13, 4501.7>)
+16:01:27.132 [VehicleDeleted] Lady_Bicycle_Purple (id=C42E11AB4B40678C46E203BF8E08FDDD pos=<4848.58, 338.13, 4501.7>)
+16:01:39.867 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=AD4972D5724994F0F93EE29D83316C56 pos=<4844.5, 338.23, 4501.32>) as driver
+16:03:28.539 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4270.05, 338.75, 4669.91>)
+16:03:40.574 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=AD4972D5724994F0F93EE29D83316C56 pos=<4271.79, 338.75, 4669.36>)
+16:04:05.632 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:04:35.160 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:04:54.445 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=AD4972D5724994F0F93EE29D83316C56 pos=<4271.79, 338.75, 4669.36>) as driver
+16:05:04.566 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4270.05, 338.75, 4669.91>) as driver
+16:05:32.410 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:05:42.203 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=AD4972D5724994F0F93EE29D83316C56 pos=<4270.47, 338.75, 4643.54>)
+16:07:30.976 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:07:49.667 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4267.98, 338.96, 4666.7>) as driver
+16:08:45.921 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:09:17.054 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4269.56, 338.75, 4658.89>)
+16:09:23.730 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4269.56, 338.75, 4658.89>) as driver
+16:09:57.843 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4265.3, 338.76, 4656.47>)
+16:10:01.867 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4265.3, 338.76, 4656.47>) as driver
+16:10:15.027 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4269.83, 338.75, 4647.72>)
+16:10:23.687 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4269.83, 338.75, 4647.72>) as driver
+16:10:27.898 [VehicleDeleted] Lady_Bicycle_Purple (id=AD4972D5724994F0F93EE29D83316C56 pos=<4270.9, 338.75, 4643.08>)
+16:10:35.402 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4269.84, 338.75, 4641.78>) as driver
+16:10:48.792 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4272.68, 339.16, 4612.44>)
+16:10:51.468 [VehicleDeleted] Lady_Bicycle (id=AA73B67D11415718EB0E43A27911E78B pos=<4272.68, 339.16, 4612.44>)
+16:11:11.062 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<4269.13, 338.75, 4601.38>) as driver
+16:11:55.613 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4413.15, 338.75, 4579.17>)
+16:12:38.015 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<4446.03, 338.75, 4512.03>)
+16:13:06.277 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4449.58, 338.75, 4512.17>)
+16:13:20.031 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4413.14, 338.75, 4579.19>) as driver
+16:13:28.917 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<4446.03, 338.75, 4512.03>) as driver
+16:13:30.613 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4449.58, 338.75, 4512.17>) as driver
+16:14:27.265 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4298.71, 338.75, 4346.3>)
+16:14:36.722 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4622.17, 338.77, 4349.18>)
+16:14:59.335 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4298.71, 338.75, 4346.3>) as driver
+16:15:03.777 [VehicleDeleted] Lady_Bicycle (id=DE2119404B445F0BC7C03D8973CB2CC1 pos=<4622.17, 338.77, 4349.18>)
+16:15:27.816 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4236.93, 338.75, 4347.08>)
+16:15:32.132 [VehicleDeleted] Lady_Bicycle (id=54E51A070240D213A7198FAFC4FE4320 pos=<4627.03, 338.75, 4354.39>)
+16:15:43.296 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=DA412258004FC57CF4D369934CCFEC37 pos=<4624.49, 338.75, 4357.99>) as driver
+16:16:33.859 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<3990.97, 338.75, 4397.45>)
+16:16:41.621 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<4236.93, 338.75, 4347.08>) as driver
+16:17:19.011 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=DA412258004FC57CF4D369934CCFEC37 pos=<4455.45, 338.75, 4523.96>)
+16:18:03.773 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=E83616527B43F98F0D66A1ADB713BA99 pos=<3961.09, 338.75, 4376.29>)
+16:18:06.910 [VehicleDeleted] Lady_Bicycle_Purple (id=E83616527B43F98F0D66A1ADB713BA99 pos=<3961.09, 338.75, 4376.29>)
+16:18:23.671 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<3990.97, 338.75, 4397.45>) as driver
+16:18:27.949 [VehicleDeleted] Lady_Bicycle (id=DA412258004FC57CF4D369934CCFEC37 pos=<4455.45, 338.75, 4523.96>)
+16:18:36.308 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<3958.65, 338.75, 4377.18>)
+16:18:49.750 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=72A4E466B24AAFAC49332380A28A39DE pos=<4448.27, 338.75, 4514.63>) as driver
+16:19:39.929 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=72A4E466B24AAFAC49332380A28A39DE pos=<4265.14, 338.75, 4321.27>)
+16:20:07.738 [VehicleDeleted] Lady_Bicycle (id=72A4E466B24AAFAC49332380A28A39DE pos=<4265.14, 338.75, 4321.27>)
+16:20:27.468 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=29B37959B549116162C27E81CC71007F pos=<4250.35, 338.75, 4332.92>) as driver
+16:22:01.742 [VehicleDeleted] Lady_Bicycle (id=82CAB5F4CD4BDBC69B9C8D844316151A pos=<3958.65, 338.75, 4377.18>)
+16:22:06.605 [VehicleDeleted] Lady_Bicycle_Purple (id=98DB0CC9C44006DDA42B9398C6BAAAF4 pos=<3962.1, 338.82, 4374.28>)
+16:22:13.800 [VehicleDeleted] Lady_Bicycle_Purple (id=3E71B49BCD4CEA84029B5F8DC510F7F8 pos=<3961.93, 338.82, 4374.62>)
+16:22:15.234 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=69EFEA120F4224103EBF1DBCC55101F5 pos=<3961.86, 338.82, 4375.72>) as driver
+16:22:27.269 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3957.34, 338.75, 4372.96>) as driver
+16:22:56.679 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=29B37959B549116162C27E81CC71007F pos=<3949.83, 338.75, 4373.17>)
+16:23:02.515 [VehicleDeleted] Lady_Bicycle (id=29B37959B549116162C27E81CC71007F pos=<3949.82, 338.75, 4373.16>)
+16:23:17.472 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=045293817749D5AD3DEEB3B3BAFDF175 pos=<3943.81, 338.84, 4363.24>) as driver
+16:24:00.160 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=045293817749D5AD3DEEB3B3BAFDF175 pos=<3775.42, 299.26, 4394.58>)
+16:24:10.421 [VehicleDeleted] Lady_Bicycle (id=045293817749D5AD3DEEB3B3BAFDF175 pos=<3775.42, 299.26, 4394.58>)
+16:24:23.757 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=459E80836E4EF23F4C6744B5B680255F pos=<3772.53, 297.69, 4390>) as driver
+16:24:55.367 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=459E80836E4EF23F4C6744B5B680255F pos=<3686.76, 261.58, 4392.58>)
+16:25:01.273 [VehicleDeleted] Lady_Bicycle (id=459E80836E4EF23F4C6744B5B680255F pos=<3686.76, 261.58, 4392.58>)
+16:25:11.261 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=0E5C592E704EFDC5CD9C488D317996F0 pos=<3683.65, 260.2, 4396.1>) as driver
+16:25:35.285 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=69EFEA120F4224103EBF1DBCC55101F5 pos=<3537.56, 164.52, 4433.41>)
+16:26:26.726 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=69EFEA120F4224103EBF1DBCC55101F5 pos=<3524.94, 156.58, 4439.61>) as driver
+16:26:30.152 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=0E5C592E704EFDC5CD9C488D317996F0 pos=<3511.38, 149.37, 4444.22>)
+16:26:31.324 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3476.68, 136.56, 4446.44>)
+16:26:33.542 [VehicleDeleted] Lady_Bicycle (id=0E5C592E704EFDC5CD9C488D317996F0 pos=<3511.38, 149.36, 4444.23>)
+16:26:39.593 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3476.68, 136.56, 4446.44>) as driver
+16:26:56.726 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=69EFEA120F4224103EBF1DBCC55101F5 pos=<3509.32, 149.46, 4452.1>)
+16:27:01.593 [VehicleDeleted] Lady_Bicycle (id=69EFEA120F4224103EBF1DBCC55101F5 pos=<3509.33, 149.47, 4452.13>)
+16:27:24.660 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=492F899EDF47410598E133BF9CCD57F0 pos=<3489.15, 139.25, 4449.88>) as driver
+16:27:58.402 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3458.68, 136.02, 4442.01>)
+16:28:07.335 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3458.68, 136.02, 4442.01>) as driver
+16:28:34.585 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=492F899EDF47410598E133BF9CCD57F0 pos=<3444.35, 126.4, 4441.2>)
+16:28:50.027 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=492F899EDF47410598E133BF9CCD57F0 pos=<3444.35, 126.4, 4441.2>) as driver
+16:29:07.976 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:29:28.835 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:29:38.132 [VehicleDeleted] Lady_Bicycle_Purple (id=77CC86004442E8E71D1B1FBF1E1D9AF1 pos=<3444.8, 126.33, 4439.62>)
+16:29:53.679 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=492F899EDF47410598E133BF9CCD57F0 pos=<3355.41, 127.45, 4361.03>)
+16:29:54.835 [VehicleDeleted] Lady_Bicycle_Purple (id=21D7817F044DFAA9BD7C0B88FA9E151B pos=<3438.7, 125.32, 4443.59>)
+16:30:04.929 [VehicleDeleted] Lady_Bicycle_Purple (id=9556C97EBE4DB2CA11AE17AFB4D9249A pos=<3435.44, 125.36, 4442.22>)
+16:30:40.027 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<3361.89, 127.34, 4370.92>) as driver
+16:32:05.031 [VehicleDeleted] Lady_Bicycle_Purple (id=10CBCF8CB54F0F472E2619B767832286 pos=<3330.67, 126.5, 4445.15>)
+16:32:15.351 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=E1E8D696E745201BDBAB24B70FCB1E5C pos=<3335.1, 126.56, 4447.81>) as driver
+16:32:22.097 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=96DBD19A3144480163A308B82E34A626 pos=<3329.78, 126.5, 4445.99>) as driver
+16:32:42.253 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Medical
+16:34:47.343 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=E1E8D696E745201BDBAB24B70FCB1E5C pos=<3522.07, 136.9, 3636.08>)
+16:35:50.074 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Bicycle (id=E1E8D696E745201BDBAB24B70FCB1E5C pos=<3522.07, 136.9, 3636.08>) as driver
+16:45:28.117 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=96DBD19A3144480163A308B82E34A626 pos=<2554.57, 192.07, 754.59>)
+16:45:37.656 [VehicleDeleted] Lady_Bicycle_Purple (id=96DBD19A3144480163A308B82E34A626 pos=<2554.56, 192.07, 754.59>)
+16:45:44.656 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<2551.39, 191.9, 752.26>) as driver
+16:46:45.707 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Bicycle (id=E1E8D696E745201BDBAB24B70FCB1E5C pos=<2975.77, 195.52, 494.69>)
+16:47:08.007 [VehicleDeleted] Lady_Bicycle_Purple (id=E1E8D696E745201BDBAB24B70FCB1E5C pos=<2975.77, 195.52, 494.69>)
+16:50:41.285 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+16:53:35.929 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<1087.86, 256.44, 1229.19>)
+16:54:26.128 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<1087.86, 256.44, 1229.19>) as driver
+16:54:33.050 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<1064.14, 256.99, 1200.84>)
+16:54:38.414 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<1060.32, 257.22, 1198.98>)
+16:54:38.871 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<1064.14, 256.99, 1200.84>) as driver
+16:54:43.218 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<1060.32, 257.22, 1198.98>) as driver
+16:57:05.742 [VehicleDeleted] Lady_Bicycle (id=492F899EDF47410598E133BF9CCD57F0 pos=<3355.33, 127.45, 4360.98>)
+16:59:00.609 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=3855027F1B468AECAC643BA46FAC3C83 pos=<589.14, 372.93, 889.61>)
+16:59:07.246 [VehicleDeleted] Lady_Bicycle_Purple (id=3855027F1B468AECAC643BA46FAC3C83 pos=<589.95, 372.58, 888.96>)
+16:59:18.937 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=8151964FF0460152C3DD2188A27E8C76 pos=<587.14, 373.05, 896.47>) as driver
+16:59:25.929 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<589.71, 372.88, 893.57>)
+16:59:31.496 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<589.71, 372.88, 893.57>) as driver
+16:59:57.089 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<520.16, 349.44, 954.08>)
+17:00:01.593 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=8151964FF0460152C3DD2188A27E8C76 pos=<488.37, 372.34, 978.91>)
+17:00:03.898 [VehicleDeleted] Lady_Bicycle_Purple (id=8151964FF0460152C3DD2188A27E8C76 pos=<488.37, 372.34, 978.91>)
+17:00:13.792 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Bicycle (id=E6500478DC43D7B7A7ABE78E4AC3F91F pos=<483.64, 372.28, 979.19>) as driver
+17:00:17.988 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=DB5143AB0A4B8884230CFA8C36CE7A86 pos=<480.39, 372.86, 985.2>) as driver
+17:00:36.640 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=DB5143AB0A4B8884230CFA8C36CE7A86 pos=<441.6, 366.57, 1109.32>)
+17:00:47.929 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Bicycle (id=E6500478DC43D7B7A7ABE78E4AC3F91F pos=<439.9, 373.04, 1075.38>)
+17:00:50.351 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6700.37, 102.9, 6069.87>) entered the safezone
+17:01:07.992 [VehicleDeleted] Lady_Bicycle (id=C68140DA9C4B558E8494E39692C42420 pos=<3429.98, 124.38, 4445.08>)
+17:01:08.527 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6683.48, 102.58, 6080.08>) entered the safezone
+17:03:49.718 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:04:08.574 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:04:46.699 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6682.99, 102.58, 6076.65>) entered the safezone
+17:04:46.699 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:10:16.257 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:11:21.343 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6682.96, 107.65, 6046.41>) entered the safezone
+17:11:21.343 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:17:16.464 [VehicleDeleted] Lady_Bicycle_Purple (id=9054A4E19F45A12912DB2C9950B76FE7 pos=<2966.05, 197.38, 503.91>)
+17:23:15.156 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+17:25:24.519 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<132.24, 399.93, 6247>) as pilot
+17:25:27.039 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<132.252258, 399.928741, 6247.010254>)
+17:27:35.183 [VehicleDeleted] Lady_Bicycle_Purple (id=6C3BA3133D4D5E4F49EFAF962579CA42 pos=<520.16, 349.44, 954.08>)
+17:28:41.777 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<1257.96, 105.69, 6869.73>)
+17:29:00.375 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<1257.93, 105.69, 6869.73>) as pilot
+17:29:02.296 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<1257.928345, 105.687294, 6869.730469>)
+17:29:49.726 [VehicleDeleted] Lady_Bicycle_Purple (id=E6500478DC43D7B7A7ABE78E4AC3F91F pos=<439.9, 373.04, 1075.38>)
+17:30:18.187 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<298.75, 399.93, 6192.98>)
+17:31:19.722 [VehicleDestroyed] ExpansionGyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<298.75, 399.93, 6192.98>)
+17:31:24.722 [VehicleDeleted] ExpansionGyrocopter (id=7BF1A19BDD49507D5331BB869EB0DBD0 pos=<0, 0, 0>)
+17:45:31.265 [VehicleDeleted] Lady_Bicycle (id=DB5143AB0A4B8884230CFA8C36CE7A86 pos=<438.18, 348.9, 1131.97>)
+17:55:04.214 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) joinded the party "Hawk Fearless" (id=5 ownerUID=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ= ownerName=MrWowaWowa)
+17:59:02.425 [MissionAirdrop] An airdrop is heading towards "Onondaga" (pos=<5756.386719, 0.000000, 7200.799316> type=Random_Onondaga) with a ExpansionAirdropContainer_Military
+18:26:33.414 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+18:56:38.015 [Safezone] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= pos=<6626.9, 135.21, 6027.06>) entered the safezone
+18:58:20.710 [Market] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) has sold largegascanister x1 (e026f1f0) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 112.
+18:58:21.476 [Market] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) has sold smallgascanister x1 (c32f4ee0) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 60.
+18:58:44.671 [Market] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) has bought pistolsuppressor x1 (b766d070) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+18:58:45.132 [Market] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) has bought pistolsuppressor x1 (b767a090) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+18:59:21.187 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left the party "Hawk Fearless" (id=5 ownerUID=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ= ownerName=MrWowaWowa)

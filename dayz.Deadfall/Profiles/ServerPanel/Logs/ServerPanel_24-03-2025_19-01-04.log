@@ -1,0 +1,39 @@
+---------------------------------------------
+ServerPanel log started at 24.03.2025 19:01:04
+
+24.03.2025 19:01:04 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+24.03.2025 19:01:04 [ServerPanelConfig]: Reading Server Config
+24.03.2025 19:01:04 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+24.03.2025 19:01:04 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+24.03.2025 19:01:04 [ServerPanelConfigRPC]: GetConfigRequest
+24.03.2025 19:01:04 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+24.03.2025 19:01:04 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+24.03.2025 19:01:04 [ServerPanelHelpers]: Initialized ServerPanelBase
+24.03.2025 19:01:32 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+24.03.2025 19:09:17 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+24.03.2025 19:39:50 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+24.03.2025 19:40:44 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+24.03.2025 19:40:44 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+24.03.2025 19:50:00 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+24.03.2025 19:50:00 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+24.03.2025 20:04:24 [ServerPanelConfigRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Config sync
+24.03.2025 20:06:36 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 20:06:36 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 20:32:57 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 20:32:57 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 20:34:20 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 20:34:20 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 20:35:00 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+24.03.2025 20:37:41 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+24.03.2025 21:08:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+24.03.2025 21:08:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+24.03.2025 21:17:53 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+24.03.2025 21:33:31 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 21:33:31 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 21:36:21 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 21:36:21 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 21:36:25 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+24.03.2025 21:36:25 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+24.03.2025 21:41:11 [ServerPanelConfigRPC]: Bobbo9800 (MCfIe5FF7RPGHLKNemx3Z9UbFXbKnU1PidQIKdoDQho=) - Config sync
+24.03.2025 21:56:56 [ServerPanelConfigRPC]: Zeinyh (_WsUvWdcnLE0qFexX27yIMFrd236QngkgaReDmlc8LU=) - Config sync
+24.03.2025 21:57:16 [ServerPanelConfigRPC]: LeSexeDeDerhen (e9GOlJvxXmWWA11jPjeQtJ3T4kqwzibIgLPYjil5wj8=) - Config sync

@@ -1,0 +1,61 @@
+---------------------------------------------
+ServerPanel log started at 28.03.2025 19:01:08
+
+28.03.2025 19:01:08 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+28.03.2025 19:01:08 [ServerPanelConfig]: Reading Server Config
+28.03.2025 19:01:08 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+28.03.2025 19:01:08 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+28.03.2025 19:01:08 [ServerPanelConfigRPC]: GetConfigRequest
+28.03.2025 19:01:08 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+28.03.2025 19:01:08 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+28.03.2025 19:01:08 [ServerPanelHelpers]: Initialized ServerPanelBase
+28.03.2025 19:01:38 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+28.03.2025 19:01:43 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+28.03.2025 19:02:19 [ServerPanelConfigRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Config sync
+28.03.2025 19:06:06 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 19:06:06 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 19:24:03 [ServerPanelConfigRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Config sync
+28.03.2025 19:36:34 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+28.03.2025 19:43:48 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 19:43:48 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 19:43:54 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 19:43:54 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 19:47:39 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 19:47:39 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 19:47:40 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 19:47:40 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 20:03:31 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 20:03:31 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 20:04:22 [ServerPanelConfigRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Config sync
+28.03.2025 20:04:41 [ServerPanelStatsRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Player Stats sync
+28.03.2025 20:04:41 [ServerPanelStatsRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Player Minimum Stats sync
+28.03.2025 20:05:30 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 20:05:30 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 20:06:30 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 20:06:30 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 20:16:22 [ServerPanelConfigRPC]: FREDLOX (FsSJ7q6m0ovGEGJfofYnDPNQmTP4n7EsHoPdnJgRldg=) - Config sync
+28.03.2025 20:18:43 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 20:18:43 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 20:18:46 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 20:18:46 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 20:28:32 [ServerPanelConfigRPC]: HoldOn (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+28.03.2025 20:33:19 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+28.03.2025 20:37:40 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+28.03.2025 21:02:00 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 21:02:00 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 21:07:18 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 21:07:18 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 21:16:24 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 21:16:24 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 21:16:52 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 21:16:52 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 21:42:05 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+28.03.2025 21:42:05 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+28.03.2025 21:43:04 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 21:43:04 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+28.03.2025 21:46:15 [ServerPanelConfigRPC]: Authority (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+28.03.2025 21:56:17 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+28.03.2025 21:56:35 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+28.03.2025 21:56:35 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+28.03.2025 21:56:42 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 21:56:42 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync

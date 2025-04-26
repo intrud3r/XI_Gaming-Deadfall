@@ -1,0 +1,21 @@
+---------------------------------------------
+ServerPanel log started at 28.03.2025 07:01:03
+
+28.03.2025 07:01:03 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+28.03.2025 07:01:03 [ServerPanelConfig]: Reading Server Config
+28.03.2025 07:01:03 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+28.03.2025 07:01:03 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+28.03.2025 07:01:03 [ServerPanelConfigRPC]: GetConfigRequest
+28.03.2025 07:01:03 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+28.03.2025 07:01:03 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+28.03.2025 07:01:03 [ServerPanelHelpers]: Initialized ServerPanelBase
+28.03.2025 07:34:47 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync
+28.03.2025 08:06:12 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+28.03.2025 08:24:56 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+28.03.2025 08:25:33 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+28.03.2025 08:25:33 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+28.03.2025 08:44:55 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+28.03.2025 08:59:34 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+28.03.2025 09:08:29 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+28.03.2025 09:08:29 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+28.03.2025 10:42:30 [ServerPanelConfigRPC]: space (UGg48lidZt1dHmok1FLocJ5YccSNKAJS5TzpZ6TNdG4=) - Config sync

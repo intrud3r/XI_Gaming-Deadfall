@@ -1,0 +1,42 @@
+---------------------------------------------
+ServerPanel log started at 27.03.2025 20:37:08
+
+27.03.2025 20:37:08 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+27.03.2025 20:37:08 [ServerPanelConfig]: Reading Server Config
+27.03.2025 20:37:08 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+27.03.2025 20:37:08 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+27.03.2025 20:37:08 [ServerPanelConfigRPC]: GetConfigRequest
+27.03.2025 20:37:08 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+27.03.2025 20:37:08 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+27.03.2025 20:37:08 [ServerPanelHelpers]: Initialized ServerPanelBase
+27.03.2025 20:38:02 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+27.03.2025 20:38:45 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 20:46:07 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+27.03.2025 20:46:22 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+27.03.2025 20:46:22 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+27.03.2025 20:50:27 [ServerPanelConfigRPC]: D (Dy1uQfv14bmNf7ojP39weWd-DG0BjUGBVOMuhN9isSw=) - Config sync
+27.03.2025 20:53:27 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+27.03.2025 20:53:27 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+27.03.2025 20:53:54 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 20:53:54 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 20:55:56 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+27.03.2025 20:56:44 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+27.03.2025 20:56:44 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+27.03.2025 21:01:59 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 21:01:59 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 21:05:34 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 21:05:34 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 21:15:17 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 21:15:17 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 21:27:59 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+27.03.2025 21:27:59 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+27.03.2025 21:39:32 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+27.03.2025 21:39:32 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+27.03.2025 21:45:14 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+27.03.2025 21:46:24 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 21:46:24 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 21:47:01 [ServerPanelConfigRPC]: Bertun (Kg8hEBaHFJgxgt87slDPoVnN7rLbFr5AOuz_KhP9Cdc=) - Config sync
+27.03.2025 21:49:53 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+27.03.2025 21:49:53 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+27.03.2025 21:58:18 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 21:58:18 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync

@@ -1,0 +1,10 @@
+06:06:21.327 [MissionAirdrop] An airdrop is heading towards "Onondaga" (pos=<5756.386719, 0.000000, 7200.799316> type=Random_Onondaga) with a ExpansionAirdropContainer_Military
+07:13:27.433 [Party] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) joinded the party "Its" (id=61 ownerUID=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs= ownerName=Gun)
+07:18:00.812 [Party] Player "Gun" (id=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) left the party "Its" (id=61 ownerUID=dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs= ownerName=Gun)
+07:18:53.992 [VehicleDeleted] Lady_Bicycle_Purple (id=3685F5E430423CF1B869A58901A549D3 pos=<6207.95, 152.2, 8852.32>)
+07:19:26.528 [VehicleEnter] Player "Vanissi" (id=EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) entered vehicle Bicycle (id=346A45D1E6494B623F12FFAEC309D864 pos=<6208.6, 152.24, 8852.46>) as driver
+07:21:05.632 [VehicleLeave] Player "Vanissi" (id=EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) left vehicle Bicycle (id=346A45D1E6494B623F12FFAEC309D864 pos=<6793.29, 107.61, 8371.1>)
+07:31:57.372 [MissionAirdrop] An airdrop is heading towards "OWF Industries" (pos=<7167.299805, 0.000000, 4161.319824> type=Random_OWFIndustries) with a ExpansionAirdropContainer_Military
+07:49:48.027 [VehicleEnter] Player "Vanissi" (id=EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) entered vehicle Bicycle (id=346A45D1E6494B623F12FFAEC309D864 pos=<6797.61, 107.27, 8367.82>) as driver
+07:50:47.287 [VehicleLeave] Player "Vanissi" (id=EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) left vehicle Bicycle (id=346A45D1E6494B623F12FFAEC309D864 pos=<6397.03, 113.49, 8399.86>)
+08:57:04.414 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Medical

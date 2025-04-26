@@ -1,0 +1,68 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionBanknoteHryvnia",
+            "m_LocalPosition": [
+                -0.09619140625,
+                -0.0019989013671875,
+                -0.17236328125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 50000.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TortillaBag",
+            "m_LocalPosition": [
+                0.06640625,
+                -0.0962066650390625,
+                0.619140625
+            ],
+            "m_LocalRotation": [
+                -57.1650276184082,
+                -90.0,
+                122.8349609375
+            ],
+            "m_Data": {
+                "m_Health": 0.9000015258789063,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionBanknoteHryvnia",
+            "m_LocalPosition": [
+                0.02880859375,
+                0.0,
+                -0.44677734375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 50000.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

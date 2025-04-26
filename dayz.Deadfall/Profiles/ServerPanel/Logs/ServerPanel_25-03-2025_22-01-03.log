@@ -1,0 +1,44 @@
+---------------------------------------------
+ServerPanel log started at 25.03.2025 22:01:03
+
+25.03.2025 22:01:03 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+25.03.2025 22:01:03 [ServerPanelConfig]: Reading Server Config
+25.03.2025 22:01:03 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+25.03.2025 22:01:03 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+25.03.2025 22:01:03 [ServerPanelConfigRPC]: GetConfigRequest
+25.03.2025 22:01:03 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+25.03.2025 22:01:03 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+25.03.2025 22:01:03 [ServerPanelHelpers]: Initialized ServerPanelBase
+25.03.2025 22:01:36 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+25.03.2025 22:04:34 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 22:40:26 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+25.03.2025 22:40:26 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+25.03.2025 22:52:51 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+25.03.2025 22:52:51 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+25.03.2025 22:55:45 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+25.03.2025 22:55:46 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+25.03.2025 23:12:55 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 23:27:09 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 23:42:11 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+26.03.2025 00:02:17 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+26.03.2025 00:02:17 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+26.03.2025 00:35:28 [ServerPanelConfigRPC]: kid_thicarus (PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) - Config sync
+26.03.2025 00:37:39 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+26.03.2025 00:49:35 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+26.03.2025 00:54:57 [ServerPanelConfigRPC]: Hutch (NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) - Config sync
+26.03.2025 01:02:18 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+26.03.2025 01:07:55 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+26.03.2025 01:10:06 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+26.03.2025 01:12:27 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+26.03.2025 01:21:48 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+26.03.2025 01:25:26 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+26.03.2025 01:52:33 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+26.03.2025 01:53:22 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+26.03.2025 01:53:22 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+26.03.2025 02:13:13 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+26.03.2025 02:19:44 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+26.03.2025 02:21:07 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+26.03.2025 02:24:36 [ServerPanelConfigRPC]: Vichoorosky (tlRNjo629rSh-ytt0v54ULlTd6oiQUCIkMijHvbRzdE=) - Config sync
+26.03.2025 02:51:02 [ServerPanelConfigRPC]: Vichoorosky (tlRNjo629rSh-ytt0v54ULlTd6oiQUCIkMijHvbRzdE=) - Config sync
+26.03.2025 02:56:27 [ServerPanelStatsRPC]: Vichoorosky (tlRNjo629rSh-ytt0v54ULlTd6oiQUCIkMijHvbRzdE=) - Player Stats sync
+26.03.2025 02:56:27 [ServerPanelStatsRPC]: Vichoorosky (tlRNjo629rSh-ytt0v54ULlTd6oiQUCIkMijHvbRzdE=) - Player Minimum Stats sync

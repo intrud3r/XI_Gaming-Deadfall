@@ -1,0 +1,36 @@
+---------------------------------------------
+ServerPanel log started at 26.03.2025 19:01:06
+
+26.03.2025 19:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+26.03.2025 19:01:06 [ServerPanelConfig]: Reading Server Config
+26.03.2025 19:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+26.03.2025 19:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+26.03.2025 19:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+26.03.2025 19:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+26.03.2025 19:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+26.03.2025 19:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+26.03.2025 19:01:41 [ServerPanelConfigRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Config sync
+26.03.2025 19:01:41 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+26.03.2025 19:04:07 [ServerPanelConfigRPC]: Toroknyaszainto (tNHP1HUq0k1mzI9-zqrggCKzjfezxkzZKvQCnRVypn8=) - Config sync
+26.03.2025 19:17:58 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 19:17:58 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+26.03.2025 19:22:35 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+26.03.2025 19:22:35 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+26.03.2025 19:29:33 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 19:29:33 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+26.03.2025 19:44:15 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+26.03.2025 19:44:15 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+26.03.2025 19:56:20 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+26.03.2025 19:56:20 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+26.03.2025 20:01:15 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 20:01:15 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+26.03.2025 20:13:43 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 20:13:43 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+26.03.2025 20:31:56 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+26.03.2025 20:31:56 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+26.03.2025 20:32:45 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+26.03.2025 20:32:59 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+26.03.2025 20:58:28 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+26.03.2025 20:58:28 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+26.03.2025 21:48:27 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 21:48:27 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync

@@ -1,0 +1,22 @@
+---------------------------------------------
+ServerPanel log started at 29.03.2025 15:01:04
+
+29.03.2025 15:01:04 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+29.03.2025 15:01:04 [ServerPanelConfig]: Reading Server Config
+29.03.2025 15:01:04 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+29.03.2025 15:01:04 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+29.03.2025 15:01:04 [ServerPanelConfigRPC]: GetConfigRequest
+29.03.2025 15:01:04 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+29.03.2025 15:01:04 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+29.03.2025 15:01:04 [ServerPanelHelpers]: Initialized ServerPanelBase
+29.03.2025 15:01:33 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+29.03.2025 15:28:47 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+29.03.2025 16:44:33 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+29.03.2025 17:13:41 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+29.03.2025 18:08:29 [ServerPanelConfigRPC]: Flip (IgO1ePTb4aY3qe_d-S5N3luZ3iOm384AvaIG3bmV3YY=) - Config sync
+29.03.2025 18:20:36 [ServerPanelConfigRPC]: AkGrizzlychops (Ycz63jtQT10PHXlqqRuZKOumRyUpzvCdorGr6gpyDes=) - Config sync
+29.03.2025 18:21:10 [ServerPanelConfigRPC]: BigSupes (ri0lnRyVCY5gCk0GJUNXNo3RWkJtjjNNNmh8DN07Q88=) - Config sync
+29.03.2025 18:23:07 [ServerPanelStatsRPC]: BigSupes (ri0lnRyVCY5gCk0GJUNXNo3RWkJtjjNNNmh8DN07Q88=) - Player Stats sync
+29.03.2025 18:23:07 [ServerPanelStatsRPC]: BigSupes (ri0lnRyVCY5gCk0GJUNXNo3RWkJtjjNNNmh8DN07Q88=) - Player Minimum Stats sync
+29.03.2025 18:42:58 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+29.03.2025 18:46:05 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync

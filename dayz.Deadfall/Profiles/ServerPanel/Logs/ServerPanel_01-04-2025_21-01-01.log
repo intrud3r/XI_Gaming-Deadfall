@@ -1,0 +1,28 @@
+---------------------------------------------
+ServerPanel log started at 01.04.2025 21:01:01
+
+01.04.2025 21:01:01 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+01.04.2025 21:01:01 [ServerPanelConfig]: Reading Server Config
+01.04.2025 21:01:01 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+01.04.2025 21:01:01 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+01.04.2025 21:01:01 [ServerPanelConfigRPC]: GetConfigRequest
+01.04.2025 21:01:01 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+01.04.2025 21:01:01 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+01.04.2025 21:01:01 [ServerPanelHelpers]: Initialized ServerPanelBase
+01.04.2025 21:07:24 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+01.04.2025 21:07:29 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+01.04.2025 21:07:29 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+01.04.2025 21:31:07 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync
+01.04.2025 22:01:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+01.04.2025 22:01:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+01.04.2025 22:03:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+01.04.2025 22:03:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+01.04.2025 22:13:12 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+01.04.2025 22:15:34 [ServerPanelConfigRPC]: Straybow (4LXcKuMoFk4T4QRoC2YXd3EU9rnE8aBbKtTHY37ff-U=) - Config sync
+01.04.2025 22:18:45 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+01.04.2025 22:18:54 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+01.04.2025 22:18:54 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+01.04.2025 23:14:39 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync
+02.04.2025 00:47:43 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync
+02.04.2025 01:10:50 [ServerPanelConfigRPC]: CracklinOatBranCereal (nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) - Config sync
+02.04.2025 01:24:11 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync

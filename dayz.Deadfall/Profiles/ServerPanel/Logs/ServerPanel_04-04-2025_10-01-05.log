@@ -1,0 +1,19 @@
+---------------------------------------------
+ServerPanel log started at 04.04.2025 10:01:05
+
+04.04.2025 10:01:05 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+04.04.2025 10:01:05 [ServerPanelConfig]: Reading Server Config
+04.04.2025 10:01:05 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+04.04.2025 10:01:05 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+04.04.2025 10:01:05 [ServerPanelConfigRPC]: GetConfigRequest
+04.04.2025 10:01:05 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+04.04.2025 10:01:05 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+04.04.2025 10:01:05 [ServerPanelHelpers]: Initialized ServerPanelBase
+04.04.2025 10:01:36 [ServerPanelConfigRPC]: Vanissi (EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) - Config sync
+04.04.2025 12:21:17 [ServerPanelConfigRPC]: Intruder (VCCXa5z0PvNuApK0J5mfYMZSHb_q9DB8VTnM5OLUKRw=) - Config sync
+04.04.2025 12:28:14 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+04.04.2025 12:29:57 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+04.04.2025 12:29:57 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+04.04.2025 12:30:54 [ServerPanelConfigRPC]: SUS-Alpha-Goin'Dark (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+04.04.2025 12:41:49 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+04.04.2025 12:41:49 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync

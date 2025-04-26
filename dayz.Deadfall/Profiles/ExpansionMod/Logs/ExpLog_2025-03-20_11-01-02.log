@@ -1,0 +1,13 @@
+11:03:39.464 [Safezone] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY= pos=<6685.3, 102.5, 6105.56>) entered the safezone
+11:06:17.437 [MissionAirdrop] An airdrop is heading towards "Algonquin" (pos=<4627.195313, 0.000000, 7687.189941> type=Random_Algonquin) with a ExpansionAirdropContainer
+11:18:27.058 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+11:31:40.082 [Safezone] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY= pos=<6693.98, 103.5, 6066.08>) entered the safezone
+11:33:07.523 [Market] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has sold colt1911 x1 (4266fcd0, Mag_1911_7Rnd<42c88e20>, ammo_45acp x1) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 86.
+11:33:39.746 [Market] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has sold ak_railhndgrd x1 (4415b650) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 150.
+11:33:51.554 [Market] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has sold pistolsuppressor x1 (42c88290) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 8.
+11:33:55.718 [Market] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has sold m68optic x1 (43c2d7e0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 281.
+11:34:59.269 [ATM] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has deposited 525 on his ATM account.
+11:38:53.027 [ATM] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has withdrawn 6056 from his ATM account.
+11:40:13.632 [Market] Player "OverKill" (id=P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) has bought leathersewingkit x1 (2d203b20) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+11:54:25.359 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+12:32:21.449 [MissionAirdrop] An airdrop is heading towards "Mohawk" (pos=<7978.891113, 0.000000, 7093.604004> type=Random_Mohawk) with a ExpansionAirdropContainer_Basebuilding

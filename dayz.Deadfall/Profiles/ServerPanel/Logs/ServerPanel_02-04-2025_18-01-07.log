@@ -1,0 +1,15 @@
+---------------------------------------------
+ServerPanel log started at 02.04.2025 18:01:07
+
+02.04.2025 18:01:07 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+02.04.2025 18:01:07 [ServerPanelConfig]: Reading Server Config
+02.04.2025 18:01:07 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+02.04.2025 18:01:07 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+02.04.2025 18:01:07 [ServerPanelConfigRPC]: GetConfigRequest
+02.04.2025 18:01:07 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+02.04.2025 18:01:07 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+02.04.2025 18:01:07 [ServerPanelHelpers]: Initialized ServerPanelBase
+02.04.2025 18:24:50 [ServerPanelConfigRPC]: space (UGg48lidZt1dHmok1FLocJ5YccSNKAJS5TzpZ6TNdG4=) - Config sync
+02.04.2025 20:39:25 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+02.04.2025 20:40:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+02.04.2025 20:40:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync

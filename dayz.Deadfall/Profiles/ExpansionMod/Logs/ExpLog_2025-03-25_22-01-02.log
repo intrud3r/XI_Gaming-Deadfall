@@ -1,0 +1,65 @@
+22:01:39.254 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+22:06:19.977 [MissionAirdrop] An airdrop is heading towards "Erie" (pos=<723.437744, 0.000000, 8062.600098> type=Random_Erie) with a ExpansionAirdropContainer_Medical
+22:16:00.106 [Safezone] Player "Dashah" (id=X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo= pos=<6768.32, 102.37, 6079.13>) entered the safezone
+22:21:37.531 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:46:40.673 [VehicleEnter] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) entered vehicle Bicycle (id=A7E25426414DDF6D5B8847999B9408EC pos=<7091.72, 162.65, 5143.63>) as driver
+22:48:37.820 [VehicleLeave] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left vehicle Bicycle (id=A7E25426414DDF6D5B8847999B9408EC pos=<6884.35, 110.85, 5896.78>)
+22:49:08.698 [Safezone] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<6744.02, 107.48, 6042.38>) entered the safezone
+22:49:25.523 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has withdrawn 5000 from his ATM account.
+22:50:14.001 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought expansionlumber3 x40 (87c07320) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2000.
+22:50:23.277 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought woodenplank x20 (bf8cd410) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1000.
+22:50:28.151 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8c8320) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:28.436 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8c8eb0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:28.724 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8c6c00) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:29.018 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8cb160) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:29.226 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8d6a60) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:29.486 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought nailbox x1 (bf8d2500) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+22:50:48.854 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought hatchet x1 (bf8e0c40) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+22:50:51.315 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought hammer x1 (bf9059f0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+22:51:15.662 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought expansioncodelock x1 (c6bec020) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1500.
+22:51:57.695 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought expansionlumber3 x10 (c556fda0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 500.
+22:52:05.280 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought woodenplank x10 (c557b6a0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 500.
+22:52:23.211 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has deposited 87 on his ATM account.
+22:52:47.394 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+22:53:23.787 [VehicleEnter] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) entered vehicle Bicycle (id=A7E25426414DDF6D5B8847999B9408EC pos=<6884.58, 110.84, 5896.82>) as driver
+22:55:16.043 [VehicleLeave] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left vehicle Bicycle (id=A7E25426414DDF6D5B8847999B9408EC pos=<7094.1, 162.65, 5152.89>)
+22:55:22.543 [VehicleAttachments] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=A7E25426414DDF6D5B8847999B9408EC pos=<7094.1, 162.65, 5152.89>)
+22:55:31.011 [VehicleDeleted] Old_Bike_White (id=A7E25426414DDF6D5B8847999B9408EC pos=<7094.09, 162.65, 5152.86>)
+22:56:57.288 [BaseRaiding] ExpansionWall6x3 (<7139.580566, 162.963776, 5096.941895>) Code set by "player "Mard" (ID = "OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=" at <7141.053223, 162.661957, 5097.562988>)" and the code is 3719
+23:10:19.286 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+23:34:33.062 [MissionAirdrop] An airdrop is heading towards "Algonquin" (pos=<4627.195313, 0.000000, 7687.189941> type=Random_Algonquin) with a ExpansionAirdropContainer_Basebuilding
+23:42:15.725 [Safezone] Player "DUSTY PINKY" (id=s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI= pos=<6686.01, 102.6, 6076.7>) entered the safezone
+23:43:08.648 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+01:00:19.107 [MissionAirdrop] An airdrop is heading towards "Brickworks" (pos=<8906.998047, 0.000000, 4500.351074> type=Random_Brickworks) with a ExpansionAirdropContainer_Military
+01:08:00.728 [Party] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) joinded the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+01:10:10.573 [Party] Player "babyalfredo" (id=amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) joinded the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+01:28:39.040 [Party] Player "Hutch" (id=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) joinded the party "Falcon Frostbound" (id=54 ownerUID= ownerName=)
+01:28:39.041 [Party] Player "Hutch" (id=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) created a party named Falcon Frostbound (Falco)
+01:28:39.050 [Party] Player "Hutch" (id=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) invited the player "BolbyCheez" (id=SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=)to the party named Falcon Frostbound
+01:54:24.174 [Party] Player "BolbyCheez" (id=SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) joinded the party "Falcon Frostbound" (id=54 ownerUID=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY= ownerName=Hutch)
+01:59:48.220 [VehicleEnter] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) entered vehicle Bicycle (id=938857631642195F064FA4A5A34C8532 pos=<7286.09, 181.86, 4255.47>) as driver
+02:00:35.448 [VehicleLeave] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) left vehicle Bicycle (id=938857631642195F064FA4A5A34C8532 pos=<7125.24, 188.49, 4164.39>)
+02:04:02.910 [VehicleDeleted] Old_Bike_Red (id=938857631642195F064FA4A5A34C8532 pos=<7125.23, 188.49, 4164.3>)
+02:05:24.687 [VehicleEnter] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) entered vehicle Bicycle (id=5AE66385C149B2F2B4E82D83598B5F8D pos=<7130.8, 188.42, 4176.81>) as driver
+02:05:43.092 [VehicleLeave] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) left vehicle Bicycle (id=5AE66385C149B2F2B4E82D83598B5F8D pos=<7099.01, 188.5, 4135.37>)
+02:06:07.953 [VehicleEnter] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) entered vehicle Bicycle (id=5AE66385C149B2F2B4E82D83598B5F8D pos=<7099.01, 188.5, 4135.37>) as driver
+02:07:02.929 [VehicleLeave] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) left vehicle Bicycle (id=5AE66385C149B2F2B4E82D83598B5F8D pos=<6895.38, 166.09, 3816.52>)
+02:08:04.630 [VehicleEnter] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) entered vehicle Bicycle (id=ED9F83165C4202B9DA1BF69C6ECD6B5C pos=<6885, 166.1, 3802.5>) as driver
+02:09:42.778 [VehicleLeave] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) left vehicle Bicycle (id=ED9F83165C4202B9DA1BF69C6ECD6B5C pos=<6423.09, 224.27, 3886.65>)
+02:09:51.730 [VehicleDeleted] Old_Bike_Blue (id=ED9F83165C4202B9DA1BF69C6ECD6B5C pos=<6423.09, 224.27, 3886.65>)
+02:10:40.221 [VehicleEnter] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) entered vehicle Bicycle (id=A904F531BF4BE622C874019B85F278E2 pos=<6426.37, 224.1, 3883.66>) as driver
+02:11:47.710 [VehicleLeave] Player "kid_thicarus" (id=PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) left vehicle Bicycle (id=A904F531BF4BE622C874019B85F278E2 pos=<6464.23, 216.83, 4354.6>)
+02:19:23.971 [Party] Player "babyalfredo" (id=amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) left the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+02:19:46.336 [Party] Player "babyalfredo" (id=amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) joinded the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+02:33:54.269 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Medical
+02:40:17.162 [VehicleEnter] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) entered vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7286.09, 181.84, 4255.47>) as driver
+02:40:19.581 [VehicleLeave] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) left vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7286.09, 181.84, 4255.47>)
+02:40:28.662 [VehicleEnter] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) entered vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7286.09, 181.84, 4255.47>) as driver
+02:41:14.945 [VehicleLeave] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) left vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7284.24, 181.84, 4253.16>)
+02:41:25.520 [VehicleEnter] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) entered vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7284.24, 181.84, 4253.16>) as driver
+02:42:07.010 [VehicleLeave] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) left vehicle Bicycle (id=3DAB209217450197BAD1B29DBFB27DE1 pos=<7303.58, 181.84, 4239.01>)
+02:58:30.303 [Party] Player "BolbyCheez" (id=SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) left the party "Falcon Frostbound" (id=54 ownerUID=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY= ownerName=Hutch)
+02:59:26.049 [VehicleDeleted] Old_Bike_White (id=B979EBBA834819FAEFE2DC9196B067FE pos=<7091.98, 162.65, 5142.29>)
+02:59:40.430 [Party] Player "Trippdaddy" (id=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) left the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+02:59:53.823 [Party] Player "babyalfredo" (id=amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) left the party "ttt" (id=53 ownerUID=tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg= ownerName=Trippdaddy)
+03:00:01.554 [Party] Player "Hutch" (id=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) left the party "Falcon Frostbound" (id=54 ownerUID=NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY= ownerName=Hutch)

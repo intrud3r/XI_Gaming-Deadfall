@@ -1,0 +1,14 @@
+---------------------------------------------
+ServerPanel log started at 27.03.2025 22:01:02
+
+27.03.2025 22:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+27.03.2025 22:01:02 [ServerPanelConfig]: Reading Server Config
+27.03.2025 22:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+27.03.2025 22:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+27.03.2025 22:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+27.03.2025 22:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+27.03.2025 22:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+27.03.2025 22:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+27.03.2025 22:01:33 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 22:01:35 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+27.03.2025 22:03:32 [ServerPanelConfigRPC]: Bertun (Kg8hEBaHFJgxgt87slDPoVnN7rLbFr5AOuz_KhP9Cdc=) - Config sync

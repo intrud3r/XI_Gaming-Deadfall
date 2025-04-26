@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<spawnabletypes>
+	<type name="Headtorch_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>		
+	</type>
+	<type name="Headtorch_Grey">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>		
+	</type>	
+</spawnabletypes>

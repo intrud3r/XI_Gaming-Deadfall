@@ -1,0 +1,43 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+	      {
+            "m_UID": "Trader",
+            "m_Visibility": 2,
+            "m_Is3D": 1,
+            "m_Text": "Trader",
+            "m_IconName": "Human Skull",
+            "m_Color": -926416896,
+            "m_Position": [
+                 6675.160645,
+                 104.603935,
+                 6114.155762
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+	],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 0,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}

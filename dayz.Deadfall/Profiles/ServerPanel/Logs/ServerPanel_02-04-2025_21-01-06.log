@@ -1,0 +1,24 @@
+---------------------------------------------
+ServerPanel log started at 02.04.2025 21:01:06
+
+02.04.2025 21:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+02.04.2025 21:01:06 [ServerPanelConfig]: Reading Server Config
+02.04.2025 21:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+02.04.2025 21:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+02.04.2025 21:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+02.04.2025 21:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+02.04.2025 21:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+02.04.2025 21:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+02.04.2025 21:04:01 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+02.04.2025 21:47:15 [ServerPanelConfigRPC]: dr robert neville (-poMAUXyukG9utTFZWQlLCetkGe1Q-_V89zMifDpdYI=) - Config sync
+02.04.2025 22:36:04 [ServerPanelConfigRPC]: dr robert neville (-poMAUXyukG9utTFZWQlLCetkGe1Q-_V89zMifDpdYI=) - Config sync
+02.04.2025 22:36:45 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+02.04.2025 23:44:17 [ServerPanelConfigRPC]: Cody_The_HC (wr7AHSM-rjj3iPKn50qvAthn9ffT-qem8bQ35FBx0sc=) - Config sync
+02.04.2025 23:46:40 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+02.04.2025 23:51:40 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 00:04:32 [ServerPanelConfigRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Config sync
+03.04.2025 00:37:10 [ServerPanelConfigRPC]: TemuEnjoyer (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+03.04.2025 00:45:00 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 01:32:28 [ServerPanelConfigRPC]: TemuEnjoyer (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+03.04.2025 01:35:45 [ServerPanelStatsRPC]: Cody_The_HC (wr7AHSM-rjj3iPKn50qvAthn9ffT-qem8bQ35FBx0sc=) - Player Stats sync
+03.04.2025 01:35:45 [ServerPanelStatsRPC]: Cody_The_HC (wr7AHSM-rjj3iPKn50qvAthn9ffT-qem8bQ35FBx0sc=) - Player Minimum Stats sync

@@ -1,0 +1,30 @@
+---------------------------------------------
+ServerPanel log started at 23.03.2025 07:01:06
+
+23.03.2025 07:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+23.03.2025 07:01:06 [ServerPanelConfig]: Reading Server Config
+23.03.2025 07:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+23.03.2025 07:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+23.03.2025 07:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+23.03.2025 07:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+23.03.2025 07:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+23.03.2025 07:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+23.03.2025 07:02:33 [ServerPanelConfigRPC]: Van1981 (oHv5s6gxG5MJWw9no9H-UswiIaZ_QYkWCpTBAwjVlxU=) - Config sync
+23.03.2025 07:05:10 [ServerPanelConfigRPC]: Jimbo Yo (9ztBjt3sMt243qtFBVbl7Z4WJYIPFd3jQtLabHHat7o=) - Config sync
+23.03.2025 08:10:06 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+23.03.2025 08:10:41 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 08:10:41 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 08:33:02 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 08:33:02 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 08:37:00 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 08:37:00 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 09:01:11 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 09:01:11 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 09:55:15 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+23.03.2025 09:55:33 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+23.03.2025 09:55:33 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+23.03.2025 10:32:28 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+23.03.2025 10:32:28 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+23.03.2025 10:46:32 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+23.03.2025 10:46:57 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 10:46:57 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync

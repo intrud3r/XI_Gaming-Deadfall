@@ -1,0 +1,95 @@
+{
+  "m_Version": 12,
+  "DisplayName": "GUNWALLS AND GUNRACKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+            "ClassName": "expansiongunrack",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+      {
+      "ClassName": "mmg_gun_rack_kit_blue",
+      "MaxPriceThreshold": 6300,
+      "MinPriceThreshold": 6300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+          "mmg_gun_rack_kit_green",
+        "mmg_gun_rack_kit_tan"
+      ]
+    },
+      {
+      "ClassName": "mmg_gun_rack_planks",
+      "MaxPriceThreshold": 3200,
+      "MinPriceThreshold": 3200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+      {
+      "ClassName": "mmg_lockable_gun_rack_kit_grey",
+      "MaxPriceThreshold": 8900,
+      "MinPriceThreshold": 8900,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+      {
+      "ClassName": "mmg_gun_wall_kit_wooden",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+      {
+      "ClassName": "mmg_gun_wall_kit_metal",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+      {
+      "ClassName": "mmg_wall_shelf_wood",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    }
+  ]
+}

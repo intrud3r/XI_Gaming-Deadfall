@@ -1,0 +1,7 @@
+12:22:45.405 [Safezone] Player "Right Hand" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6688.3, 102.5, 6123.66>) entered the safezone
+12:22:45.405 [Party] Player "Right Hand" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:23:53.664 [Market] Player "Right Hand" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought lennon_glasses_mung x1 (76f3d540) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 80.
+12:26:23.800 [VehicleDeleted] Old_Bike (id=E3AA75ECC64FCC9BB3E16BBF30D29E71 pos=<6687.95, 102.49, 6120.96>)
+12:26:35.560 [Party] Player "Right Hand" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:27:10.926 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Basebuilding
+13:53:01.029 [MissionAirdrop] An airdrop is heading towards "Erie" (pos=<723.437744, 0.000000, 8062.600098> type=Random_Erie) with a ExpansionAirdropContainer_Military

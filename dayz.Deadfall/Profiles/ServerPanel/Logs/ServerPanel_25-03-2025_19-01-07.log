@@ -1,0 +1,64 @@
+---------------------------------------------
+ServerPanel log started at 25.03.2025 19:01:07
+
+25.03.2025 19:01:07 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+25.03.2025 19:01:07 [ServerPanelConfig]: Reading Server Config
+25.03.2025 19:01:07 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+25.03.2025 19:01:07 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+25.03.2025 19:01:07 [ServerPanelConfigRPC]: GetConfigRequest
+25.03.2025 19:01:07 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+25.03.2025 19:01:07 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+25.03.2025 19:01:07 [ServerPanelHelpers]: Initialized ServerPanelBase
+25.03.2025 19:02:31 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+25.03.2025 19:02:57 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+25.03.2025 19:04:58 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+25.03.2025 19:06:29 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+25.03.2025 19:06:43 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+25.03.2025 19:06:43 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+25.03.2025 19:10:11 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+25.03.2025 19:12:00 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+25.03.2025 19:12:00 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+25.03.2025 19:17:14 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+25.03.2025 19:40:09 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+25.03.2025 19:40:09 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+25.03.2025 19:49:23 [ServerPanelConfigRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Config sync
+25.03.2025 19:50:31 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 19:50:31 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 19:50:50 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 19:50:50 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 19:55:22 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+25.03.2025 19:55:22 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+25.03.2025 20:00:44 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 20:02:53 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 20:02:53 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 20:09:03 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 20:09:03 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 20:09:17 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 20:09:17 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 20:16:39 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 20:17:59 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+25.03.2025 20:17:59 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+25.03.2025 20:26:23 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 20:26:23 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 20:34:44 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+25.03.2025 20:34:44 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+25.03.2025 20:44:45 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 20:48:54 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 20:56:19 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:01:11 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:08:58 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+25.03.2025 21:10:18 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:14:02 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:20:58 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:28:24 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:30:05 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+25.03.2025 21:30:05 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+25.03.2025 21:31:40 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:34:47 [ServerPanelConfigRPC]: BornChaotic (9JC_LWUlbkZn9bfaV7phaTleJB49g1-EVj0V3JbCbWs=) - Config sync
+25.03.2025 21:35:00 [ServerPanelStatsRPC]: BornChaotic (9JC_LWUlbkZn9bfaV7phaTleJB49g1-EVj0V3JbCbWs=) - Player Stats sync
+25.03.2025 21:35:00 [ServerPanelStatsRPC]: BornChaotic (9JC_LWUlbkZn9bfaV7phaTleJB49g1-EVj0V3JbCbWs=) - Player Minimum Stats sync
+25.03.2025 21:35:57 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+25.03.2025 21:35:57 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+25.03.2025 21:39:22 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:46:01 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync
+25.03.2025 21:49:36 [ServerPanelConfigRPC]: Dashah (X5upGk1GPrdfj7C1T8t6YhI_yUWk0A0ETzgPutJPBFo=) - Config sync

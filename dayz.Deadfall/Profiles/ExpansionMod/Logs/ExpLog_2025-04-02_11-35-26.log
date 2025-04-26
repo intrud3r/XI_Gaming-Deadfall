@@ -1,0 +1,14 @@
+11:40:42.096 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Military
+12:42:03.792 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6664.72, 102.5, 6106.72>) entered the safezone
+12:42:03.793 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:42:59.280 [Party] Player "WhatYouGonnaDo" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+12:44:36.887 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+13:12:59.581 [MissionAirdrop] An airdrop is heading towards "OWF Industries" (pos=<7167.299805, 0.000000, 4161.319824> type=Random_OWFIndustries) with a ExpansionAirdropContainer_Military
+13:19:49.836 [Party] Player "WhatYouGonnaDo" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:20:52.897 [Party] Player "WhatYouGonnaDo" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:38:45.592 [Killfeed] [uwu] London fell to their death.
+13:39:01.120 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:40:37.792 [Killfeed] [uwu] London fell to their death.
+13:40:47.821 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:46:43.422 [Party] Player "WhatYouGonnaDo" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:46:54.785 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "AURRRRRRORA" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

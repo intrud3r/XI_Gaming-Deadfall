@@ -1,0 +1,22 @@
+---------------------------------------------
+ServerPanel log started at 28.03.2025 15:01:02
+
+28.03.2025 15:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+28.03.2025 15:01:02 [ServerPanelConfig]: Reading Server Config
+28.03.2025 15:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+28.03.2025 15:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+28.03.2025 15:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+28.03.2025 15:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+28.03.2025 15:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+28.03.2025 15:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+28.03.2025 15:01:42 [ServerPanelConfigRPC]: JoC (x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw=) - Config sync
+28.03.2025 15:03:19 [ServerPanelConfigRPC]: kiros17 (mFwkwZ4ycT08JXS479ZoQlt8k9NJ2j-kbGHk3YhjXLY=) - Config sync
+28.03.2025 17:00:30 [ServerPanelConfigRPC]: Toroknyaszainto (tNHP1HUq0k1mzI9-zqrggCKzjfezxkzZKvQCnRVypn8=) - Config sync
+28.03.2025 17:18:41 [ServerPanelConfigRPC]: Toroknyaszainto (tNHP1HUq0k1mzI9-zqrggCKzjfezxkzZKvQCnRVypn8=) - Config sync
+28.03.2025 17:31:54 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+28.03.2025 18:19:28 [ServerPanelStatsRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Player Stats sync
+28.03.2025 18:19:28 [ServerPanelStatsRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Player Minimum Stats sync
+28.03.2025 18:43:28 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+28.03.2025 18:48:17 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+28.03.2025 18:50:40 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+28.03.2025 18:50:40 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync

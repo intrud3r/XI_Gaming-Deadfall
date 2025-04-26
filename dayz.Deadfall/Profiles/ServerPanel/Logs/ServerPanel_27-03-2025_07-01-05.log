@@ -1,0 +1,22 @@
+---------------------------------------------
+ServerPanel log started at 27.03.2025 07:01:05
+
+27.03.2025 07:01:05 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+27.03.2025 07:01:05 [ServerPanelConfig]: Reading Server Config
+27.03.2025 07:01:05 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+27.03.2025 07:01:05 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+27.03.2025 07:01:05 [ServerPanelConfigRPC]: GetConfigRequest
+27.03.2025 07:01:05 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+27.03.2025 07:01:05 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+27.03.2025 07:01:05 [ServerPanelHelpers]: Initialized ServerPanelBase
+27.03.2025 07:02:28 [ServerPanelConfigRPC]: JC8202 (2SU-isqvacuoVDY80FUZEI2R-l1qoYkB7YoH97oOP-Q=) - Config sync
+27.03.2025 07:24:00 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync
+27.03.2025 10:16:28 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+27.03.2025 10:34:51 [ServerPanelConfigRPC]: Qlion (JKFOJmtFV9NVn2mpLgbBAhStLI_ZFxziY2EancAc-a0=) - Config sync
+27.03.2025 10:39:30 [ServerPanelConfigRPC]: space (UGg48lidZt1dHmok1FLocJ5YccSNKAJS5TzpZ6TNdG4=) - Config sync
+27.03.2025 10:52:32 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+27.03.2025 10:56:16 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+27.03.2025 10:56:49 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 10:56:49 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+27.03.2025 10:56:51 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+27.03.2025 10:56:51 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync

@@ -1,0 +1,227 @@
+07:01:36.623 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:26:27.285 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6663.63, 102.5, 6105.07>) entered the safezone
+07:26:27.287 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:27:33.208 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:28:40.603 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought rope x10 (e71b5fb0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 40.
+07:29:52.253 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought gp5gasmask x1 (b2547d60) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 120.
+07:29:54.300 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought gasmask_filter x1 (be5b1090) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1000.
+07:32:19.755 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6761.34, 102.86, 6065.78>) entered the safezone
+07:32:36.166 [ATM] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has withdrawn 103047 from his ATM account.
+07:33:02.490 [Market] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has bought honey x1 (b68e9520) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+07:33:53.916 [Market] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has bought lunchmeat x10 (bc8b10b0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 150.
+07:35:02.089 [ATM] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) has deposited 102897 on his ATM account.
+07:35:05.400 [ATM] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) has deposited 2045 on his ATM account.
+07:35:26.412 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+07:35:29.671 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+07:38:18.064 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:40:07.605 [BaseRaiding] ExpansionWall6x3 (<7492.867676, 121.551865, 6344.508789>) Damaged "player "Druss" (ID = "mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=" at <7493.617188, 121.592003, 6345.046387>)" by 10 health points. Reason: Failed to enter the correct code.
+07:40:07.605 [BaseRaiding] ExpansionWall6x3 (<7492.867676, 121.551865, 6344.508789>) The correct code was 1011 and the player tried 1110
+07:40:31.433 [VehicleEnter] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.04, 322.91, 5219.68>) as pilot
+07:40:33.644 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.05, 322.91, 5219.66>) as passenger
+07:40:34.968 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] started vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.058594, 322.909607, 5219.655273>)
+07:40:45.861 [VehicleEngine] Player "F11 Simulator" [uid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=] stopped vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5371.693848, 326.030792, 5231.592773>)
+07:40:52.568 [VehicleLeave] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.3, 320.79, 5232.44>)
+07:40:54.009 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Gyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.31, 320.79, 5232.44>)
+07:41:01.126 [VehicleDeleted] ExpansionBigGyrocopter (id=7B190437BD4B91403AC24BA52DDA6229 pos=<5370.31, 320.79, 5232.43>)
+07:46:22.343 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<4353.76, 338.86, 4822.25>) as pilot
+07:46:25.867 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<4353.759766, 338.863831, 4822.243164>)
+07:46:52.259 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:47:21.255 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+07:49:04.847 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Mh-6 Little Bird (id=BFF8BD21C644797317426F8684F3EA44 pos=<6893.01, 126.52, 5782.43>) as pilot
+07:49:20.402 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] started vehicle Mh-6 Little Bird (id=BFF8BD21C644797317426F8684F3EA44 pos=<6893.094727, 126.479248, 5782.643066>)
+07:49:38.046 [VehicleDeleted] ExpansionMerlin_Wave (id=A7A78AA4D84CC5FE504A8EBCE3AA832D pos=<7566.73, 129.15, 6419.2>)
+07:49:44.185 [VehicleDeleted] ExpansionBigGyrocopter (id=4576204E644C8B060149D3AA97A6E960 pos=<7560.9, 128.5, 6416.05>)
+07:50:10.148 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<7562.02, 128.7, 6424.63>) as passenger
+07:50:38.214 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<7561.94, 128.69, 6424.52>)
+07:50:47.910 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<7561.9, 128.69, 6424.45>) as pilot
+07:50:50.363 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] stopped vehicle Mh-6 Little Bird (id=BFF8BD21C644797317426F8684F3EA44 pos=<6908.145020, 129.832870, 5749.088867>)
+07:50:53.605 [VehicleEngine] Player "Druss" [uid=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=] started vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<7561.872070, 128.684799, 6424.404785>)
+07:51:13.919 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Mh-6 Little Bird (id=BFF8BD21C644797317426F8684F3EA44 pos=<6908.1, 129.83, 5749.07>)
+07:51:28.591 [VehicleDeleted] ExpansionMh6_GrayWatcher (id=BFF8BD21C644797317426F8684F3EA44 pos=<6908.07, 129.83, 5749.08>)
+07:52:10.843 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Gyrocopter (id=1C7313D0A24CFEFB49CFC590A4B23F2E pos=<6890.81, 127.06, 5780.16>) as pilot
+07:52:12.984 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] started vehicle Gyrocopter (id=1C7313D0A24CFEFB49CFC590A4B23F2E pos=<6890.813965, 127.055153, 5780.154785>)
+07:52:14.097 [VehicleDeleted] ExpansionMh6_GrayWatcher (id=6E0C00E0474CCD7AF0ACEB90011F1072 pos=<6901, 126.71, 5774.59>)
+07:56:47.085 [VehicleDestroyed] ExpansionGyrocopter (id=1C7313D0A24CFEFB49CFC590A4B23F2E pos=<953.97, 145.47, 3392.96>)
+07:56:53.828 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Gyrocopter (id=1C7313D0A24CFEFB49CFC590A4B23F2E pos=<953.66, 144.34, 3392.32>)
+07:59:23.738 [VehicleDeleted] ExpansionGyrocopter (id=1C7313D0A24CFEFB49CFC590A4B23F2E pos=<952.99, 143.99, 3392.07>)
+08:01:21.666 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<1163.47, 151.23, 2640.68>) as pilot
+08:01:25.095 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] started vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<1163.475464, 151.227432, 2640.691406>)
+08:01:42.292 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<1162.39, 158.82, 2653.36>)
+08:01:54.927 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<1161.94, 149.41, 2663.57>) as pilot
+08:02:13.771 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] started vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<1161.995483, 149.407028, 2663.662598>)
+08:04:40.759 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] stopped vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<2449.714844, 144.790848, 3689.223877>)
+08:04:44.914 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Gyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<2449.71, 144.79, 3689.22>)
+08:06:54.476 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<8605.210938, 101.569679, 9546.080078>)
+08:06:58.873 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<8605.21, 101.58, 9546.07>)
+08:15:46.167 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<8605.15, 101.58, 9546.03>) as pilot
+08:15:49.164 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<8605.151367, 101.578156, 9546.035156>)
+08:24:07.937 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9166.895508, 126.620491, 1211.766602>)
+08:24:11.548 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9166.95, 126.6, 1211.79>)
+08:26:25.978 [VehicleEngine] Player "Druss" [uid=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=] stopped vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<2971.538818, 199.091370, 550.697205>)
+08:26:30.294 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Mh-6 Little Bird (id=32990E28674BDEB2F0119EADB6DD8197 pos=<2971.74, 198.91, 551.37>)
+08:32:55.843 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9166.9, 126.56, 1212.21>) as pilot
+08:32:58.941 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9166.904297, 126.551392, 1212.238403>)
+08:34:44.041 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9213.762695, 122.676025, 1236.022095>)
+08:34:48.933 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle UH-1H (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9213.75, 120.36, 1236.57>)
+08:35:37.394 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:39:18.500 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:39:55.914 [VehicleDeleted] ExpansionBigGyrocopter (id=70C07ECC7D4FF35E2743D098BD2EBC5D pos=<2449.71, 144.79, 3689.22>)
+08:41:10.205 [VehicleDeleted] ExpansionUh1h_Uber (id=8CDD400A50421DA5FC0BD2965A7C8F04 pos=<9214, 120.26, 1237.63>)
+08:41:19.765 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Merlin (id=BD60BE4E2E4B417D773002B962F8C08C pos=<9201.01, 120.26, 1244.05>) as passenger
+08:41:22.666 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Merlin (id=BD60BE4E2E4B417D773002B962F8C08C pos=<9201.01, 120.26, 1244.05>)
+08:41:25.296 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Merlin (id=BD60BE4E2E4B417D773002B962F8C08C pos=<9201.01, 120.26, 1244.05>) as pilot
+08:41:33.570 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Merlin (id=BD60BE4E2E4B417D773002B962F8C08C pos=<9201.007813, 120.256004, 1244.046021>)
+08:42:57.398 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:47:36.007 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:47:52.968 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:49:10.205 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+08:51:10.496 [VehicleDeleted] ExpansionMh6_Digital (id=32990E28674BDEB2F0119EADB6DD8197 pos=<2972.38, 197.78, 552.67>)
+08:51:39.884 [VehicleDeleted] ExpansionMerlin_President (id=BD60BE4E2E4B417D773002B962F8C08C pos=<2963.43, 257.43, 531.79>)
+08:54:26.238 [VehicleDeleted] ExpansionVodnik (id=F9D3D676A54B0476DE6D77BBE07BD406 pos=<2883.07, 196.62, 508.13>)
+08:55:02.166 [VehicleEnter] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) entered vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2877.84, 200.94, 527.61>) as driver
+08:55:08.916 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2877.837891, 200.939789, 527.608093>)
+08:55:34.812 [VehicleEnter] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) entered vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2870.21, 202.06, 539.02>) as passenger
+08:58:00.640 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<3349.471680, 167.606735, 817.859131>)
+08:59:58.539 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] stopped vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<3931.816650, 170.985947, 1154.555908>)
+09:00:03.437 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<3931.816895, 170.987152, 1154.560669>)
+09:01:28.525 [VehicleDeleted] ExpansionMerlin_Green (id=2FE883FD714AA429765461899C8369A1 pos=<2473.11, 154.75, 3625.62>)
+09:02:52.765 [VehicleDeleted] ExpansionMerlin_Dahoman (id=8388D01C934E118D1724818B2590C6B5 pos=<2110.07, 114.01, 3774.52>)
+09:03:37.683 [VehicleEngine] Player "London" [uid=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=] started vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<3544.837158, 111.554451, 2480.569092>)
+09:04:38.542 [VehicleDeleted] ExpansionMerlin_Dahoman (id=85A3B38E1042F0F63830C9A3E588EE11 pos=<2832.01, 121.67, 2085.09>)
+09:07:17.484 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Gyrocopter (id=00530C25EF4BD7E59DFEDA8AEC856E15 pos=<2048.3, 123.91, 3772.67>) as pilot
+09:07:23.031 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] started vehicle Gyrocopter (id=00530C25EF4BD7E59DFEDA8AEC856E15 pos=<2048.311279, 123.910378, 3772.698730>)
+09:07:35.453 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:09:47.902 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:10:27.941 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:11:15.156 [VehicleEngine] Player "Sir Trippy" [uid=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=] stopped vehicle Gyrocopter (id=00530C25EF4BD7E59DFEDA8AEC856E15 pos=<6881.818848, 128.103165, 5758.450684>)
+09:11:24.050 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Gyrocopter (id=00530C25EF4BD7E59DFEDA8AEC856E15 pos=<6881.84, 128.09, 5758.43>)
+09:13:35.167 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:15:42.261 [Safezone] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6742.32, 107.12, 6045.04>) entered the safezone
+09:16:10.355 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold fal x1 (b472b5c0, Fal_OeBttstck<eea6c390>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1350.
+09:16:11.757 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold m4a1 x1 (b472c2d0, M4_CQBBttstck<eea6fd60>, M4_RISHndgrd<eea71480>, M4_CarryHandleOptic<bc580ff0>, Mag_CMAG_20Rnd<eea72010>, ammo_556x45 x4) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1460.
+09:16:16.535 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold asval x1 (b4732b50, M4_T3NRDSOptic<bc586460>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1481.
+09:17:58.531 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought leathersewingkit x1 (bc7b89b0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+09:17:59.656 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought leathersewingkit x1 (bc7bfd50) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+09:19:41.156 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold ak_railhndgrd x1 (cf3306f0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 75.
+09:19:46.671 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold ak_bayonet x1 (eea759e0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 28.
+09:19:52.457 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold mag_mkii_10rnd x1 (b6796390, ammo_22 x10) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 40.
+09:20:47.195 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold ttskoboots x1 (cf326510) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 75.
+09:20:51.273 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold sportglasses_green x1 (beaff1a0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 15.
+09:20:54.039 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold drybag_black x1 (ac5e1ea0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 11.
+09:21:32.933 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has deposited 4525 on his ATM account.
+09:22:06.242 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+09:22:39.242 [VehicleLeave] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2987.63, 194.82, 495.64>)
+09:22:42.128 [VehicleLeave] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left vehicle Vodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2987.63, 194.82, 495.64>)
+09:22:42.152 [VehicleDeleted] ExpansionVodnik (id=16A9D1971B427CCC782CE4BB821CC867 pos=<2987.63, 194.82, 495.64>)
+09:22:44.218 [VehicleDeleted] ExpansionGyrocopter (id=00530C25EF4BD7E59DFEDA8AEC856E15 pos=<6881.33, 128.09, 5758.64>)
+09:23:09.433 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:27:00.882 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:33:29.664 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.548096, 216.599442, 480.671387>) used the Admin Hammer to build wood_base
+09:33:38.492 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.548096, 216.599442, 480.671387>) used the Admin Hammer to build wood_doorframe
+09:33:42.691 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.548096, 216.599442, 480.671387>) used the Admin Hammer to build wood_doorfinished
+09:34:50.691 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2967.960205, 197.847427, 497.284851>) used the Admin Hammer to build wood_base
+09:34:54.089 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2967.860596, 197.846878, 497.364807>) used the Admin Hammer to build wood_doorframe
+09:34:57.320 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2967.860596, 197.846878, 497.364807>) used the Admin Hammer to build wood_doorfinished
+09:36:45.480 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:40:13.527 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2958.987061, 198.399689, 490.649200>) used the Admin Hammer to build wood_base
+09:40:17.824 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2958.987061, 198.561111, 490.649200>) used the Admin Hammer to build wood_doorframe
+09:40:23.289 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2958.781738, 198.402267, 490.034302>) used the Admin Hammer to build wood_doorfinished
+09:42:08.597 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+09:42:47.085 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2961.211670, 197.635696, 510.648621>) used the Admin Hammer to build wood_base
+09:42:51.554 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2961.211670, 197.857269, 510.648621>) used the Admin Hammer to build wood_doorframe
+09:42:55.250 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2961.211670, 197.857269, 510.648621>) used the Admin Hammer to build wood_doorfinished
+09:44:39.886 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2956.370850, 198.399673, 488.652100>) used the Admin Hammer to build wood_base_half
+09:44:44.218 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2956.512939, 198.478668, 488.699402>) used the Admin Hammer to build wood_wallframe_half
+09:44:48.015 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2956.512939, 198.478668, 488.699402>) used the Admin Hammer to build wood_wallfinished_half
+09:45:36.546 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2963.521973, 197.635666, 512.396667>) used the Admin Hammer to build wood_base_half
+09:45:39.687 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2963.470947, 197.787888, 512.396484>) used the Admin Hammer to build wood_wallframe_half
+09:45:42.382 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2963.470947, 197.787888, 512.396484>) used the Admin Hammer to build wood_wallfinished_half
+09:50:19.226 [Killfeed] Crencker got killed.
+09:51:57.328 [Territory] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) created territory "British UwU" at <2824.972656, 269.429993, 409.227356>
+09:52:48.226 [Territory] Admin "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) deleted territory "British UwU" at <2824.972656, 269.429993, 409.227356>
+09:54:25.449 [Territory] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) created territory "British UwU" at <2949.457275, 257.939850, 469.008698>
+09:57:01.980 [BaseRaiding] ExpansionWall6x3 (<2969.405518, 198.031891, 496.408691>) Code set by "player "London" (ID = "kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=" at <2968.512695, 197.962860, 497.286346>)" and the code is 1110
+09:57:31.234 [BaseRaiding] ExpansionWall6x3 (<2955.156494, 216.065063, 482.002991>) Code set by "player "London" (ID = "kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=" at <2955.737305, 216.090363, 482.472900>)" and the code is 1011
+10:03:27.199 [Territory] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2953.814209, 266.025879, 468.793121>) was invited to join the territory British UwU at <2949.457275, 257.939850, 469.008698> by the player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=)
+10:04:23.207 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.561279, 261.639618, 470.451965>) used the Admin Hammer to build wood_base
+10:04:27.437 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.603760, 261.539886, 470.275970>) used the Admin Hammer to build wood_doorframe
+10:04:39.003 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.603760, 261.539886, 470.275970>) used the Admin Hammer to build wood_doorfinished
+10:08:38.539 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2950.204834, 261.877960, 469.670074>) used the Admin Hammer to build wood_base_third
+10:11:09.117 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6708.32, 107.76, 6117.22>) entered the safezone
+10:14:58.738 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+10:16:09.695 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.633057, 262.632050, 473.500000>) used the Admin Hammer to build wood_base
+10:16:14.500 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.633057, 262.632050, 473.500000>) used the Admin Hammer to build wood_doorframe
+10:16:18.597 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.633057, 262.632050, 473.500000>) used the Admin Hammer to build wood_doorfinished
+10:19:55.394 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2951.503906, 259.698547, 469.447052>) used the Admin Hammer to build wood_base
+10:20:06.898 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2951.503906, 259.698547, 469.447052>) used the Admin Hammer to build wood_wallframe
+10:20:11.660 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2951.503906, 259.698547, 469.447052>) used the Admin Hammer to build wood_wallfinished
+10:20:12.800 [Safezone] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6756.73, 103.63, 6058.05>) entered the safezone
+10:21:06.398 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold woodenplank x124 (eaa96c30, ae4e5ab0, d2b74240, abd1e070, 3cd13ab0, b84dd8a0, 3cd2e680, bbeea2d0, 10601df0, 13a337a0, b11c2410, b11bf5d0, e7196e80, a7970370) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 4588.
+10:21:29.656 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.486572, 266.025879, 468.323456>) used the Admin Hammer to build wood_base
+10:21:33.457 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has withdrawn 4525 from his ATM account.
+10:21:35.695 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.486572, 266.025879, 468.323456>) used the Admin Hammer to build wood_floorframe
+10:21:39.996 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.486572, 266.025879, 468.323456>) used the Admin Hammer to build wood_floorfinished
+10:22:45.292 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.642578, 263.341461, 470.686462>) used the Admin Hammer to build wood_base
+10:22:49.488 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.642578, 263.341461, 470.686462>) used the Admin Hammer to build wood_floorframe
+10:22:52.062 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.642578, 263.341461, 470.686462>) used the Admin Hammer to build wood_floorfinished
+10:23:09.890 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought hacksaw x1 (b62ee4f0) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+10:23:11.703 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought whetstone x1 (b62e2bf0) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+10:23:12.148 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought whetstone x1 (b62e3780) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+10:23:18.406 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought nailbox x1 (b62f1ec0) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+10:23:19.046 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought nailbox x1 (b62ec240) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 300.
+10:23:34.546 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has deposited 8496 on his ATM account.
+10:23:58.164 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+10:25:33.292 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.809082, 246.326660, 471.316284>) used the Admin Hammer to build wood_base
+10:25:37.691 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.809082, 246.326660, 471.316284>) used the Admin Hammer to build wood_doorframe
+10:25:41.457 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.809082, 246.326660, 471.316284>) used the Admin Hammer to build wood_doorfinished
+10:27:12.691 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.748535, 247.940781, 472.117676>) used the Admin Hammer to build wood_base_third
+10:27:16.554 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.748535, 247.940781, 472.117676>) used the Admin Hammer to build wood_wallframe_third
+10:27:20.257 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2949.748535, 247.940781, 472.117676>) used the Admin Hammer to build wood_wallfinished_third
+10:28:14.757 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.577148, 236.019653, 483.434662>) used the Admin Hammer to build wood_base
+10:28:18.421 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.577148, 236.019653, 483.434662>) used the Admin Hammer to build wood_doorframe
+10:28:22.859 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2947.577148, 236.019653, 483.434662>) used the Admin Hammer to build wood_doorfinished
+10:29:50.167 [Safezone] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6723.15, 111.38, 6026.69>) entered the safezone
+10:31:24.757 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2948.594971, 252.434280, 484.860443>) used the Admin Hammer to build wood_base
+10:31:28.753 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2948.594971, 252.434280, 484.860443>) used the Admin Hammer to build wood_doorframe
+10:31:32.351 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2948.594971, 252.434280, 484.860443>) used the Admin Hammer to build wood_doorfinished
+10:32:16.777 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold woodencrate x1 (b69b4d40) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1500.
+10:32:24.703 [Party] Player "PatMax" (id=jiSboo32SQZAMp7VxNNFwsMUk2-s3fPPrck_5xKkgu0=) joinded the party "Nasse" (id=18 ownerUID=jiSboo32SQZAMp7VxNNFwsMUk2-s3fPPrck_5xKkgu0= ownerName=PatMax)
+10:32:28.316 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold woodencrate x1 (b69b6460) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1500.
+10:32:36.398 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold woodencrate x1 (bdfd06d0) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1500.
+10:32:47.476 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has sold woodencrate x1 (b2a0fb70) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1500.
+10:33:33.183 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2950.005615, 263.496674, 472.529083>) used the Admin Hammer to build wood_base
+10:33:33.996 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has deposited 6000 on his ATM account.
+10:34:38.750 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has withdrawn 8000 from his ATM account.
+10:36:52.273 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6707.94, 107.9, 6116.66>) entered the safezone
+10:36:52.277 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+10:36:53.093 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought expansioncamoboxkit x1 (ac4d5530) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2600.
+10:37:32.660 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought partytent_brown x1 (be5315e0) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2600.
+10:38:05.960 [ATM] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has deposited 2800 on his ATM account.
+10:38:29.046 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+10:40:13.691 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+10:41:48.382 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.900391, 253.893066, 483.027557>) used the Admin Hammer to build wood_base
+10:41:53.281 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.900391, 253.893066, 483.027557>) used the Admin Hammer to build wood_wallframe
+10:41:56.976 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2946.900391, 253.893066, 483.027557>) used the Admin Hammer to build wood_wallfinished
+10:42:24.847 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2944.187256, 255.757095, 485.664581>) used the Admin Hammer to build wood_base
+10:42:32.914 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2944.187256, 255.757095, 485.664581>) used the Admin Hammer to build wood_floorframe
+10:42:36.445 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2944.187256, 255.757095, 485.664581>) used the Admin Hammer to build wood_floorfinished
+10:43:10.480 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2945.375488, 255.718887, 479.378571>) used the Admin Hammer to build wood_base
+10:43:15.011 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2945.375488, 255.718887, 479.378571>) used the Admin Hammer to build wood_floorframe
+10:43:18.945 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2945.375488, 255.718887, 479.378571>) used the Admin Hammer to build wood_floorfinished
+10:49:01.312 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2952.911865, 232.360260, 481.867004>) used the Admin Hammer to build wood_base
+10:49:06.171 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2952.911865, 232.360260, 481.867004>) used the Admin Hammer to build wood_doorframe
+10:49:10.976 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2953.064453, 232.414856, 482.012695>) used the Admin Hammer to build wood_doorfinished
+10:52:09.906 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.946777, 233.719467, 481.070160>) used the Admin Hammer to build wood_base
+10:52:13.644 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2955.024414, 233.770889, 481.042755>) used the Admin Hammer to build wood_wallframe
+10:53:47.671 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2955.024414, 233.770889, 481.042755>) used the Admin Hammer to build wood_wallfinished
+10:54:11.605 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2955.173340, 233.982147, 480.499207>) used the Admin Hammer to build wood_base
+10:54:15.468 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2955.173340, 233.982147, 480.499207>) used the Admin Hammer to build wood_floorframe
+10:54:19.273 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2955.173340, 233.982147, 480.499207>) used the Admin Hammer to build wood_floorfinished
+10:55:04.273 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.958252, 233.831787, 480.612610>) used the Admin Hammer to build wood_base
+10:55:07.503 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.958252, 233.831787, 480.612610>) used the Admin Hammer to build wood_floorframe
+10:55:10.101 [AdminTools] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<2954.958252, 233.831787, 480.612610>) used the Admin Hammer to build wood_floorfinished
+10:58:08.343 [Party] Player "PatMax" (id=jiSboo32SQZAMp7VxNNFwsMUk2-s3fPPrck_5xKkgu0=) left the party "Nasse" (id=18 ownerUID=jiSboo32SQZAMp7VxNNFwsMUk2-s3fPPrck_5xKkgu0= ownerName=PatMax)
+11:00:01.542 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:00:01.550 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:00:01.554 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+11:00:01.562 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

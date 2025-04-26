@@ -1,0 +1,18 @@
+---------------------------------------------
+ServerPanel log started at 29.03.2025 07:01:02
+
+29.03.2025 07:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+29.03.2025 07:01:02 [ServerPanelConfig]: Reading Server Config
+29.03.2025 07:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+29.03.2025 07:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+29.03.2025 07:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+29.03.2025 07:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+29.03.2025 07:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+29.03.2025 07:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+29.03.2025 07:01:39 [ServerPanelConfigRPC]: kid_thicarus (PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) - Config sync
+29.03.2025 07:01:48 [ServerPanelConfigRPC]: HoldOn (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+29.03.2025 07:01:57 [ServerPanelConfigRPC]: Authority (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+29.03.2025 07:04:20 [ServerPanelStatsRPC]: Authority (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+29.03.2025 07:04:20 [ServerPanelStatsRPC]: Authority (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+29.03.2025 07:04:45 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+29.03.2025 07:30:57 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync

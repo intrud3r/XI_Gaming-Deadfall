@@ -1,0 +1,7 @@
+{
+    "LicenseKey": "DH2M3ARL-QPYS34ZR-XRJYAJDZ-QB5515ON",
+    "EnableDebugMode": "false",
+    "DropItemsIfNoSpace": "false (useful for when printing large items)",
+    "RequireGeneratorForStatic": "false",
+    "DegradeFolders": "false"
+}

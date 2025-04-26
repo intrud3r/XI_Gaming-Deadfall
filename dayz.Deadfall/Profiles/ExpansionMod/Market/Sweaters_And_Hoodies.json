@@ -1,0 +1,165 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SWEATERS & #STR_EXPANSION_MARKET_CATEGORY_HOODIES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "sweater_gray",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sweater_blue",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sweater_red",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sweater_green",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 25,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_blue",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_black",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_brown",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_grey",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_red",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hoodie_green",
+      "MaxPriceThreshold": 70,
+      "MinPriceThreshold": 35,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Military_Sweater",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Military_Sweater_Red",
+        "Military_Sweater_Blue",
+        "Military_Sweater_Green",
+        "Military_Sweater_White",
+        "Military_Sweater_Black"
+      ]
+    },
+    {
+      "ClassName": "Winter_Parka_Base",
+      "MaxPriceThreshold": 280,
+      "MinPriceThreshold": 280,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Winter_Parka_White",
+        "Winter_Parka_Green"
+      ]
+    },
+    {
+      "ClassName": "Wool_GreatCoat_Navy",
+      "MaxPriceThreshold": 310,
+      "MinPriceThreshold": 310,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Wool_GreatCoat_Olive",
+        "Wool_GreatCoat_Grey"
+      ]
+    }
+  ]
+}

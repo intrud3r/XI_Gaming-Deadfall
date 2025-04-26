@@ -1,0 +1,21 @@
+03:06:28.473 [MissionAirdrop] An airdrop is heading towards "Onondaga" (pos=<5756.386719, 0.000000, 7200.799316> type=Random_Onondaga) with a ExpansionAirdropContainer_Military
+04:30:48.532 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Military
+05:27:02.103 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1121.89, 161.71, 9042.79>) as driver
+05:27:46.371 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1350.15, 103.58, 8927.27>)
+05:29:08.867 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1350.15, 103.58, 8927.27>) as driver
+05:29:23.086 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1348.6, 103.61, 8925.03>)
+05:29:29.350 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1348.6, 103.61, 8925.03>) as driver
+05:29:31.653 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1348.6, 103.61, 8925.03>)
+05:29:32.551 [VehicleDeleted] Old_Bike_White (id=CB4A8AD18C435D9EBCC4928F1AD5D28C pos=<1348.6, 103.61, 8925.03>)
+05:29:44.419 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=41D1D16E0B4972D5DA532F88E4A94A3C pos=<1348.92, 103.59, 8926.78>) as driver
+05:33:56.823 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=41D1D16E0B4972D5DA532F88E4A94A3C pos=<881.76, 157.87, 8133.34>)
+05:48:12.301 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=41D1D16E0B4972D5DA532F88E4A94A3C pos=<881.76, 157.87, 8133.34>) as driver
+05:48:34.323 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=41D1D16E0B4972D5DA532F88E4A94A3C pos=<876.72, 158.07, 8128.76>)
+05:48:37.401 [VehicleDeleted] Old_Bike_White (id=41D1D16E0B4972D5DA532F88E4A94A3C pos=<876.72, 158.07, 8128.76>)
+05:48:46.188 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<875.83, 157.87, 8126.65>) as driver
+05:50:50.537 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<1395.06, 156.43, 7677.18>)
+05:53:12.085 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<1395.06, 156.43, 7677.18>) as driver
+05:54:51.252 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<1604.81, 146.67, 7117.54>)
+05:56:27.167 [VehicleEnter] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) entered vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<1604.81, 146.67, 7117.54>) as driver
+05:58:26.553 [MissionAirdrop] An airdrop is heading towards "Erie" (pos=<723.437744, 0.000000, 8062.600098> type=Random_Erie) with a ExpansionAirdropContainer_Medical
+05:59:09.540 [VehicleLeave] Player "kowalski" (id=fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) left vehicle Bicycle (id=ABB3BE2F1D425EB05B2413BC8B5BB905 pos=<2582.17, 228.97, 7350.75>)

@@ -1,0 +1,54 @@
+---------------------------------------------
+ServerPanel log started at 17.03.2025 15:01:03
+
+17.03.2025 15:01:03 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+17.03.2025 15:01:03 [ServerPanelConfig]: Reading Server Config
+17.03.2025 15:01:03 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+17.03.2025 15:01:03 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+17.03.2025 15:01:03 [ServerPanelConfigRPC]: GetConfigRequest
+17.03.2025 15:01:03 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+17.03.2025 15:01:03 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+17.03.2025 15:01:03 [ServerPanelHelpers]: Initialized ServerPanelBase
+17.03.2025 15:57:05 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+17.03.2025 17:11:38 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+17.03.2025 17:24:29 [ServerPanelConfigRPC]: Jake (F4c2wgt_ZfcXU3ZZMUtUrag-XzR3Q2HZ5Daezp68KWI=) - Config sync
+17.03.2025 17:31:18 [ServerPanelConfigRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Config sync
+17.03.2025 17:31:58 [ServerPanelConfigRPC]: Jake (F4c2wgt_ZfcXU3ZZMUtUrag-XzR3Q2HZ5Daezp68KWI=) - Config sync
+17.03.2025 17:36:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 17:36:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 17:41:01 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+17.03.2025 17:44:26 [ServerPanelConfigRPC]: RoamDee (frclhQGSbmussfaaohIfYLsIajOW8_O57j7ATxHZZO0=) - Config sync
+17.03.2025 17:51:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 17:51:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:03:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:03:15 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:03:46 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:03:46 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:10:49 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+17.03.2025 18:11:23 [ServerPanelConfigRPC]: RoamDee (frclhQGSbmussfaaohIfYLsIajOW8_O57j7ATxHZZO0=) - Config sync
+17.03.2025 18:13:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:13:07 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:14:23 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+17.03.2025 18:15:04 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:15:04 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+17.03.2025 18:19:31 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:19:31 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+17.03.2025 18:21:34 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+17.03.2025 18:22:50 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+17.03.2025 18:35:59 [ServerPanelConfigRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Config sync
+17.03.2025 18:36:27 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:36:27 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:36:30 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:36:30 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+17.03.2025 18:36:49 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:36:49 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:40:16 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:40:16 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+17.03.2025 18:41:07 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+17.03.2025 18:41:07 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+17.03.2025 18:55:11 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+17.03.2025 18:55:11 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+17.03.2025 18:55:17 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:55:17 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+17.03.2025 18:55:49 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+17.03.2025 18:55:49 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync

@@ -1,0 +1,14 @@
+---------------------------------------------
+ServerPanel log started at 02.04.2025 02:01:03
+
+02.04.2025 02:01:03 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+02.04.2025 02:01:03 [ServerPanelConfig]: Reading Server Config
+02.04.2025 02:01:03 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+02.04.2025 02:01:03 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+02.04.2025 02:01:03 [ServerPanelConfigRPC]: GetConfigRequest
+02.04.2025 02:01:03 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+02.04.2025 02:01:03 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+02.04.2025 02:01:03 [ServerPanelHelpers]: Initialized ServerPanelBase
+02.04.2025 02:26:43 [ServerPanelConfigRPC]: CracklinOatBranCereal (nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) - Config sync
+02.04.2025 03:00:32 [ServerPanelConfigRPC]: YellowMan03 (Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs=) - Config sync
+02.04.2025 03:25:53 [ServerPanelConfigRPC]: WhatYouGonnaDo (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync

@@ -1,0 +1,37 @@
+19:01:43.273 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:02:30.265 [Party] Player "Sherman" (id=AUAOz-139bUYYmmGpZK-0TkWCQp6vEP3irvR0Qkx5Ys=) joinded the party "engr" (id=28 ownerUID=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ= ownerName=Gus)
+19:02:32.351 [Party] Player "Gus" (id=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ=) joinded the party "engr" (id=28 ownerUID=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ= ownerName=Gus)
+19:06:22.648 [MissionAirdrop] An airdrop is heading towards "Oneida" (pos=<2112.001953, 0.000000, 6058.072266> type=Random_Oneida) with a ExpansionAirdropContainer_Basebuilding
+19:10:34.351 [Party] Player "Sherman" (id=AUAOz-139bUYYmmGpZK-0TkWCQp6vEP3irvR0Qkx5Ys=) left the party "engr" (id=28 ownerUID=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ= ownerName=Gus)
+19:10:36.703 [Party] Player "Gus" (id=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ=) left the party "engr" (id=28 ownerUID=RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ= ownerName=Gus)
+20:03:15.421 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+20:33:03.812 [MissionAirdrop] An airdrop is heading towards "Oneida" (pos=<2112.001953, 0.000000, 6058.072266> type=Random_Oneida) with a ExpansionAirdropContainer_Basebuilding
+20:40:24.750 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) joinded the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+21:00:41.335 [VehicleDeleted] Old_Bike_Pink (id=5E2A61FBE54EC6444ABFDC80A0C71610 pos=<8387.65, 131.46, 1080.04>)
+21:00:52.812 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=4C4E2AFA5348C09A3C4646B37639F78A pos=<8384.78, 130.73, 1085.16>) as driver
+21:00:54.960 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=4C4E2AFA5348C09A3C4646B37639F78A pos=<8384.78, 130.73, 1085.16>)
+21:00:56.359 [VehicleDeleted] Old_Bike_Pink (id=4C4E2AFA5348C09A3C4646B37639F78A pos=<8384.78, 130.73, 1085.16>)
+21:01:04.296 [VehicleDeleted] Old_Bike_White (id=36BE7DC65445B567A3F3C5ABAB4F491B pos=<8386.95, 131.78, 1079.06>)
+21:01:13.265 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<8384.79, 130.76, 1085.04>) as driver
+21:12:50.578 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<7077.44, 162.65, 5177.15>)
+21:13:14.164 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7091.72, 162.63, 5143.63>) as driver
+21:13:26.187 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7075.72, 162.63, 5175.94>)
+21:13:53.593 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7075.72, 162.63, 5175.94>) as driver
+21:15:54.820 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<6874.08, 127.09, 5599>)
+21:19:25.414 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) invited the player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=)to the party named Deadbeets
+21:19:30.437 [Party] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) joinded the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+21:20:45.523 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<6874.08, 127.09, 5599>) as driver
+21:21:07.875 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<6869.85, 127.09, 5599.42>)
+21:21:14.140 [VehicleEnter] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) entered vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<6869.85, 127.09, 5599.42>) as driver
+21:22:38.523 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<7077.44, 162.65, 5177.15>) as driver
+21:24:04.132 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<7654.71, 127.23, 4931.26>)
+21:24:10.945 [VehicleLeave] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) left vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7650.54, 127.21, 4938.07>)
+21:30:35.945 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<7654.71, 127.23, 4931.26>) as driver
+21:30:39.796 [VehicleEnter] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) entered vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7650.54, 127.21, 4938.07>) as driver
+21:32:43.195 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=70BBEFA61542A9F835419FA6A5F7C2FC pos=<7957.96, 180.54, 4338.94>)
+21:33:18.570 [VehicleLeave] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) left vehicle Bicycle (id=E3E9976E9A4F64FF38AA03A427EC7C56 pos=<7950.64, 180.52, 4345.91>)
+21:41:10.828 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+21:41:34.671 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) joinded the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+21:58:37.843 [MissionAirdrop] An airdrop is heading towards "Huron" (pos=<5645.566895, 0.000000, 8244.150391> type=Random_Huron) with a ExpansionAirdropContainer
+21:58:42.750 [Party] Player "xXBrighteyes" (id=BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) left the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+21:59:58.875 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)

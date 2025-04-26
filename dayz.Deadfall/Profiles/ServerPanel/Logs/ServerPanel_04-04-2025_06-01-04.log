@@ -1,0 +1,13 @@
+---------------------------------------------
+ServerPanel log started at 04.04.2025 06:01:04
+
+04.04.2025 06:01:04 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+04.04.2025 06:01:04 [ServerPanelConfig]: Reading Server Config
+04.04.2025 06:01:04 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+04.04.2025 06:01:04 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+04.04.2025 06:01:04 [ServerPanelConfigRPC]: GetConfigRequest
+04.04.2025 06:01:04 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+04.04.2025 06:01:04 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+04.04.2025 06:01:04 [ServerPanelHelpers]: Initialized ServerPanelBase
+04.04.2025 06:49:48 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync
+04.04.2025 09:34:14 [ServerPanelConfigRPC]: Vanissi (EDPuDG4wtgouvz-V5_kzgl4Lpp3Jw02Jx7iEgqCJrz4=) - Config sync

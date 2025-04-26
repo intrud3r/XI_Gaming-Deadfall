@@ -1,0 +1,75 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BOXES AND MORE CONTAINERS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "mmg_crate04_black",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_crate04_blue",
+        "mmg_crate04_yellow",
+        "mmg_crate04_red"
+        ]
+    },
+    {
+      "ClassName": "mmg_grenade_case_green",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        ]
+    },
+    {
+      "ClassName": "mmg_supply_crate_wood",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_supply_crate_grey"
+        ]
+    },
+    {
+      "ClassName": "mmg_army_box_green",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        ]
+    },
+    {
+      "ClassName": "mmg_army_box_medic",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_army_box_medic_grey"
+        ]
+    }
+  ]
+}

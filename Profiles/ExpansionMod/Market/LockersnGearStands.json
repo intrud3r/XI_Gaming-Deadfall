@@ -1,0 +1,93 @@
+{
+  "m_Version": 12,
+  "DisplayName": "LOCKERS AND GEAR STANDS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "mmg_equipment_locker_green_kit",
+      "MaxPriceThreshold": 10200,
+      "MinPriceThreshold": 10200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_equipment_locker_black_kit",
+        "mmg_equipment_locker_grey_kit"
+      ]
+    },
+    {
+      "ClassName": "mmg_armored_cabinet_grey",
+      "MaxPriceThreshold": 9800,
+      "MinPriceThreshold": 9800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_armored_cabinet_green",
+        "mmg_armored_cabinet_rusty"
+      ]
+    },
+    {
+      "ClassName": "mmg_old_safe_green",
+      "MaxPriceThreshold": 6300,
+      "MinPriceThreshold": 6300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_old_safe_grey"
+      ]
+    },
+    {
+      "ClassName": "mmg_old_safe_green",
+      "MaxPriceThreshold": 6300,
+      "MinPriceThreshold": 6300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_old_safe_grey"
+      ]
+    },
+    {
+      "ClassName": "mmg_gear_stand_kit",
+      "MaxPriceThreshold": 4200,
+      "MinPriceThreshold": 4200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_solo_locker_yellow_kit",
+      "MaxPriceThreshold": 9800,
+      "MinPriceThreshold": 9800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_solo_locker_blue_kit",
+        "mmg_solo_locker_red_kit",
+        "mmg_solo_locker_grey_kit",
+        "mmg_solo_locker_purple_kit",
+        "mmg_solo_locker_green_kit",
+        "mmg_solo_locker_medic_kit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+18:02:01.144 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:03:04.170 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:06:22.080 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Military
+18:08:30.371 [Safezone] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8= pos=<6677.99, 102.5, 6144.17>) entered the safezone
+18:08:30.371 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:09:07.946 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold workingboots_brown x1 (edf02560) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 33.
+18:09:09.035 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold workingboots_beige x1 (edeff720) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 11.
+18:09:10.134 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold wellies_brown x1 (fbd678d0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 31.
+18:09:16.561 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold huntingvest x1 (edf002b0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 16.
+18:09:21.491 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold jumpsuitjacket_gray x1 (edefd470) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 4.
+18:09:24.047 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold zmijovkacap_blue x1 (fbd66d40) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 6.
+18:09:27.222 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold cargopants_beige x1 (edefe000) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 26.
+18:09:28.029 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold hunterpants_autumn x1 (edf00e40) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 37.
+18:10:53.919 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold huntingvest x1 (c7fc02c0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 67.
+18:13:57.237 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold cz550 x1 (c865c460, Mag_CZ550_10rnd<c8618d50>, ammo_308win x8) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 540.
+18:14:08.342 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold pickaxe x1 (c6f6b8e0) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 3.
+18:14:09.087 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold pickaxe x1 (edf019d0) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 3.
+18:14:11.195 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold barbedwire x1 (fbd76010) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 84.
+18:14:20.249 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold portablegaslamp x1 (edf030f0) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 14.
+18:14:20.889 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold portablegaslamp x1 (c6bdb550) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 9.
+18:17:35.216 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold jumpsuitjacket_gray x1 (c6baf400) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 4.
+18:17:35.946 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold jumpsuitjacket_red x1 (c7f83780) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 4.
+18:17:36.670 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold woolcoat_red x1 (f72a6c00) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 3.
+18:17:38.272 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold woolcoat_red x1 (f72ab160) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 6.
+18:17:39.157 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold woolcoat_blue x1 (f72a8eb0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 13.
+18:17:41.226 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold woolcoat_blue x1 (f72a8320) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 10.
+18:17:43.748 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold zmijovkacap_brown x1 (c822a350) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 6.
+18:17:52.191 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold workinggloves_beige x1 (ea9550d0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 5.
+18:17:55.105 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold constructionhelmet_white x1 (c822ffd0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 5.
+18:18:06.801 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold wrench x1 (f656c3c0) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:18:35.008 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought rice x1 (20845980) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+18:22:37.996 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6700.36, 102.83, 6071.4>) entered the safezone
+18:22:39.652 [Safezone] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<6700.65, 102.83, 6071.61>) entered the safezone
+18:23:08.915 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=BB1E751C9A4B084124CF35A260B317E7 pos=<6692.36, 106.6, 6050.13>) as driver
+18:23:25.121 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=BB1E751C9A4B084124CF35A260B317E7 pos=<6690.46, 103.19, 6065.74>)
+18:23:37.985 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=BB1E751C9A4B084124CF35A260B317E7 pos=<6690.46, 103.19, 6065.74>) as driver
+18:23:38.852 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has sold m4_oebttstck x1 (f72cae20) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 112.
+18:23:40.622 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=BB1E751C9A4B084124CF35A260B317E7 pos=<6690.46, 103.19, 6065.74>)
+18:23:54.917 [VehicleDeleted] Old_Bike_White (id=BB1E751C9A4B084124CF35A260B317E7 pos=<6690.47, 103.19, 6065.74>)
+18:24:05.834 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has withdrawn 3500 from his ATM account.
+18:24:43.363 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has withdrawn 3000 from his ATM account.
+18:25:42.794 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought tacticalbaconcan x1 (20875d80) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:25:43.342 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought tacticalbaconcan x1 (20875170) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:25:43.617 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought tacticalbaconcan x1 (c81b1900) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:25:44.066 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought tacticalbaconcan x1 (c81ba9c0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:26:07.547 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold militaryboots_bluerock x1 (f658cc10) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 39.
+18:26:34.711 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought militaryboots_bluerock x1 (240826f0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 105.
+18:27:31.565 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought ammobox_300aac_ap_20rnd x30 (dbcdd620) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3000.
+18:27:42.892 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought tacticalbaconcan x1 (bf3142e0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:27:51.686 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold mag_deagle_9rnd x1 (edeed610, ammo_357 x3) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 19.
+18:28:26.888 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has withdrawn 5000 from his ATM account.
+18:28:53.196 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (26861520) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:54.302 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (268620b0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:54.662 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (26862c40) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:54.829 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (2685c430) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:55.001 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (26860990) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:58.167 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (268671a0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:58.417 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (26866610) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:28:59.100 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_300aac_ap_20rnd x1 (26865a80) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:30:40.145 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought expansionrpg7 x1 (5c16ad0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2500.
+18:31:12.450 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold leathersewingkit x1 (fbd70f20) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:31:13.516 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold sewingkit x1 (fbd3da30) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:31:22.478 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought leathersewingkit x1 (d1074ea0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:31:24.746 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought sewingkit x1 (d107d960) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:31:25.573 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought weaponcleaningkit x1 (d1077ce0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:31:27.220 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought leathersewingkit x1 (d1081ec0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:31:27.908 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought sewingkit x1 (d1085890) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:31:28.577 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has bought weaponcleaningkit x1 (d1082a50) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:33:13.475 [Safezone] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14= pos=<6639.21, 101.52, 6207.44>) entered the safezone
+18:33:51.726 [ATM] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has deposited 395 on his ATM account.
+18:34:29.524 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold acogoptic x1 (c4daa8d0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 225.
+18:34:46.085 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought weaponcleaningkit x1 (d2814e80) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:35:42.204 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mag_saiga_5rnd x1 (b73c7b60, ammo_12gapellets x1) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 78.
+18:35:48.026 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mag_cmag_40rnd x1 (b73a5bf0, ammo_556x45 x40) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 265.
+18:36:36.434 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold gp5gasmask x1 (d1944260) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 90.
+18:40:18.090 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold cz61 x1 (bd542a90) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 525.
+18:40:20.038 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold cz61 x1 (bd5437a0, Mag_CZ61_20Rnd<b37b8150>, ammo_380 x10) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 610.
+18:40:24.217 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold svd x1 (cfd25650) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1500.
+18:40:27.701 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold cz75 x1 (bd52d6f0, Mag_CZ75_15Rnd<b73c2a70>, ammo_9x19 x13, PistolSuppressor<b73c3600>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 118.
+18:40:28.884 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold deagle x1 (cfd27d80) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 300.
+18:40:30.073 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold colt1911 x1 (bd51dec0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 255.
+18:40:31.450 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold p1 x1 (cfd19f70) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 187.
+18:40:31.883 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold pnc_w_awm x1 (e772b520, PNC_Mag_AWM_5rnd<f67a5dc0>, ammo_338lapuamagnum x5, PNC_Suppressor_338<f67a46a0>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 4542.
+18:40:42.719 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold pnc_w_pkp x1 (bd53dc30, PNC_Mag_PKP_200Rnd<b37b6a30>, ammo_762x54 x200) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 5993.
+18:40:43.925 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold akm x1 (cfd1c6a0, AK_FoldingBttstck<d194d8b0>, AK_RailHndgrd<d194c190>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1462.
+18:40:45.994 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold famas x1 (cfd1fae0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1125.
+18:40:51.966 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has withdrawn 2000 from his ATM account.
+18:42:17.099 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought battery9v x1 (b704b170) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+18:42:17.585 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought battery9v x1 (b704a5e0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+18:42:18.727 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought pnc_w_barretm82a1_snow x1 (cfd31a40, PNC_BarretM82A1_Suppressor<b704f6d0>) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7250.
+18:42:52.685 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold pso1optic x1 (c4da6070) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 412.
+18:42:53.938 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold pso1optic x1 (c5408890) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 825.
+18:42:55.645 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold m4_t3nrdsoptic x1 (c4dd7c90) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 187.
+18:42:59.496 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold pistolsuppressor x1 (b73b0960) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 8.
+18:43:45.384 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_moremag_fal_20rndcoupledclamp x1 (243b9f60, ammo_308win x40) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 280.
+18:43:55.996 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought leathersewingkit x1 (243bc210) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:43:56.668 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought sewingkit x1 (243bb680) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:43:57.324 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought weaponcleaningkit x1 (243c2a20) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:44:06.484 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought pnc_mag_barretm82a1_10rnd x1 (243c35b0, ammo_50bmg x10) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 520.
+18:44:09.425 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought pnc_mag_barretm82a1_10rnd x1 (243c4140, ammo_50bmg x10) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 520.
+18:44:16.379 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold expansion_m16 x1 (bd535990, Mag_STANAG_30Rnd<b73c4d20>, ammo_556x45 x5, M4_Suppressor<b73cef00>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 308.
+18:44:20.844 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold ammobox_408cheytac_20rnd x1 (b73bb6d0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 36.
+18:44:25.385 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold ammo_308win x1 (b73c1350) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:44:26.339 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold ammo_308win x1 (b73c1350) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:44:45.734 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_50bmg_20rnd x1 (2439d0e0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:44:46.820 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_50bmg_20rnd x1 (243a0ab0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:44:50.101 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has sold weaponcleaningkit x1 (243c2a20) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 6.
+18:44:50.755 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has sold sewingkit x1 (243bb680) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 3.
+18:44:51.409 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has sold leathersewingkit x1 (243bc210) at the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:44:58.444 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought ducttape x1 (243a7e50) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:45:26.522 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:26.765 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:27.356 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:27.558 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:27.758 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:27.960 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:28.172 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:28.825 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:29.552 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:30.302 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammo_338lapuamagnum x1 (edef8380) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 0.
+18:45:41.041 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mag_cz61_20rnd x1 (b37b5ea0, ammo_380 x8) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 26.
+18:45:46.831 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mag_stanagcoupled_30rnd x1 (b73a8a30, ammo_556x45 x60) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 225.
+18:45:48.660 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mag_1911_7rnd x1 (b73b5a50, ammo_45acp x5) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 12.
+18:46:05.238 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has deposited 3065 on his ATM account.
+18:46:06.693 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_suppressor_308win x1 (bf3e5160) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 50.
+18:46:09.173 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_fal_compensator_1 x1 (b73c7b60) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 40.
+18:46:16.049 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ammobox_12gaslug_10rnd x1 (fbd6f800) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 15.
+18:46:28.522 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammo_338lapuamagnum x1 (b73cb530) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+18:46:28.642 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammo_338lapuamagnum x1 (b73c4d20) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+18:46:28.749 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammo_338lapuamagnum x1 (b73d11b0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+18:46:29.872 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f658fa50) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:30.049 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f658fa50) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:30.624 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f658fa50) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:30.770 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (b73cb530) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:30.927 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (b73d11b0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:31.298 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (b73c4d20) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:31.402 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:31.811 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:31.921 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.061 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.262 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.411 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.558 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.707 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:32.859 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:33.015 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67aa320) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:33.134 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67a9790) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:33.564 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67a9790) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:34.148 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_338lapuamagnum x1 (f67a9790) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+18:46:50.389 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_suppressor_308win x1 (c513b240) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 50.
+18:46:51.008 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_suppressor_308win x1 (c5144890) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 50.
+18:46:52.208 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_suppressor_308win x1 (c513e080) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 50.
+18:46:52.411 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold pnc_mag_awm_5rnd x1 (f658eec0, ammo_338lapuamagnum x5) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 98.
+18:46:53.074 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold pnc_mag_awm_5rnd x1 (f65886b0, ammo_338lapuamagnum x5) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 380.
+18:46:55.004 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold pnc_mag_awm_5rnd x1 (f67dc0f0, ammo_338lapuamagnum x5) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 192.
+18:47:26.399 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought weaponcleaningkit x1 (c72f98a0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:47:27.227 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought weaponcleaningkit x1 (c72fe990) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:47:29.345 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought leathersewingkit x1 (d1404240) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:47:31.333 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought sewingkit x1 (d1401400) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:47:31.808 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought sewingkit x1 (d13ffce0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:47:32.242 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought sewingkit x1 (d14036b0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+18:47:41.069 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought petrollighter x1 (d1409ec0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:47:41.703 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:47:41.703 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:47:46.171 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:48:01.929 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought firefighteraxe x1 (c65ec5d0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 30.
+18:48:05.870 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought whetstone x1 (c65e8c00) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:48:06.428 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought whetstone x1 (c65f5090) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:48:07.024 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought whetstone x1 (c65f3970) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:48:09.186 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought lockpick x1 (c65effa0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:48:34.025 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pot x1 (503abf0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 25.
+18:48:49.898 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ducttape x1 (c1e48160) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+18:50:13.625 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought pnc_m60_mag x1 (bf91c500, ammo_308win x200) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1150.
+18:50:31.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:31.085 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.9, 148.17, 5711.47>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:31.085 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:31.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 278
+18:50:31.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:32.681 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:32.682 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.9, 148.17, 5711.69>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:32.682 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:32.682 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 278 to 256
+18:50:32.682 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:34.259 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:34.259 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.92, 148.17, 5711.7>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:34.259 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:34.259 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 256 to 234
+18:50:34.260 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:34.749 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:34.749 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7124.02, 148.17, 5711.76>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:34.749 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:34.749 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 234 to 212
+18:50:34.750 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:36.157 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:36.157 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.92, 148.17, 5711.7>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:36.157 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:36.157 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 212 to 190
+18:50:36.157 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:36.647 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:36.647 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7124.02, 148.17, 5711.73>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:36.647 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:36.648 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 190 to 168
+18:50:36.648 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:37.361 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:37.362 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.85, 148.17, 5711.69>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:37.362 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:37.362 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 168 to 146
+18:50:37.362 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:37.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:37.843 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.95, 148.17, 5711.71>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:37.844 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:37.844 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 146 to 124
+18:50:37.844 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:38.546 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:38.546 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.78, 148.17, 5711.68>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:38.546 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:38.547 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 124 to 102
+18:50:38.547 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:39.045 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:39.046 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.88, 148.17, 5711.71>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:39.046 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:39.046 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 102 to 80
+18:50:39.046 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:39.748 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:39.749 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.71, 148.17, 5711.67>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:39.749 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:39.749 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 80 to 58
+18:50:39.749 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:40.256 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:40.256 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.82, 148.17, 5711.71>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:40.256 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:40.256 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 58 to 36
+18:50:40.257 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:40.947 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:40.948 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.64, 148.17, 5711.68>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:40.948 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:40.948 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 36 to 14
+18:50:40.948 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:41.447 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:41.448 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.75, 148.17, 5711.71>) damaged ExpansionBarbedWire at <7124.78, 148.15, 5713.18>
+18:50:41.448 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:41.448 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14 to 0
+18:50:41.448 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:53.752 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:53.752 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.68, 148.21, 5712.59>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:50:53.752 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:53.752 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 278
+18:50:53.753 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:55.286 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:55.286 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.69, 148.21, 5712.6>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:50:55.286 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:55.286 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 278 to 256
+18:50:55.286 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:57.107 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:57.108 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.74, 148.21, 5712.78>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:50:57.108 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:57.108 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 256 to 234
+18:50:57.108 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:50:57.616 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:50:57.616 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.87, 148.21, 5712.79>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:50:57.617 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:50:57.617 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 234 to 212
+18:50:57.617 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:02.156 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ammobox_308win_20rnd x25 (bfbb2680) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 800.
+18:51:17.711 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:17.711 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.8, 148.22, 5711.79>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:17.711 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:17.711 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 212 to 190
+18:51:17.712 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:18.215 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:18.215 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.98, 148.22, 5712.45>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:18.216 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:18.216 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 190 to 168
+18:51:18.216 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:18.958 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:18.959 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.89, 148.21, 5712.69>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:18.959 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:18.959 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 168 to 146
+18:51:18.959 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:21.316 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:21.317 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.87, 148.22, 5712.37>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:21.317 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:21.317 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 146 to 124
+18:51:21.317 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:22.913 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:22.913 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.88, 148.22, 5712.38>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:22.913 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:22.913 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 124 to 102
+18:51:22.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:24.511 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:24.511 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7129.18, 148.22, 5712.46>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:24.511 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:24.511 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 102 to 80
+18:51:24.512 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:26.390 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:26.391 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.76, 148.21, 5712.51>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:26.391 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:26.391 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 80 to 58
+18:51:26.391 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:27.883 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:27.883 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.78, 148.21, 5712.54>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:27.883 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:27.883 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 58 to 36
+18:51:27.883 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:29.549 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:29.549 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.79, 148.21, 5712.55>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:29.549 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:29.550 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 36 to 14
+18:51:29.550 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:31.157 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:51:31.157 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7128.82, 148.21, 5712.73>) damaged ExpansionBarbedWire at <7130.69, 148.2, 5715.34>
+18:51:31.157 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:51:31.157 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14 to 0
+18:51:31.158 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:51:49.359 [BaseRaiding] ExpansionWall6x3 (<7127.477539, 148.107330, 5717.241211>) Damaged "player "Mard" (ID = "OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=" at <7128.521973, 148.165466, 5718.221191>)" by 10 health points. Reason: Failed to enter the correct code.
+18:51:49.360 [BaseRaiding] ExpansionWall6x3 (<7127.477539, 148.107330, 5717.241211>) The correct code was 9191 and the player tried 6258
+18:52:20.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:20.156 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7126.94, 148.1, 5722.86>) damaged ExpansionBarbedWire at <7124.18, 148.07, 5720.57>
+18:52:20.156 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:52:20.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 278
+18:52:20.157 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:21.525 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:21.526 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7126.82, 148.11, 5722.03>) damaged ExpansionBarbedWire at <7124.18, 148.07, 5720.57>
+18:52:21.526 [BaseBuildingRaiding] They dealt 22 * 1 = 22 damage with MeleeSharpLight_4 from CombatKnife
+18:52:21.526 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 278 to 256
+18:52:21.526 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.331 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<cf95d4e0> at <7124.786133, 148.108749, 5713.961426> has been hit by explosive M67Grenade<ee383640>
+18:52:32.331 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.331 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7124.79, 148.11, 5713.96>
+18:52:32.332 [BaseBuildingRaiding] They dealt 27.9609 * 50 = 1398.05 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.332 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28602
+18:52:32.332 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.332 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<cca731c0> at <7121.506348, 148.108276, 5716.652832> has been hit by explosive M67Grenade<ee383640>
+18:52:32.332 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.332 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7121.51, 148.11, 5716.65>
+18:52:32.333 [BaseBuildingRaiding] They dealt 27.6131 * 50 = 1380.65 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.333 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28619.3
+18:52:32.333 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.333 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<c2de0990> at <7124.814453, 148.110092, 5716.978516> has been hit by explosive M67Grenade<ee383640>
+18:52:32.333 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.334 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7124.81, 148.11, 5716.98>
+18:52:32.334 [BaseBuildingRaiding] They dealt 25.6825 * 50 = 1284.12 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.334 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28715.9
+18:52:32.334 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.334 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<ca40c620> at <7118.843750, 151.112854, 5716.390625> has been hit by explosive M67Grenade<ee383640>
+18:52:32.334 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.334 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7118.84, 151.11, 5716.39>
+18:52:32.335 [BaseBuildingRaiding] They dealt 48.4463 * 50 = 2422.31 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.335 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27577.7
+18:52:32.335 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.335 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cdc83070> at <7118.521484, 151.110565, 5716.358887> has been hit by explosive M67Grenade<ee383640>
+18:52:32.335 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.335 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 151.11, 5716.36>
+18:52:32.336 [BaseBuildingRaiding] They dealt 47.7778 * 50 = 2388.89 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.336 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27611.1
+18:52:32.336 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.336 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c89a0820> at <7124.197754, 148.107803, 5719.932617> has been hit by explosive M67Grenade<ee383640>
+18:52:32.336 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.336 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7124.2, 148.11, 5719.93>
+18:52:32.336 [BaseBuildingRaiding] They dealt 23.185 * 50 = 1159.25 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.337 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28840.8
+18:52:32.337 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.337 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c2daf980> at <7121.696289, 154.362854, 5716.659180> has been hit by explosive M67Grenade<ee383640>
+18:52:32.337 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.337 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7121.7, 154.36, 5716.66>
+18:52:32.337 [BaseBuildingRaiding] They dealt 41.6193 * 50 = 2080.97 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.338 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29691.4 to 27610.5
+18:52:32.338 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.338 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<cea22230> at <7124.523926, 154.116089, 5716.625000> has been hit by explosive M67Grenade<ee383640>
+18:52:32.338 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.338 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7124.52, 154.12, 5716.62>
+18:52:32.338 [BaseBuildingRaiding] They dealt 43.3156 * 50 = 2165.78 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.338 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27834.2
+18:52:32.339 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.339 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<ca40d230> at <7124.492188, 154.112854, 5716.946777> has been hit by explosive M67Grenade<ee383640>
+18:52:32.339 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.339 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7124.49, 154.11, 5716.95>
+18:52:32.339 [BaseBuildingRaiding] They dealt 42.8564 * 50 = 2142.82 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.339 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27857.2
+18:52:32.340 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.340 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cf5db420> at <7118.521484, 154.112854, 5716.358887> has been hit by explosive M67Grenade<ee383640>
+18:52:32.340 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.340 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 154.11, 5716.36>
+18:52:32.341 [BaseBuildingRaiding] They dealt 41.1539 * 50 = 2057.69 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.341 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27942.3
+18:52:32.341 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.341 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<ce04a160> at <7115.536133, 151.110092, 5716.064453> has been hit by explosive M67Grenade<ee383640>
+18:52:32.342 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.342 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7115.54, 151.11, 5716.06>
+18:52:32.342 [BaseBuildingRaiding] They dealt 40.2328 * 50 = 2011.64 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.342 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 27988.4
+18:52:32.342 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.343 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cdc73f30> at <7124.492188, 157.116089, 5716.947266> has been hit by explosive M67Grenade<ee383640>
+18:52:32.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.343 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7124.49, 157.12, 5716.95>
+18:52:32.343 [BaseBuildingRaiding] They dealt 0.859609 * 50 = 42.9805 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.344 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29845.6 to 29802.7
+18:52:32.344 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.344 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cf5bad70> at <7118.520996, 157.116562, 5716.358398> has been hit by explosive M67Grenade<ee383640>
+18:52:32.344 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.344 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 157.12, 5716.36>
+18:52:32.344 [BaseBuildingRaiding] They dealt 32.7888 * 50 = 1639.44 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.345 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28360.6
+18:52:32.345 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.345 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c2dcdc00> at <7120.917969, 157.117035, 5722.624023> has been hit by explosive M67Grenade<ee383640>
+18:52:32.346 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.346 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7120.92, 157.12, 5722.62>
+18:52:32.346 [BaseBuildingRaiding] They dealt 23.6029 * 50 = 1180.14 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.346 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 28819.9
+18:52:32.346 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.347 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c898fec0> at <7124.475586, 163.702667, 5721.179199> has been hit by explosive M67Grenade<ee383640>
+18:52:32.347 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.347 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7124.48, 163.7, 5721.18>
+18:52:32.348 [BaseBuildingRaiding] They dealt 8.54004 * 50 = 427.002 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.348 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29573
+18:52:32.348 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.348 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<d00a4d80> at <7122.899902, 163.952377, 5721.872559> has been hit by explosive M67Grenade<ee383640>
+18:52:32.349 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.349 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7122.9, 163.95, 5721.87>
+18:52:32.349 [BaseBuildingRaiding] They dealt 7.10904 * 50 = 355.452 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.349 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29644.5
+18:52:32.349 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:32.350 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cea15520> at <7124.146484, 163.702194, 5724.161133> has been hit by explosive M67Grenade<ee383640>
+18:52:32.350 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:32.350 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7124.15, 163.7, 5724.16>
+18:52:32.350 [BaseBuildingRaiding] They dealt 3.64107 * 50 = 182.053 damage with M67Grenade_Ammo from M67Grenade
+18:52:32.350 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29817.9
+18:52:32.351 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.674 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<cf95d4e0> at <7124.786133, 148.108749, 5713.961426> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.675 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.675 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7124.79, 148.11, 5713.96>
+18:52:56.675 [BaseBuildingRaiding] They dealt 32.3382 * 50 = 1616.91 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.675 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28602 to 26985
+18:52:56.675 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.676 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<c2de0990> at <7124.814453, 148.110092, 5716.978516> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.676 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.676 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7124.81, 148.11, 5716.98>
+18:52:56.677 [BaseBuildingRaiding] They dealt 23.3385 * 50 = 1166.92 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.677 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28715.9 to 27549
+18:52:56.677 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.677 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<cca731c0> at <7121.506348, 148.108276, 5716.652832> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.677 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.678 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7121.51, 148.11, 5716.65>
+18:52:56.678 [BaseBuildingRaiding] They dealt 24.5319 * 50 = 1226.6 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.678 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28619.3 to 27392.8
+18:52:56.678 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.678 [BaseBuildingRaiding] BaseRaiding: ExpansionStairBase<ca40c620> at <7118.843750, 151.112854, 5716.390625> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.679 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.679 [BaseBuildingRaiding] A player damaged ExpansionStairS1_5x3x3 at <7118.84, 151.11, 5716.39>
+18:52:56.679 [BaseBuildingRaiding] They dealt 31.7986 * 50 = 1589.93 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.679 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27577.7 to 25987.8
+18:52:56.679 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.679 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cdc83070> at <7118.521484, 151.110565, 5716.358887> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.679 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.680 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 151.11, 5716.36>
+18:52:56.680 [BaseBuildingRaiding] They dealt 30.5369 * 50 = 1526.84 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.680 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27611.1 to 26084.3
+18:52:56.680 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.680 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c89a0820> at <7124.197754, 148.107803, 5719.932617> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.680 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.681 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7124.2, 148.11, 5719.93>
+18:52:56.681 [BaseBuildingRaiding] They dealt 15.527 * 50 = 776.348 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.681 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28840.8 to 28064.4
+18:52:56.681 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.681 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<c2daf980> at <7121.696289, 154.362854, 5716.659180> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.681 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.681 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7121.7, 154.36, 5716.66>
+18:52:56.682 [BaseBuildingRaiding] They dealt 26.6812 * 50 = 1334.06 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.682 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27610.5 to 26276.4
+18:52:56.682 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.682 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cf5db420> at <7118.521484, 154.112854, 5716.358887> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.682 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.682 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 154.11, 5716.36>
+18:52:56.683 [BaseBuildingRaiding] They dealt 20.6964 * 50 = 1034.82 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.683 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27942.3 to 26907.5
+18:52:56.683 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.683 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<ce04a160> at <7115.536133, 151.110092, 5716.064453> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.683 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.684 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7115.54, 151.11, 5716.06>
+18:52:56.684 [BaseBuildingRaiding] They dealt 17.2041 * 50 = 860.207 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.684 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27988.4 to 27128.2
+18:52:56.684 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.685 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<cca3f170> at <7130.757813, 154.113327, 5714.549805> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.685 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.685 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <7130.76, 154.11, 5714.55>
+18:52:56.685 [BaseBuildingRaiding] They dealt 14.3921 * 50 = 719.604 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.686 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29280.4
+18:52:56.686 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:52:56.686 [BaseBuildingRaiding] BaseRaiding: ExpansionFloorBase<cf5bad70> at <7118.520996, 157.116562, 5716.358398> has been hit by explosive RGD5Grenade<ee388ab0>
+18:52:56.686 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:52:56.687 [BaseBuildingRaiding] A player damaged ExpansionFloor6x6 at <7118.52, 157.12, 5716.36>
+18:52:56.687 [BaseBuildingRaiding] They dealt 7.68193 * 50 = 384.097 damage with RGD5Grenade_Ammo from RGD5Grenade
+18:52:56.687 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28360.6 to 27976.5
+18:52:56.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:23.686 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ammobox x1 (d12907f0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 80.
+18:53:24.377 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ammobox x1 (d1293630) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 80.
+18:53:32.558 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:32.558 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:32.558 [BaseBuildingRaiding] They dealt 118.961 * 1 = 118.961 damage with Bullet_9x39 from VSS
+18:53:32.559 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29881
+18:53:32.559 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:32.771 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:32.771 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:32.772 [BaseBuildingRaiding] They dealt 118.959 * 1 = 118.959 damage with Bullet_9x39 from VSS
+18:53:32.772 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29881 to 29762.1
+18:53:32.772 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:32.927 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:32.927 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:32.928 [BaseBuildingRaiding] They dealt 118.958 * 1 = 118.958 damage with Bullet_9x39 from VSS
+18:53:32.928 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29762.1 to 29643.1
+18:53:32.928 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:33.105 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:33.106 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:33.106 [BaseBuildingRaiding] They dealt 118.957 * 1 = 118.957 damage with Bullet_9x39 from VSS
+18:53:33.106 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29643.1 to 29524.2
+18:53:33.107 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:33.292 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:33.292 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:33.292 [BaseBuildingRaiding] They dealt 118.956 * 1 = 118.956 damage with Bullet_9x39 from VSS
+18:53:33.292 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29524.2 to 29405.2
+18:53:33.293 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:33.513 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:33.514 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:33.514 [BaseBuildingRaiding] They dealt 118.959 * 1 = 118.959 damage with Bullet_9x39 from VSS
+18:53:33.514 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29405.2 to 29286.3
+18:53:33.514 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:53:33.664 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+18:53:33.664 [BaseBuildingRaiding] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<7123.09, 148.2, 5707.45>) damaged ExpansionWall6x3 at <7124.79, 149.11, 5713.96>
+18:53:33.664 [BaseBuildingRaiding] They dealt 118.961 * 1 = 118.961 damage with Bullet_9x39 from VSS
+18:53:33.664 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29286.3 to 29167.3
+18:53:33.665 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+18:54:27.745 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold huntingvest x1 (b37bd240) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 16.
+18:54:38.547 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought smershbag x1 (c6bb7ec0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1.
+18:54:45.679 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought hippack_black x1 (c6bbe6d0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:55:30.985 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought smershvest x1 (bceb7260) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 150.
+18:55:37.993 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought gasmask x1 (c83556c0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 120.
+18:55:38.998 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought gasmask x1 (c835ca60) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 120.
+18:55:41.684 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought balaclava3holes_beige x1 (c8356250) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 50.
+18:56:22.116 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought mich2001helmet x1 (b6a1fdf0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 150.
+18:56:26.149 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought platecarrierpouches x1 (b92f84b0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:56:26.985 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought platecarrierpouches x1 (b92f9040) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 100.
+18:57:12.618 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has sold mich2001helmet x1 (b6a1fdf0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 112.
+18:57:24.233 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bandagedressing x1 (c13ae180) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3.
+18:57:25.041 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bandagedressing x1 (c13aed10) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3.
+18:57:25.683 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bandagedressing x1 (c13a8500) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3.
+18:57:26.090 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bandagedressing x1 (c13b26e0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3.
+18:57:34.939 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought purificationtablets x1 (ce06fc80) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:57:36.451 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought purificationtablets x1 (b8cda5c0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 5.
+18:57:38.013 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bloodbagempty x1 (c13aca60) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 18.
+18:57:38.714 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought bloodbagempty x1 (c13c7630) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 18.
+18:57:40.492 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought startkitiv x1 (c13c8d50) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+18:57:41.074 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought startkitiv x1 (c13c3c60) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+18:57:43.985 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought vitaminbottle x1 (bf3361b0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 6.
+18:57:45.673 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought tetracyclineantibiotics x1 (ce0714a0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:57:46.095 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought tetracyclineantibiotics x1 (bfb15940) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 8.
+18:58:06.061 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought marmalade x1 (27476d50) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+18:58:06.525 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought marmalade x1 (27483a60) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+18:58:07.426 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought marmalade x1 (27491380) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+18:59:15.678 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought largegascanister x1 (2737f160) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 200.
+19:00:15.483 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought portablegasstove x1 (b6e2e080, MediumGasCanister<27391270>) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 130.
+19:01:12.905 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought flashlight x1 (273ab2b0, Battery9V<273abe40>) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 25.
+19:01:49.644 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought fishingrod x1 (205b6aa0) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 60.
+19:01:51.386 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought hook x1 (205b0290) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+19:01:51.694 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought hook x1 (205b19b0) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+19:01:51.918 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought hook x1 (205b3c60) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+19:01:52.187 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought hook x1 (205b7630) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 7.
+19:01:54.651 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (27463fc0) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:01:54.867 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (27464bd0) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:01:55.054 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (2747f200) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:01:55.245 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (27480a20) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:01:55.491 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (27481630) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:01:55.627 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought worm x1 (274937b0) from the trader "Fishing (Baty [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:02:27.753 [ATM] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has deposited 10626 on his ATM account.
+19:03:22.316 [ATM] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has withdrawn 16895 from his ATM account.
+19:03:47.895 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ducttape x1 (205dfdb0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+19:03:49.209 [Market] Player "mormonrice" (id=SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) has bought ducttape x1 (205e4310) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 20.
+19:08:03.420 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) Damaged "player "ElBizzy" (ID = "zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=" at <6856.644043, 127.856567, 5758.417969>)" by 10 health points. Reason: Failed to enter the correct code.
+19:08:03.420 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) The correct code was 1738 and the player tried 1312
+19:08:27.021 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) Damaged "player "Mard" (ID = "OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=" at <6856.310059, 128.303436, 5759.291504>)" by 10 health points. Reason: Failed to enter the correct code.
+19:08:27.021 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) The correct code was 1738 and the player tried 1235
+19:08:41.618 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) Damaged "player "ElBizzy" (ID = "zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=" at <6856.185059, 127.919998, 5758.771973>)" by 10 health points. Reason: Failed to enter the correct code.
+19:08:41.619 [BaseRaiding] BF_DoubleDoorBarricade (<6857.244629, 128.263763, 5759.968750>) The correct code was 1738 and the player tried 4587
+19:10:16.703 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6738.22, 108.96, 6036.81>) entered the safezone
+19:10:18.963 [Safezone] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8= pos=<6745.68, 106.61, 6045.82>) entered the safezone
+19:10:20.102 [Safezone] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<6729.43, 110.13, 6033.36>) entered the safezone
+19:10:37.627 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has withdrawn 10000 from his ATM account.
+19:10:46.283 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought canteen x1 (bcfc5610) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 18.
+19:10:54.604 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold canteen x1 (ee384e60) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 13.
+19:10:57.731 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought sodacan_fronta x1 (d13568c0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+19:10:58.378 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought sodacan_fronta x1 (b7160910) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+19:10:58.864 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought sodacan_fronta x1 (b7184c10) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+19:10:59.353 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought sodacan_fronta x1 (b71742b0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+19:11:15.799 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought pliers x1 (c00a1710) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 4.
+19:11:22.150 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold canopener x1 (f67def30) at the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 3.
+19:11:22.738 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought canopener x1 (c00af2c0) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 10.
+19:11:23.058 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought metalwire x1 (c007b240) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+19:11:23.760 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought metalwire x1 (c0078f90) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+19:11:24.402 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought metalwire x1 (c0074a30) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+19:11:25.018 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought metalwire x1 (c0080ec0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 15.
+19:12:02.840 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought cablereel x1 (c474c8f0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 40.
+19:12:04.769 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought cablereel x1 (c474f730) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 40.
+19:12:15.436 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought batterycharger x1 (c860bd30) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 40.
+19:12:33.531 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:12:49.763 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has withdrawn 2000 from his ATM account.
+19:12:53.748 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought powergenerator x1 (d135e160) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3000.
+19:13:10.987 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought expansionstove x1 (c1997940) from the trader "BuildingSupplies (Boris [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 1500.
+19:13:19.191 [Safezone] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8= pos=<6666.48, 102.5, 6110.64>) entered the safezone
+19:13:19.191 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:14:55.251 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought marmalade x1 (cf973ec0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+19:14:56.595 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought rice x1 (cf986c50) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 13.
+19:15:39.907 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought charcoaltablets x1 (c30bc1c0) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:15:40.401 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought charcoaltablets x1 (c307cc80) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:15:40.807 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought charcoaltablets x1 (c307c070) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:15:41.282 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought charcoaltablets x1 (c3088d80) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:15:42.690 [Market] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has bought charcoaltablets x1 (c309eb50) from the trader "Medicals (Mirek [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+19:18:20.524 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 1217 on his ATM account.
+19:18:24.467 [ATM] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has deposited 1250 on his ATM account.
+19:18:28.904 [ATM] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) has deposited 6780 on his ATM account.
+19:18:41.421 [VehicleEnter] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) entered vehicle Bicycle (id=9BB92BF6B04F6F26CB2D1CA93EFE39F2 pos=<6683.27, 102.44, 6079.75>) as driver
+19:21:19.486 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:21:24.088 [VehicleAttachments] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=9BB92BF6B04F6F26CB2D1CA93EFE39F2 pos=<6680.06, 102.42, 6077.47>)
+19:21:31.191 [VehicleDeleted] Old_Bike_White (id=9BB92BF6B04F6F26CB2D1CA93EFE39F2 pos=<6680.12, 102.3, 6077.47>)
+19:21:50.246 [Safezone] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8= pos=<6680.59, 103.26, 6077.47>) entered the safezone
+19:21:50.247 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:21:58.890 [Party] Player "CracklinOatBranCereal" (id=nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) joinded the party "Seraph Intrepid" (id=30 ownerUID=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs= ownerName=YellowMan03)
+19:22:26.808 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+19:22:28.002 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+19:22:29.561 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+19:31:00.983 [Party] Player "CracklinOatBranCereal" (id=nsXTBdceXa3UBnQ4bQCu_T4oOASZ3Wo1_7Zla-psVPA=) left the party "Seraph Intrepid" (id=30 ownerUID=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs= ownerName=YellowMan03)
+19:35:02.469 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6744.01, 107, 6044.64>) entered the safezone
+19:35:19.610 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has withdrawn 3000 from his ATM account.
+19:36:09.763 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought largegascanister x1 (cdd02b20) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 200.
+19:36:26.877 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought truckbattery x1 (bb54c540) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 180.
+19:36:48.434 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought truckbattery x1 (bf9238a0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 180.
+19:37:34.309 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has withdrawn 3000 from his ATM account.
+19:38:19.518 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought mediumtent_green x1 (b32eecc0) from the trader "Components (Cyril [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 3000.
+19:38:32.288 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold puscopeoptic x1 (c84ecd80) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 337.
+19:39:06.240 [MissionAirdrop] An airdrop is heading towards "Onondaga" (pos=<5756.386719, 0.000000, 7200.799316> type=Random_Onondaga) with a ExpansionAirdropContainer_Medical
+19:42:17.795 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+19:50:20.934 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:56:26.161 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6629.84, 106.09, 6197.49>) entered the safezone
+19:56:28.461 [Safezone] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<6634.85, 104.04, 6200.47>) entered the safezone
+19:57:47.843 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought pnc_mag_honeybadger_coupled_60rnd x1 (d2a267b0, ammo_300aac x60) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 370.
+19:58:19.630 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 2407 on his ATM account.
+19:58:42.014 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+19:58:42.739 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+20:06:46.885 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+20:09:34.470 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+20:16:23.032 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+20:17:07.806 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)

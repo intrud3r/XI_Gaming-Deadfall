@@ -1,0 +1,53 @@
+---------------------------------------------
+ServerPanel log started at 18.03.2025 22:01:01
+
+18.03.2025 22:01:01 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+18.03.2025 22:01:01 [ServerPanelConfig]: Reading Server Config
+18.03.2025 22:01:01 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+18.03.2025 22:01:01 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+18.03.2025 22:01:01 [ServerPanelConfigRPC]: GetConfigRequest
+18.03.2025 22:01:01 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+18.03.2025 22:01:01 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+18.03.2025 22:01:01 [ServerPanelHelpers]: Initialized ServerPanelBase
+18.03.2025 22:01:40 [ServerPanelConfigRPC]: RoccoSiffredi (l4kwJ2gLGmsDYCqNujWIV3-FA3idHE52W7FlccSTvbg=) - Config sync
+18.03.2025 22:16:10 [ServerPanelConfigRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Config sync
+18.03.2025 22:17:32 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:17:32 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:18:43 [ServerPanelConfigRPC]: WeRunIt23 (dOa-dRcX_CV9XKAODdga_Gfbup0MFivrhSeMsvvzo-A=) - Config sync
+18.03.2025 22:28:53 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+18.03.2025 22:33:05 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:33:05 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:36:46 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:36:46 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:37:47 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:37:47 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:38:55 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:38:55 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:41:10 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:41:10 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:43:10 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:43:10 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:48:22 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:48:22 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:49:50 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Stats sync
+18.03.2025 22:49:50 [ServerPanelStatsRPC]: [EASY] Ricky Bobby (cwl44GriCcVh2XvhDnQvVwrQcsvnKhKyXezqQv4iKEA=) - Player Minimum Stats sync
+18.03.2025 22:51:28 [ServerPanelConfigRPC]: pushkin (uBT_JLacPXH8nRpbJ3SdL7cyZMVrsjmDs93S9HN-5oQ=) - Config sync
+18.03.2025 22:52:41 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+18.03.2025 23:07:20 [ServerPanelConfigRPC]: WeRunIt23 (dOa-dRcX_CV9XKAODdga_Gfbup0MFivrhSeMsvvzo-A=) - Config sync
+18.03.2025 23:30:21 [ServerPanelConfigRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Config sync
+18.03.2025 23:37:57 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Stats sync
+18.03.2025 23:37:57 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Minimum Stats sync
+18.03.2025 23:56:03 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Stats sync
+18.03.2025 23:56:03 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Minimum Stats sync
+19.03.2025 00:27:47 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Stats sync
+19.03.2025 00:27:47 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Minimum Stats sync
+19.03.2025 00:38:04 [ServerPanelConfigRPC]: Rajun Cajun  (6rdWdgGJ4h5xU1pd7lrNpx51ohxu-qSYYB7mCtbXrJM=) - Config sync
+19.03.2025 00:48:45 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Stats sync
+19.03.2025 00:48:45 [ServerPanelStatsRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Player Minimum Stats sync
+19.03.2025 02:01:12 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+19.03.2025 02:11:10 [ServerPanelConfigRPC]: ches (OGB03y2V-zzR5MS3isA2-tx161uP7__CrIIB4QT3yRU=) - Config sync
+19.03.2025 02:11:43 [ServerPanelConfigRPC]: ghosty (S3Fiy0pU1703cd1GDvGjNPrQ0b8cH76lGnMravDRc-I=) - Config sync
+19.03.2025 02:18:54 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+19.03.2025 02:31:09 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+19.03.2025 02:42:46 [ServerPanelConfigRPC]: Christiandarkan (FMRYBAefGQ5HYZCE5oLCejpgzMBxT1mAzSnVQ_rde_I=) - Config sync
+19.03.2025 02:47:17 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync

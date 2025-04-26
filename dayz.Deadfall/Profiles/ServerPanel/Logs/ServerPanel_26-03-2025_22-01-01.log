@@ -1,0 +1,25 @@
+---------------------------------------------
+ServerPanel log started at 26.03.2025 22:01:01
+
+26.03.2025 22:01:01 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+26.03.2025 22:01:01 [ServerPanelConfig]: Reading Server Config
+26.03.2025 22:01:01 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+26.03.2025 22:01:01 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+26.03.2025 22:01:01 [ServerPanelConfigRPC]: GetConfigRequest
+26.03.2025 22:01:01 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+26.03.2025 22:01:01 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+26.03.2025 22:01:01 [ServerPanelHelpers]: Initialized ServerPanelBase
+26.03.2025 22:01:41 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+26.03.2025 22:04:08 [ServerPanelConfigRPC]: Van1981 (oHv5s6gxG5MJWw9no9H-UswiIaZ_QYkWCpTBAwjVlxU=) - Config sync
+26.03.2025 22:04:57 [ServerPanelConfigRPC]: space (UGg48lidZt1dHmok1FLocJ5YccSNKAJS5TzpZ6TNdG4=) - Config sync
+26.03.2025 22:46:37 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+26.03.2025 22:46:37 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+27.03.2025 00:40:10 [ServerPanelConfigRPC]: QuickSilver1221 (8VmSLnSQp_MuVeEslDbEY-CdAYRH_jfejIzMoWisN_4=) - Config sync
+27.03.2025 00:45:12 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+27.03.2025 00:50:38 [ServerPanelConfigRPC]: kid_thicarus (PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) - Config sync
+27.03.2025 00:51:54 [ServerPanelConfigRPC]: QuickSilver1221 (8VmSLnSQp_MuVeEslDbEY-CdAYRH_jfejIzMoWisN_4=) - Config sync
+27.03.2025 00:55:40 [ServerPanelConfigRPC]: QuickSilver1221 (8VmSLnSQp_MuVeEslDbEY-CdAYRH_jfejIzMoWisN_4=) - Config sync
+27.03.2025 01:03:25 [ServerPanelConfigRPC]: QuickSilver1221 (8VmSLnSQp_MuVeEslDbEY-CdAYRH_jfejIzMoWisN_4=) - Config sync
+27.03.2025 01:27:59 [ServerPanelConfigRPC]: Hutch (NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) - Config sync
+27.03.2025 02:18:02 [ServerPanelConfigRPC]: NyceBryce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+27.03.2025 02:56:56 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync

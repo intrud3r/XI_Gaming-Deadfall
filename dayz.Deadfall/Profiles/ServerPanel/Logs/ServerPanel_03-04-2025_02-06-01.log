@@ -1,0 +1,26 @@
+---------------------------------------------
+ServerPanel log started at 03.04.2025 02:06:01
+
+03.04.2025 02:06:01 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+03.04.2025 02:06:01 [ServerPanelConfig]: Reading Server Config
+03.04.2025 02:06:01 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+03.04.2025 02:06:01 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+03.04.2025 02:06:01 [ServerPanelConfigRPC]: GetConfigRequest
+03.04.2025 02:06:01 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+03.04.2025 02:06:01 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+03.04.2025 02:06:01 [ServerPanelHelpers]: Initialized ServerPanelBase
+03.04.2025 02:06:34 [ServerPanelConfigRPC]: Cody_The_HC (wr7AHSM-rjj3iPKn50qvAthn9ffT-qem8bQ35FBx0sc=) - Config sync
+03.04.2025 02:06:39 [ServerPanelConfigRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Config sync
+03.04.2025 02:06:46 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 02:07:19 [ServerPanelConfigRPC]: TemuEnjoyer (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+03.04.2025 02:08:26 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 02:08:27 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+03.04.2025 02:11:36 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 02:22:39 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+03.04.2025 02:32:43 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Stats sync
+03.04.2025 02:32:43 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Minimum Stats sync
+03.04.2025 02:32:50 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Stats sync
+03.04.2025 02:32:50 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Minimum Stats sync
+03.04.2025 02:32:52 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Stats sync
+03.04.2025 02:32:52 [ServerPanelStatsRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Player Minimum Stats sync
+03.04.2025 03:39:43 [ServerPanelConfigRPC]: TheRealKing (ZLnRB6sfhc1ejJT-UoQzR_CCwmU35THv8r-COPwj9WM=) - Config sync

@@ -1,0 +1,27 @@
+---------------------------------------------
+ServerPanel log started at 24.03.2025 16:16:45
+
+24.03.2025 16:16:45 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+24.03.2025 16:16:45 [ServerPanelConfig]: Reading Server Config
+24.03.2025 16:16:45 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+24.03.2025 16:16:45 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+24.03.2025 16:16:45 [ServerPanelConfigRPC]: GetConfigRequest
+24.03.2025 16:16:45 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+24.03.2025 16:16:45 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+24.03.2025 16:16:45 [ServerPanelHelpers]: Initialized ServerPanelBase
+24.03.2025 16:17:49 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+24.03.2025 16:18:30 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+24.03.2025 16:21:26 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+24.03.2025 16:23:36 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+24.03.2025 16:26:44 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+24.03.2025 16:47:53 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+24.03.2025 16:47:53 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+24.03.2025 18:16:43 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+24.03.2025 18:29:04 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+24.03.2025 18:29:04 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+24.03.2025 18:31:51 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+24.03.2025 18:45:00 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+24.03.2025 18:45:56 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+24.03.2025 18:48:45 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+24.03.2025 18:50:56 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+24.03.2025 18:58:03 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync

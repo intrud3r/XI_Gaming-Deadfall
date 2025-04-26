@@ -1,0 +1,594 @@
+[COT 2025-04-07 07:15:44] 76561198352827856: Activated Community Online Tools [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 07:16:12] 76561198352827856: Spawned Entity MMG Metal Crate Black (mmg_storage_openable_noLock_base<67668ba0>, 100, 5000, 15, 0) at <7500.630371, 121.592018, 6349.073730>
+[COT 2025-04-07 07:16:12] 76561198352827856: Spawned Entity MMG Metal Crate Black (mmg_storage_openable_noLock_base<67665d60>, 100, 5000, 15, 0) at <7500.388672, 121.915710, 6348.634766>
+[COT 2025-04-07 07:16:12] 76561198352827856: Spawned Entity MMG Metal Crate Black (mmg_storage_openable_noLock_base<67663ab0>, 100, 5000, 15, 0) at <7500.145996, 122.243690, 6348.189453>
+[COT 2025-04-07 07:16:30] 76561198352827856: Deleted Entity mmg_crate04_black:14173 at <7500.630371, 121.607513, 6349.073730>
+[COT 2025-04-07 07:16:31] 76561198352827856: Deleted Entity mmg_crate04_black:4984 at <7500.388672, 121.931206, 6348.634766>
+[COT 2025-04-07 07:16:39] 76561198352827856: Deleted Entity mmg_crate04_black:5369 at <7500.264160, 121.576393, 6347.319824>
+[COT 2025-04-07 07:16:51] 76561198352827856: Deleted Entity BF_DoubleDoorBarricade:11885 at <7493.929688, 122.936356, 6349.821289>
+[COT 2025-04-07 07:17:14] 76561198352827856: Spawned Entity Double Door Kit (BF_DoubleDoorBarricadeKit<6764b190>, 100, 100, 15, 0) at <7493.105469, 121.885925, 6348.655273>
+[COT 2025-04-07 07:17:25] 76561198352827856: Spawned Entity Admin Hammer (Hammer<339c3e30>, 100, 100, 15, 0) at <7493.098145, 121.887161, 6348.663574>
+[COT 2025-04-07 07:17:51] 76561198352827856: Spawned Entity Code Lock (ExpansionCodeLock<2ff12ce0>, 100, 100, 15, 0) at <7493.984375, 123.135147, 6350.021973>
+[COT 2025-04-07 07:19:16] 76561198352827856: Deleted Entity gunwalldisplay_metal_mung:12335 at <7499.314453, 121.823181, 6351.559570>
+[COT 2025-04-07 07:19:20] 76561198352827856: Deleted Entity gunwalldisplay_mung:13017 at <7495.018066, 121.960716, 6349.250000>
+[COT 2025-04-07 07:19:49] 76561198352827856: Spawned Entity MMG Greenhouse Kit (mmg_greenhouse_kit<36654970>, 100, 1000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:19:59] 76561198352827856: Spawned Entity MMG Toolwagon Kit (mmg_toolwagon_kit<36658ed0>, 100, 1000, 15, 0) at <7494.241699, 121.592018, 6346.717773>
+[COT 2025-04-07 07:20:06] 76561198352827856: Spawned Entity MMG Fridge Kit Blue (mmg_fridge_kit_blue<3fb9fbf0>, 100, 1000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:21] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<3fbb1d00>, 100, 5000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:22] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<3fbb90a0>, 100, 5000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:22] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<3fbb6df0>, 100, 5000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:27] 76561198352827856: Spawned Entity MMG Gun Wall Kit Metal (mmg_gun_wall_kit_metal<3fbb2890>, 100, 1000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:27] 76561198352827856: Spawned Entity MMG Gun Wall Kit Metal (mmg_gun_wall_kit_metal<3fbba7c0>, 100, 1000, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:34] 76561198352827856: Spawned Entity MMG Gun Rack Lockable (mmg_lockable_gun_rack_base<4169ca30>, 100, 7500, 15, 0) at <7496.161133, 121.591949, 6347.982422>
+[COT 2025-04-07 07:20:39] 76561198352827856: Spawned Entity MMG Lockable Gun Rack Kit (mmg_lockable_gun_rack_kit_grey<4169b310>, 100, 1000, 15, 0) at <7496.291992, 121.591957, 6348.536621>
+[COT 2025-04-07 07:20:46] 76561198352827856: Deleted Entity mmg_lockable_gun_rack_grey:16203 at <7496.161133, 121.652733, 6347.982422>
+[COT 2025-04-07 07:21:05] 76561198352827856: Spawned Entity MMG Solo Locker Medic Kit (mmg_solo_locker_medic_kit<416c0c50>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:10] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<416c17e0>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:12] 76561198352827856: Spawned Entity MMG Solo Locker Red Kit (mmg_solo_locker_red_kit<416c4620>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:18] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<416c9710>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:23] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<436c5d20>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:23] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<436ce7e0>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:31] 76561198352827856: Spawned Entity MMG Armored Cabinet Grey (mmg_armored_cabinet_base<436d38d0>, 100, 7500, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:41] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<436d0a90>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:41] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<436d6710>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:21:56] 76561198352827856: Spawned Entity MMG Equipment Locker Black Kit (mmg_equipment_locker_black_kit<96fb2eb0>, 100, 1000, 15, 0) at <7496.292480, 121.591965, 6348.631836>
+[COT 2025-04-07 07:23:56] 76561198352827856: ESP: Viewing ESP
+[COT 2025-04-07 07:24:26] 76561198352827856: ESP target=mmg_gun_wall_base<96fdb630> action=position value=<7500.810059, 121.751999, 6346.330078>
+[COT 2025-04-07 07:24:30] 76561198352827856: ESP target=mmg_gun_wall_base<96fdb630> action=position value=<7500.810059, 121.851997, 6346.330078>
+[COT 2025-04-07 07:24:31] 76561198352827856: ESP target=mmg_gun_wall_base<96fdb630> action=position value=<7500.810059, 121.952003, 6346.330078>
+[COT 2025-04-07 07:24:34] 76561198352827856: ESP target=mmg_gun_wall_base<96fdb630> action=position value=<7500.810059, 122.052002, 6346.330078>
+[COT 2025-04-07 07:24:36] 76561198352827856: ESP target=mmg_gun_wall_base<96fdb630> action=position value=<7500.709961, 122.052002, 6346.330078>
+[COT 2025-04-07 07:25:00] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-61.559399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:00] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-61.459400, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:00] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-61.359402, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:00] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-61.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-60.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-59.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-58.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-57.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-56.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:01] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-55.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:02] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-54.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:02] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-53.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:02] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-52.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:02] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-51.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:02] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-50.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:03] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:03] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-48.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:04] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.259399, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:15] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=position value=<7497.060059, 121.823997, 6344.890137>
+[COT 2025-04-07 07:25:16] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=position value=<7497.060059, 121.823997, 6344.790039>
+[COT 2025-04-07 07:25:18] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.361000, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:19] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.460999, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:19] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.561001, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:19] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.660999, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:19] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-49.761002, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:20] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-50.761002, 0.000000, 0.000000>
+[COT 2025-04-07 07:25:20] 76561198352827856: ESP target=mmg_toolwagon_base<96fb7fa0> action=orientation value=<-51.761002, 0.000000, 0.000000>
+[COT 2025-04-07 07:26:08] 76561198352827856: Deleted Entity SeaChest:13572 at <7491.247559, 121.142120, 6353.003418>
+[COT 2025-04-07 07:26:20] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-54.969200, -0.094421, -0.064584>
+[COT 2025-04-07 07:26:21] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-53.969200, -0.094421, -0.066242>
+[COT 2025-04-07 07:26:41] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-54.970798, -0.094421, -0.067880>
+[COT 2025-04-07 07:26:41] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-55.970798, -0.094421, -0.067880>
+[COT 2025-04-07 07:26:41] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-56.970798, -0.094421, -0.064584>
+[COT 2025-04-07 07:26:41] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-57.970798, -0.094421, -0.064584>
+[COT 2025-04-07 07:26:41] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-58.970798, -0.094421, -0.064584>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-59.970798, -0.094421, -0.059481>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-60.970798, -0.094421, -0.055999>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-61.970798, -0.094421, -0.055999>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-62.970798, -0.094421, -0.055999>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-63.970798, -0.094421, -0.055999>
+[COT 2025-04-07 07:26:42] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-64.970802, -0.094421, -0.047575>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-66.970802, -0.094421, -0.047575>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-67.970802, -0.094421, -0.047575>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-68.970802, -0.094421, -0.047575>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-69.970802, -0.094421, -0.037643>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-70.970802, -0.094421, -0.037643>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-71.970802, -0.094421, -0.037643>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-72.970802, -0.094421, -0.037643>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-73.970802, -0.094421, -0.029693>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-74.970802, -0.094421, -0.029693>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-76.970802, -0.094421, -0.029693>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-77.970802, -0.094421, -0.029693>
+[COT 2025-04-07 07:26:43] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-78.970802, -0.094421, -0.029693>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-79.970802, -0.094421, -0.018744>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-80.970802, -0.094421, -0.018744>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-81.970802, -0.094421, -0.018744>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-82.970802, -0.094421, -0.013203>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-83.970802, -0.094421, -0.013203>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-84.970802, -0.094421, -0.013203>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-85.970802, -0.094421, -0.013203>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-86.970802, -0.094421, -0.013203>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-87.970802, -0.094421, -0.006674>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-88.970802, -0.094421, -0.004999>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-90.970802, -0.094421, -0.004999>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-91.970802, -0.094421, -0.004999>
+[COT 2025-04-07 07:26:44] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-92.970802, -0.094421, -0.004999>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-93.970802, -0.094421, 0.004889>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-94.970802, -0.094421, 0.004889>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-96.970802, -0.094421, 0.004889>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-97.970802, -0.094421, 0.004889>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-98.970802, -0.094421, 0.004889>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-99.970802, -0.094421, 0.014707>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-100.971001, -0.094421, 0.014707>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-101.971001, -0.094421, 0.014707>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-102.971001, -0.094421, 0.019575>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-103.971001, -0.094421, 0.019575>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-104.971001, -0.094421, 0.019575>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-105.971001, -0.094421, 0.019575>
+[COT 2025-04-07 07:26:45] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-106.971001, -0.094421, 0.019575>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-107.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-108.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-109.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-110.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-111.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-112.971001, -0.094421, 0.027570>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-113.971001, -0.094421, 0.038211>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-114.971001, -0.094421, 0.038211>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-115.971001, -0.094421, 0.038211>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-116.971001, -0.094421, 0.038211>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-117.971001, -0.094421, 0.038211>
+[COT 2025-04-07 07:26:46] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-118.971001, -0.094421, 0.047567>
+[COT 2025-04-07 07:26:47] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-119.971001, -0.094421, 0.047567>
+[COT 2025-04-07 07:26:47] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-120.971001, -0.094421, 0.047567>
+[COT 2025-04-07 07:26:47] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-121.971001, -0.094421, 0.053989>
+[COT 2025-04-07 07:26:47] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-122.971001, -0.094421, 0.053989>
+[COT 2025-04-07 07:26:47] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-123.971001, -0.094421, 0.053989>
+[COT 2025-04-07 07:26:48] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7491.919922, 120.746002, 6354.740234>
+[COT 2025-04-07 07:26:50] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-124.968002, -0.094421, 0.060572>
+[COT 2025-04-07 07:26:50] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-125.968002, -0.094421, 0.060572>
+[COT 2025-04-07 07:26:50] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-126.968002, -0.094421, 0.060572>
+[COT 2025-04-07 07:26:50] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-127.968002, -0.094421, 0.060572>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-128.968002, -0.094421, 0.068850>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-129.968002, -0.094421, 0.068850>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-130.968002, -0.094421, 0.068850>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-131.968002, -0.094421, 0.068850>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-132.968002, -0.094421, 0.068850>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-133.968002, -0.094421, 0.078655>
+[COT 2025-04-07 07:26:51] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-134.968002, -0.094421, 0.078655>
+[COT 2025-04-07 07:26:52] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-135.968002, -0.094421, 0.086497>
+[COT 2025-04-07 07:26:52] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-136.968002, -0.094421, 0.086497>
+[COT 2025-04-07 07:26:52] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-137.968002, -0.094421, 0.093025>
+[COT 2025-04-07 07:27:00] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.020020, 120.746002, 6354.740234>
+[COT 2025-04-07 07:27:01] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.120117, 120.746002, 6354.740234>
+[COT 2025-04-07 07:27:01] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.740234>
+[COT 2025-04-07 07:27:02] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.839844>
+[COT 2025-04-07 07:27:03] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.939941>
+[COT 2025-04-07 07:27:03] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.839844>
+[COT 2025-04-07 07:27:04] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.740234>
+[COT 2025-04-07 07:27:04] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.640137>
+[COT 2025-04-07 07:27:04] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.540039>
+[COT 2025-04-07 07:27:05] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.439941>
+[COT 2025-04-07 07:27:05] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.339844>
+[COT 2025-04-07 07:27:05] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.240234>
+[COT 2025-04-07 07:27:05] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.220215, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:07] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.319824, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:07] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.419922, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:07] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.520020, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:07] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.620117, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:08] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.720215, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:09] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.819824, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:10] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7492.919922, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:10] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7493.020020, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:12] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=position value=<7493.120117, 120.746002, 6354.140137>
+[COT 2025-04-07 07:27:14] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-138.966995, -0.094421, 0.098704>
+[COT 2025-04-07 07:27:14] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-139.966995, -0.094421, 0.102879>
+[COT 2025-04-07 07:27:15] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-140.966995, -0.094421, 0.107101>
+[COT 2025-04-07 07:27:21] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-141.067001, -0.094421, 0.111375>
+[COT 2025-04-07 07:27:22] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-141.167007, -0.094421, 0.114251>
+[COT 2025-04-07 07:27:22] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-141.266998, -0.094421, 0.114251>
+[COT 2025-04-07 07:27:23] 76561198352827856: ESP target=mmg_greenhouse_base<4ae5f6b0> action=orientation value=<-141.367004, -0.094421, 0.114576>
+[COT 2025-04-07 07:27:45] 76561198352827856: Spawned Entity Sea Chest (SeaChest<4a7cbce0>, 100, 600, 15, 0) at <7487.400391, 120.753227, 6348.663086>
+[COT 2025-04-07 07:29:53] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6350.660156>
+[COT 2025-04-07 07:29:53] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6350.660156>
+[COT 2025-04-07 07:29:54] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.979980, 121.552002, 6350.660156>
+[COT 2025-04-07 07:29:54] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6350.660156>
+[COT 2025-04-07 07:29:56] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6350.759766>
+[COT 2025-04-07 07:29:56] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6350.859863>
+[COT 2025-04-07 07:29:57] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6350.959961>
+[COT 2025-04-07 07:29:58] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6351.060059>
+[COT 2025-04-07 07:29:59] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6351.160156>
+[COT 2025-04-07 07:29:59] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:12] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.180176, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:13] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7498.080078, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:14] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.979980, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:15] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:16] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:17] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.359863>
+[COT 2025-04-07 07:30:18] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.259766>
+[COT 2025-04-07 07:30:19] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.359863>
+[COT 2025-04-07 07:30:19] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.459961>
+[COT 2025-04-07 07:30:20] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.560059>
+[COT 2025-04-07 07:30:21] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.779785, 121.552002, 6351.660156>
+[COT 2025-04-07 07:30:52] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.660156>
+[COT 2025-04-07 07:30:54] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.759766>
+[COT 2025-04-07 07:30:55] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.859863>
+[COT 2025-04-07 07:30:57] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.759766>
+[COT 2025-04-07 07:30:58] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.859863>
+[COT 2025-04-07 07:30:58] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6351.959961>
+[COT 2025-04-07 07:30:59] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6352.060059>
+[COT 2025-04-07 07:31:00] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6352.160156>
+[COT 2025-04-07 07:31:01] 76561198352827856: ESP target=TerritoryFlag<3c20b7f0> action=position value=<7497.879883, 121.552002, 6352.259766>
+[COT 2025-04-07 07:32:55] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7500.859863, 121.552002, 6347.109863>
+[COT 2025-04-07 07:32:56] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7500.859863, 121.552002, 6347.009766>
+[COT 2025-04-07 07:32:58] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7500.759766, 121.552002, 6347.009766>
+[COT 2025-04-07 07:32:59] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7500.859863, 121.552002, 6347.009766>
+[COT 2025-04-07 07:32:59] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7500.959961, 121.552002, 6347.009766>
+[COT 2025-04-07 07:33:01] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=position value=<7501.060059, 121.552002, 6347.009766>
+[COT 2025-04-07 07:33:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.898800, 0.000000, 0.000000>
+[COT 2025-04-07 07:33:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.998798, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<39.098801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<39.198799, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<39.098801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<39.198799, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<39.098801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.998798, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.898800, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.798801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.698799, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.598801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.498798, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.398800, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.298801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.198799, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<38.098801, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<37.998798, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:07] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<36.998798, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:08] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<36.898800, 0.000000, -0.000000>
+[COT 2025-04-07 07:33:09] 76561198352827856: ESP target=mmg_army_box_base<3fbb6df0> action=orientation value=<36.798801, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:03] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.976101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:03] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.876099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:03] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.776100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:03] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.676102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:03] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.576099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.676102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.776100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.876099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<34.976101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.076099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.176102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.276100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.376099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.476101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.576099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.776100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.876099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:04] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<35.976101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.076099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.176102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.276100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.376099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.476101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.576099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.676102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.776100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.876099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<36.976101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.076099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.176102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:05] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.276100, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.376099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.476101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.576099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.676102, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:06] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.576099, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:07] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.476101, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:13] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.378201, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:14] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.278198, 0.000000, -0.000000>
+[COT 2025-04-07 07:34:14] 76561198352827856: ESP target=mmg_army_box_base<3fbb90a0> action=orientation value=<37.178200, 0.000000, -0.000000>
+[COT 2025-04-07 07:38:21] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-50.587399, 0.000000, -0.000000>
+[COT 2025-04-07 07:38:22] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-50.687401, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:22] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-50.787399, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:40] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-50.885101, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:40] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-50.985100, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:41] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-51.085098, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:41] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-51.185101, 0.000000, 0.000000>
+[COT 2025-04-07 07:38:42] 76561198352827856: ESP target=mmg_locker02_base<3eacd890> action=orientation value=<-51.285099, 0.000000, 0.000000>
+[COT 2025-04-07 07:39:55] 76561198352827856: ESP target=mmg_locker02_base<48cc0ef0> action=orientation value=<-50.325401, 0.000000, -0.000000>
+[COT 2025-04-07 07:39:56] 76561198352827856: ESP target=mmg_locker02_base<48cc0ef0> action=orientation value=<-51.325401, 0.000000, 0.000000>
+[COT 2025-04-07 07:40:51] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 120.946999, 6346.229980>
+[COT 2025-04-07 07:40:52] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.046997, 6346.229980>
+[COT 2025-04-07 07:40:53] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.147003, 6346.229980>
+[COT 2025-04-07 07:40:54] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.247002, 6346.229980>
+[COT 2025-04-07 07:40:54] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.347000, 6346.229980>
+[COT 2025-04-07 07:40:55] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.446999, 6346.229980>
+[COT 2025-04-07 07:40:57] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.546997, 6346.229980>
+[COT 2025-04-07 07:40:59] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.950195, 121.546997, 6346.229980>
+[COT 2025-04-07 07:41:00] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.850098, 121.546997, 6346.229980>
+[COT 2025-04-07 07:41:01] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.750000, 121.546997, 6346.229980>
+[COT 2025-04-07 07:41:03] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.750000, 121.546997, 6346.129883>
+[COT 2025-04-07 07:41:06] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.750000, 121.546997, 6346.029785>
+[COT 2025-04-07 07:41:07] 76561198352827856: ESP target=mmg_locker_base<3c039580> action=position value=<7497.750000, 121.546997, 6345.930176>
+[COT 2025-04-07 07:41:36] 76561198352827856: Spawned Entity MMG Solo Locker Green Kit (mmg_solo_locker_green_kit<a4a552a0>, 100, 1000, 15, 0) at <7500.300293, 121.592003, 6348.552246>
+[COT 2025-04-07 07:41:42] 76561198352827856: Spawned Entity MMG Equipment Locker Black Kit (mmg_equipment_locker_black_kit<a4a518d0>, 100, 1000, 15, 0) at <7500.300293, 121.592003, 6348.552246>
+[COT 2025-04-07 07:42:07] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.569824, 121.653999, 6347.560059>
+[COT 2025-04-07 07:42:08] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.669922, 121.653999, 6347.560059>
+[COT 2025-04-07 07:42:09] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.770020, 121.653999, 6347.560059>
+[COT 2025-04-07 07:42:10] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.770020, 121.653999, 6347.660156>
+[COT 2025-04-07 07:42:12] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.870117, 121.653999, 6347.660156>
+[COT 2025-04-07 07:42:18] 76561198352827856: ESP target=mmg_solo_locker_base<a4a569c0> action=position value=<7501.870117, 121.554001, 6347.660156>
+[COT 2025-04-07 07:43:19] 76561198352827856: Spawned Entity MMG Gun Wall Kit Wooden (mmg_gun_wall_kit_wooden<40789440>, 100, 1000, 15, 0) at <7498.189453, 121.591934, 6349.275391>
+[COT 2025-04-07 07:44:28] 76561198352827856: Spawned Entity MMG Equipment Locker Black Kit (mmg_equipment_locker_black_kit<a119a1a0>, 100, 1000, 15, 0) at <7497.444336, 124.351486, 6348.294922>
+[COT 2025-04-07 07:45:12] 76561198352827856: Spawned Entity MMG Army Box Medic (mmg_army_box_medic_grey<a11afc80>, 100, 5000, 15, 0) at <7498.764160, 124.351601, 6347.044434>
+[COT 2025-04-07 07:45:13] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<a11aa000>, 100, 5000, 15, 0) at <7498.764160, 124.351601, 6347.044434>
+[COT 2025-04-07 07:45:14] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<a11b13a0>, 100, 5000, 15, 0) at <7498.764160, 124.351601, 6347.044434>
+[COT 2025-04-07 07:47:00] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.038002, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:00] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.938004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:01] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.837997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:01] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.737999, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:01] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.638000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:01] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.538002, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:01] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.438004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:04] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.337997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:04] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.438004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:04] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.538002, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:04] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.638000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:04] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.737999, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.837997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<126.938004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.038002, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.138000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.237999, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.337997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.438004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:05] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.538002, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:06] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.638000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:06] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.737999, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:06] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<127.837997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:06] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.837997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:07] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.938004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:07] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<129.037994, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:07] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<129.138000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:07] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<129.238007, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:08] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<129.138000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:08] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<129.037994, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:09] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.938004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:09] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.837997, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:09] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.738007, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:10] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.638000, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:10] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.537994, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:11] 76561198352827856: ESP target=mmg_gun_wall_base<a117d320> action=orientation value=<128.438004, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:20] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.652199, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:20] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.452202, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.352200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.252201, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.152199, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<43.052200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<42.952202, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<42.852200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<42.752201, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<42.652199, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:21] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<42.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:22] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<41.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:22] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<40.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:22] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<39.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:24] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<38.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:25] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<37.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:26] 76561198352827856: ESP target=mmg_army_box_base<a11b13a0> action=orientation value=<38.552200, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:41] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<39.096901, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:42] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<38.996899, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:42] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<38.896900, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:42] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<38.796902, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:43] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<37.796902, 0.000000, -0.000000>
+[COT 2025-04-07 07:47:45] 76561198352827856: ESP target=mmg_army_box_base<a11aa000> action=orientation value=<38.796902, 0.000000, -0.000000>
+[COT 2025-04-07 07:48:11] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<495a7b20>, 100, 1000, 15, 0) at <7497.707031, 124.352097, 6348.077148>
+[COT 2025-04-07 07:49:27] 76561198352827856: Deleted Entity mmg_army_box_green:16699 at <7499.674805, 124.299164, 6346.811035>
+[COT 2025-04-07 07:49:29] 76561198352827856: Deleted Entity mmg_army_box_green:16700 at <7499.677734, 124.731468, 6346.788574>
+[COT 2025-04-07 07:49:51] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.259766, 124.886002, 6348.620117>
+[COT 2025-04-07 07:49:52] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.259766, 124.786003, 6348.620117>
+[COT 2025-04-07 07:49:52] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.259766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:53] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.160156, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:53] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.060059, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:53] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.959961, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.859863, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7497.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7496.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7495.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:49:54] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7494.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:50:00] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7495.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:50:00] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7496.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:50:02] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7497.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:50:02] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.620117>
+[COT 2025-04-07 07:50:05] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.520020>
+[COT 2025-04-07 07:50:05] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.419922>
+[COT 2025-04-07 07:50:06] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.319824>
+[COT 2025-04-07 07:50:06] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.220215>
+[COT 2025-04-07 07:50:06] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.759766, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:08] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.859863, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:08] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7498.959961, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:09] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.060059, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:09] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.160156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:09] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.259766, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:09] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.359863, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:10] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.459961, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:11] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.560059, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:11] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.660156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:13] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.759766, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:14] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.859863, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:19] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7499.959961, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:20] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.060059, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:23] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:26] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.259766, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:27] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:28] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.685997, 6348.020020>
+[COT 2025-04-07 07:50:30] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:31] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.585999, 6348.120117>
+[COT 2025-04-07 07:50:33] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.486000, 6348.120117>
+[COT 2025-04-07 07:50:34] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.386002, 6348.120117>
+[COT 2025-04-07 07:50:36] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.286003, 6348.120117>
+[COT 2025-04-07 07:50:38] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.185997, 6348.120117>
+[COT 2025-04-07 07:50:40] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.286003, 6348.120117>
+[COT 2025-04-07 07:50:45] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.386002, 6348.120117>
+[COT 2025-04-07 07:50:45] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.486000, 6348.120117>
+[COT 2025-04-07 07:50:46] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.585999, 6348.120117>
+[COT 2025-04-07 07:50:46] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.685997, 6348.120117>
+[COT 2025-04-07 07:50:47] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.786003, 6348.120117>
+[COT 2025-04-07 07:50:48] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.886002, 6348.120117>
+[COT 2025-04-07 07:50:48] 76561198352827856: ESP target=mmg_locker02_base<6934ebb0> action=position value=<7500.160156, 124.986000, 6348.120117>
+[COT 2025-04-07 07:51:01] 76561198352827856: Deleted Entity mmg_locker02_green:5688 at <7500.160156, 124.986000, 6348.120117>
+[COT 2025-04-07 07:51:13] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<4ae87e30>, 100, 5000, 15, 0) at <7498.471191, 124.350975, 6346.663086>
+[COT 2025-04-07 07:51:14] 76561198352827856: Spawned Entity MMG Army Box Green (mmg_army_box_base<4ae84460>, 100, 5000, 15, 0) at <7498.471191, 124.350975, 6346.663086>
+[COT 2025-04-07 07:52:19] 76561198352827856: ESP target=mmg_army_box_base<4ae84460> action=position value=<7500.129883, 124.731003, 6348.140137>
+[COT 2025-04-07 07:52:20] 76561198352827856: ESP target=mmg_army_box_base<4ae84460> action=position value=<7500.229980, 124.731003, 6348.140137>
+[COT 2025-04-07 07:52:20] 76561198352827856: ESP target=mmg_army_box_base<4ae84460> action=position value=<7500.330078, 124.731003, 6348.140137>
+[COT 2025-04-07 07:52:22] 76561198352827856: ESP target=mmg_army_box_base<4ae84460> action=position value=<7500.330078, 124.731003, 6348.040039>
+[COT 2025-04-07 07:52:37] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.200195, 124.299004, 6348.069824>
+[COT 2025-04-07 07:52:38] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.299004, 6348.069824>
+[COT 2025-04-07 07:52:39] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.399902, 124.299004, 6348.069824>
+[COT 2025-04-07 07:52:40] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.299004, 6348.069824>
+[COT 2025-04-07 07:52:42] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.299004, 6347.970215>
+[COT 2025-04-07 07:52:47] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.399002, 6347.970215>
+[COT 2025-04-07 07:52:48] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.299004, 6347.970215>
+[COT 2025-04-07 07:53:02] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.301003, 6347.970215>
+[COT 2025-04-07 07:53:07] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.307999, 6347.970215>
+[COT 2025-04-07 07:53:13] 76561198352827856: ESP target=mmg_army_box_base<4ae87e30> action=position value=<7500.299805, 124.320000, 6347.970215>
+[COT 2025-04-07 07:53:35] 76561198352827856: Spawned Entity MMG Lockable Gun Rack Kit (mmg_lockable_gun_rack_kit_grey<4aa472a0>, 100, 1000, 15, 0) at <7498.022461, 124.533157, 6347.570313>
+[COT 2025-04-07 07:53:44] 76561198352827856: Spawned Entity MMG Solo Locker Green Kit (mmg_solo_locker_green_kit<43dfd550>, 100, 1000, 15, 0) at <7498.022461, 124.533157, 6347.570313>
+[COT 2025-04-07 07:53:48] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<43df8460>, 100, 1000, 15, 0) at <7498.022461, 124.533157, 6347.570313>
+[COT 2025-04-07 07:54:28] 76561198352827856: ESP target=mmg_lockable_gun_rack_base<421b9e30> action=position value=<7500.310059, 125.163002, 6348.069824>
+[COT 2025-04-07 07:54:30] 76561198352827856: ESP target=mmg_lockable_gun_rack_base<421b9e30> action=position value=<7500.209961, 125.163002, 6348.069824>
+[COT 2025-04-07 07:56:09] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<35eb40d0>, 100, 1000, 15, 0) at <7498.797363, 124.351357, 6346.850586>
+[COT 2025-04-07 07:56:09] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<35ec7900>, 100, 1000, 15, 0) at <7498.797363, 124.351357, 6346.850586>
+[COT 2025-04-07 07:56:54] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=position value=<7497.240234, 124.291000, 6346.399902>
+[COT 2025-04-07 07:56:59] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=position value=<7497.140137, 124.291000, 6346.399902>
+[COT 2025-04-07 07:57:05] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-139.233994, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:05] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-139.334000, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:05] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-139.434006, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:05] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-139.533997, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:06] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-140.533997, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:06] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-141.533997, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:07] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-142.533997, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:07] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-143.533997, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:13] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 07:57:28] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-143.432999, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:29] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-142.432999, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:30] 76561198352827856: ESP target=mmg_solo_locker_base<43208870> action=orientation value=<-141.432999, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:47] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-153.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:47] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-152.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:47] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-151.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:47] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-150.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:48] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-149.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:48] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-148.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:48] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-147.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:48] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-146.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:48] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-145.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-144.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-143.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-142.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-140.485992, 0.000000, -0.000000>
+[COT 2025-04-07 07:57:51] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.850098, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:51] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.950195, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:52] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.850098, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:52] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.750000, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:52] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.649902, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:52] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:54] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.490234>
+[COT 2025-04-07 07:57:55] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.390137>
+[COT 2025-04-07 07:57:57] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.290039>
+[COT 2025-04-07 07:57:58] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.189941>
+[COT 2025-04-07 07:58:07] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.290039>
+[COT 2025-04-07 07:58:08] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.189941>
+[COT 2025-04-07 07:58:08] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:08] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6345.990234>
+[COT 2025-04-07 07:58:10] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:15] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-140.584000, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:15] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-140.783997, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:15] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-140.884003, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:16] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-140.983994, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:16] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.084000, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:16] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.184006, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:16] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.283997, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:17] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.384003, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:17] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.483994, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:17] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=orientation value=<-141.584000, 0.000000, -0.000000>
+[COT 2025-04-07 07:58:21] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6345.990234>
+[COT 2025-04-07 07:58:25] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:28] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.649902, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:29] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:30] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.450195, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:36] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.549805, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:42] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.556999, 6346.089844>
+[COT 2025-04-07 07:58:49] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.257004, 6346.089844>
+[COT 2025-04-07 07:58:50] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.357002, 6346.089844>
+[COT 2025-04-07 07:59:15] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.257004, 6346.089844>
+[COT 2025-04-07 07:59:17] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.357002, 6346.089844>
+[COT 2025-04-07 07:59:26] 76561198352827856: ESP target=mmg_solo_locker_base<9d97eb20> action=position value=<7497.500000, 124.300003, 6346.089844>
+[COT 2025-04-07 07:59:35] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 08:00:01] 76561198352827856: Deleted Entity BarrelHoles_Red:12247 at <7495.477051, 124.306168, 6348.665039>
+[COT 2025-04-07 08:00:21] 76561198352827856: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<436d5b80>, 100, 1000, 15, 0) at <7499.768066, 124.345955, 6350.870605>
+[COT 2025-04-07 08:00:52] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<41a43420>, 100, 1000, 15, 0) at <7500.223145, 124.345963, 6351.382324>
+[COT 2025-04-07 08:00:52] 76561198352827856: Spawned Entity MMG Solo Locker Grey Kit (mmg_solo_locker_grey_kit<41a55530>, 100, 1000, 15, 0) at <7500.223145, 124.345963, 6351.382324>
+[COT 2025-04-07 08:02:31] 76561198352827856: Spawned Entity Umbrella Corp PlateCarrierPouches (PlateCarrierPouches<43f45eb0>, 100, 200, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:33] 76561198352827856: Spawned Entity Umbrella Corp PlateCarrier (PlateCarrierVest<43f4afa0>, 100, 225, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:35] 76561198352827856: Spawned Entity Insulated Umbrella Corp NBC Jacket (NBCJacketBase<43f57430>, 100, 100, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:36] 76561198352827856: Spawned Entity Insulated Umbrella Corp NBC Pants (NBCPantsBase<43f5b990>, 100, 100, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:45] 76561198352827856: Spawned Entity Umbrella Corp NBC GasMask (GP5GasMask<6a2247f0>, 100, 80, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:48] 76561198352827856: Spawned Entity Umbrella Corp Helmet (Mich2001Helmet<6a21c8c0>, 100, 80, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:02:51] 76561198352827856: Spawned Entity Umbrella Corp Balaclava (BalaclavaMask_ColorBase<6a22b000>, 100, 100, 15, 0) at <7500.454102, 121.591988, 6347.655273>
+[COT 2025-04-07 08:04:20] 76561198352827856: Spawned Entity Lost Hunters Bag (HuntingBag<339b6e10>, 100, 500, 15, 0) at <7500.356934, 121.592018, 6348.176270>
+[COT 2025-04-07 08:04:28] 76561198352827856: Spawned Entity MMG Grenade Case Green (mmg_grenade_case_base<83fa5610>, 100, 5500, 15, 0) at <7500.356934, 121.592018, 6348.176270>
+[COT 2025-04-07 08:04:42] 76561198352827856: Deleted Entity mmg_grenade_case_green:10767 at <7500.356934, 121.602409, 6348.176270>
+[COT 2025-04-07 08:04:54] 76561198352827856: Spawned Entity Oriental Machete (OrientalMachete<48df5790>, 100, 200, 15, 0) at <7500.683105, 121.591995, 6348.007813>
+[COT 2025-04-07 08:05:16] 76561198352827856: Spawned Entity MK II (MKII_Base<92fc71b0>, 100, 120, 15, 0) at <7500.464844, 121.592026, 6348.039063>
+[COT 2025-04-07 08:05:35] 76561198352827856: Spawned Entity Taser X2 Defender (Expansion_Taser_Base<92fbfc20>, 2, 100, 15, 0) at <7500.464844, 121.592026, 6348.039063>
+[COT 2025-04-07 08:05:41] 76561198352827856: Deleted Entity MKII:16696 at <7500.464844, 121.578590, 6348.039063>
+[COT 2025-04-07 08:05:42] 76561198352827856: Deleted Entity Expansion_Taser_Black:9849 at <7500.464844, 121.642029, 6348.039063>
+[COT 2025-04-07 08:05:46] 76561198352827856: Deleted Entity OrientalMachete:7440 at <7500.683105, 121.607780, 6348.007813>
+[COT 2025-04-07 08:05:51] 76561198352827856: Spawned Entity Taser X2 Defender (Expansion_Taser_Base<92fbfc20>, 2, 100, 15, 0) at <7500.112305, 121.591995, 6348.166504>
+[COT 2025-04-07 08:06:04] 76561198352827856: Spawned Entity Expedition Boots (JungleBoots_ColorBase<4a7fb800>, 2, 180, 15, 0) at <7500.799316, 121.591980, 6347.800293>
+[COT 2025-04-07 08:06:18] 76561198352827856: Spawned Entity Lost_Hunters NBCGloves (NBCGloves_ColorBase<96a80540>, 2, 500, 15, 0) at <7500.681641, 121.591995, 6347.945801>
+[COT 2025-04-07 08:06:40] 76561198352827856: Spawned Entity Munitions Resupply Cache (AmmoBox<7734e420>, 1000, 300, 15, 0) at <7500.681641, 121.591995, 6347.945801>
+[COT 2025-04-07 08:06:40] 76561198352827856: Spawned Entity Munitions Resupply Cache (AmmoBox<77358600>, 1000, 300, 15, 0) at <7500.681641, 121.591995, 6347.945801>
+[COT 2025-04-07 08:06:57] 76561198352827856: Spawned Entity Expedition Belt Pouch (HipPack_ColorBase<77347080>, 20, 180, 15, 0) at <7500.681641, 121.591995, 6347.945801>
+[COT 2025-04-07 08:07:32] 76561198352827856: Spawned Entity Ski Goggles (SkiGoggles_WhiteDark<336d0190>, 150, 80, 15, 0) at <7500.329102, 121.592026, 6347.948242>
+[COT 2025-04-07 08:07:50] 76561198352827856: Spawned Entity MAKR (makr<92fcf450>, 6, 150, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:07:51] 76561198352827856: Spawned Entity MAKR (makr<92fd9e20>, 6, 150, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:07:51] 76561198352827856: Spawned Entity MAKR (makr<92fd8400>, 6, 150, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:07:51] 76561198352827856: Spawned Entity MAKR (makr<42030e30>, 6, 150, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:00] 76561198352827856: Spawned Entity Kugar International SD (RT_Kugar_SD<4aced3a0>, 6, 100, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:00] 76561198352827856: Spawned Entity Kugar International SD (RT_Kugar_SD<434e01c0>, 6, 100, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:01] 76561198352827856: Spawned Entity Kugar International SD (RT_Kugar_SD<3a2f27e0>, 6, 100, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:02] 76561198352827856: Spawned Entity Kugar I8 (RT_Kugar_I8<41c62e80>, 6, 100, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:07] 76561198352827856: Spawned Entity M79 (M79<420376b0>, 6, 200, 15, 0) at <7500.419922, 121.592018, 6348.289551>
+[COT 2025-04-07 08:08:53] 76561198352827856: ESP: Clearing ESP
+[COT 2025-04-07 09:30:40] 76561198352827856: Activated Community Online Tools [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:30:55] 76561198352827856: Set GodMode To true [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:30:57] 76561198352827856: Set Energy To 5000 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:30:57] 76561198352827856: Set Water To 5000 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:30:57] 76561198352827856: Set HeatBuffer To 30 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:30:58] 76561198352827856: Set Invisibility To 1 [guid=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=]
+[COT 2025-04-07 09:31:02] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:31:26] 76561198352827856: ESP: Viewing ESP
+[COT 2025-04-07 09:31:41] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:31:42] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:32:22] 76561198352827856: Teleported 76561198352827856 to position <3139.821533, 131.578827, 2006.931763>
+[COT 2025-04-07 09:32:26] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:32:43] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:32:57] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:34:17] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:34:25] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:35:25] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:35:50] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:36:03] 76561198352827856: Entered the Free Camera
+[COT 2025-04-07 09:38:25] 76561198352827856: Teleported 76561198352827856 to position <7495.973633, 129.021606, 6346.287109>
+[COT 2025-04-07 09:38:31] 76561198352827856: Left the Free Camera
+[COT 2025-04-07 09:42:06] 76561198352827856: Spawned Entity Munitions Resupply Cache (AmmoBox<4a61b6b0>, 100, 300, 15, 0) at <7500.318848, 121.592026, 6347.791992>
+[COT 2025-04-07 09:42:07] 76561198352827856: Spawned Entity Munitions Resupply Cache (AmmoBox<4a61cdd0>, 100, 300, 15, 0) at <7500.318848, 121.592026, 6347.791992>
+[COT 2025-04-07 09:42:11] 76561198352827856: Spawned Entity Ammo Box (AmmoBox<4a6379a0>, 100, 300, 15, 0) at <7500.318848, 121.592026, 6347.791992>
+[COT 2025-04-07 09:42:12] 76561198352827856: Spawned Entity Ammo Box (AmmoBox<4a63b370>, 100, 300, 15, 0) at <7500.318848, 121.592026, 6347.791992>
+[COT 2025-04-07 09:42:13] 76561198352827856: Spawned Entity Ammo Box (AmmoBox<4a63f8d0>, 100, 300, 15, 0) at <7500.318848, 121.592026, 6347.791992>
+[COT 2025-04-07 09:44:06] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.740234, 122.308998, 6349.919922>
+[COT 2025-04-07 09:44:12] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6349.919922>
+[COT 2025-04-07 09:44:14] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6350.020020>
+[COT 2025-04-07 09:44:15] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6349.919922>
+[COT 2025-04-07 09:44:16] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6349.819824>
+[COT 2025-04-07 09:44:18] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6349.720215>
+[COT 2025-04-07 09:44:18] 76561198352827856: ESP target=mmg_locker02_base<fc2c8060> action=position value=<7500.839844, 122.308998, 6349.620117>
+[COT 2025-04-07 09:44:28] 76561198352827856: ESP: Clearing ESP
+[COT 2025-04-07 09:51:14] 76561198352827856: Spawned Entity Ammo case (Hel_MagazineLoading_MagentaCase_SLOT3<40768bf0>, 100, 750, 15, 0) at <7499.750000, 121.591972, 6347.583008>
+[COT 2025-04-07 09:51:14] 76561198352827856: Spawned Entity Ammo case (Hel_MagazineLoading_MagentaCase_SLOT3<4076dce0>, 100, 750, 15, 0) at <7499.750000, 121.591972, 6347.583008>
+[COT 2025-04-07 09:51:14] 76561198352827856: Spawned Entity Ammo case (Hel_MagazineLoading_MagentaCase_SLOT3<407716b0>, 100, 750, 15, 0) at <7499.750000, 121.591972, 6347.583008>
+[COT 2025-04-07 09:51:14] 76561198352827856: Spawned Entity Ammo case (Hel_MagazineLoading_MagentaCase_SLOT3<40777330>, 100, 750, 15, 0) at <7499.750000, 121.591972, 6347.583008>

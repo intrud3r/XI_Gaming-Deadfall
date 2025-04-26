@@ -1,0 +1,18 @@
+---------------------------------------------
+ServerPanel log started at 04.04.2025 12:45:33
+
+04.04.2025 12:45:33 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+04.04.2025 12:45:33 [ServerPanelConfig]: Reading Server Config
+04.04.2025 12:45:33 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+04.04.2025 12:45:33 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+04.04.2025 12:45:33 [ServerPanelConfigRPC]: GetConfigRequest
+04.04.2025 12:45:33 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+04.04.2025 12:45:33 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+04.04.2025 12:45:33 [ServerPanelHelpers]: Initialized ServerPanelBase
+04.04.2025 12:46:17 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+04.04.2025 12:51:50 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+04.04.2025 12:51:50 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+04.04.2025 13:16:59 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+04.04.2025 13:16:59 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+04.04.2025 13:34:39 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+04.04.2025 13:34:39 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync

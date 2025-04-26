@@ -1,0 +1,24 @@
+---------------------------------------------
+ServerPanel log started at 23.03.2025 19:01:06
+
+23.03.2025 19:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+23.03.2025 19:01:06 [ServerPanelConfig]: Reading Server Config
+23.03.2025 19:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+23.03.2025 19:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+23.03.2025 19:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+23.03.2025 19:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+23.03.2025 19:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+23.03.2025 19:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+23.03.2025 19:01:42 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+23.03.2025 19:01:55 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 19:01:55 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 19:02:29 [ServerPanelConfigRPC]: Sherman (AUAOz-139bUYYmmGpZK-0TkWCQp6vEP3irvR0Qkx5Ys=) - Config sync
+23.03.2025 19:02:31 [ServerPanelConfigRPC]: Gus (RE05caT__5EfUiKgwaQAM-lgIkdbXDrPElFk6gtHgqQ=) - Config sync
+23.03.2025 19:53:21 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 19:53:21 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 19:53:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 19:53:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 20:40:23 [ServerPanelConfigRPC]: XxTeckxX (n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) - Config sync
+23.03.2025 20:43:17 [ServerPanelConfigRPC]: xXBrighteyes (BzaV9XoctCDX4vZmNT1_V0smx6C1-pmWe48OZn989-4=) - Config sync
+23.03.2025 21:41:34 [ServerPanelConfigRPC]: XxTeckxX (n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) - Config sync
+23.03.2025 21:44:19 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync

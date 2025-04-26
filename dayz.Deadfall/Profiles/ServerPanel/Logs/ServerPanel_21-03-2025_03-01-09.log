@@ -1,0 +1,39 @@
+---------------------------------------------
+ServerPanel log started at 21.03.2025 03:01:09
+
+21.03.2025 03:01:09 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+21.03.2025 03:01:09 [ServerPanelConfig]: Reading Server Config
+21.03.2025 03:01:09 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+21.03.2025 03:01:09 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+21.03.2025 03:01:09 [ServerPanelConfigRPC]: GetConfigRequest
+21.03.2025 03:01:09 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+21.03.2025 03:01:09 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+21.03.2025 03:01:09 [ServerPanelHelpers]: Initialized ServerPanelBase
+21.03.2025 03:01:41 [ServerPanelConfigRPC]: Christiandarkan (FMRYBAefGQ5HYZCE5oLCejpgzMBxT1mAzSnVQ_rde_I=) - Config sync
+21.03.2025 05:15:01 [ServerPanelConfigRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Config sync
+21.03.2025 05:18:31 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 05:18:31 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 05:22:32 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 05:22:32 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 05:33:51 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 05:33:51 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 05:50:30 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 05:50:30 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:00:16 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:00:16 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:03:07 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:03:07 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:07:36 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:07:36 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:15:16 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:15:16 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:17:42 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:17:42 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:18:28 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:18:28 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:22:22 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:22:22 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:28:22 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:28:22 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync
+21.03.2025 06:31:55 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 06:31:55 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync

@@ -1,0 +1,12 @@
+---------------------------------------------
+ServerPanel log started at 15.03.2025 19:01:02
+
+15.03.2025 19:01:02 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+15.03.2025 19:01:02 [ServerPanelConfig]: Reading Server Config
+15.03.2025 19:01:02 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+15.03.2025 19:01:02 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+15.03.2025 19:01:02 [ServerPanelConfigRPC]: GetConfigRequest
+15.03.2025 19:01:02 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+15.03.2025 19:01:02 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+15.03.2025 19:01:02 [ServerPanelHelpers]: Initialized ServerPanelBase
+15.03.2025 19:01:36 [ServerPanelConfigRPC]: Donnie Deeks (GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) - Config sync

@@ -1,0 +1,31 @@
+---------------------------------------------
+ServerPanel log started at 15.03.2025 20:06:52
+
+15.03.2025 20:06:52 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+15.03.2025 20:06:52 [ServerPanelConfig]: Reading Server Config
+15.03.2025 20:06:52 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+15.03.2025 20:06:52 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+15.03.2025 20:06:52 [ServerPanelConfigRPC]: GetConfigRequest
+15.03.2025 20:06:52 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+15.03.2025 20:06:52 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+15.03.2025 20:06:52 [ServerPanelHelpers]: Initialized ServerPanelBase
+15.03.2025 20:08:13 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+15.03.2025 20:18:15 [ServerPanelConfigRPC]: Donnie Deeks (GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) - Config sync
+15.03.2025 20:19:22 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+15.03.2025 20:19:49 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+15.03.2025 20:26:30 [ServerPanelConfigRPC]: Emile (xD2_qjLbeScI5ntGz_MePKgDIxPfKY1xIGrWM7ksbek=) - Config sync
+15.03.2025 20:29:51 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+15.03.2025 20:32:37 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+15.03.2025 20:32:37 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+15.03.2025 20:32:38 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+15.03.2025 20:32:38 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+15.03.2025 20:45:02 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+15.03.2025 20:45:02 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+15.03.2025 20:46:55 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+15.03.2025 20:48:49 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+15.03.2025 20:48:49 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+15.03.2025 21:19:23 [ServerPanelConfigRPC]: Hispera (UwuMT_TdOcCYDdZvouaQ9-NTgvFI6NO2F3srgFCtL9A=) - Config sync
+15.03.2025 21:27:43 [ServerPanelConfigRPC]: Emile (xD2_qjLbeScI5ntGz_MePKgDIxPfKY1xIGrWM7ksbek=) - Config sync
+15.03.2025 21:43:37 [ServerPanelConfigRPC]: PatMax (jiSboo32SQZAMp7VxNNFwsMUk2-s3fPPrck_5xKkgu0=) - Config sync
+15.03.2025 21:47:49 [ServerPanelConfigRPC]: VONOM (Nd6QgQOS1D2gKn5lmDDSsBLFqgZ2JWXFxgRw3L3lzXo=) - Config sync
+15.03.2025 21:57:49 [ServerPanelConfigRPC]: North (4ppTN0XcNEKLnBoX_L0oN04O6xoZy4JlfCme8pT1Ons=) - Config sync

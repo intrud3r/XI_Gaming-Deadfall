@@ -1,0 +1,40 @@
+---------------------------------------------
+ServerPanel log started at 16.03.2025 07:01:07
+
+16.03.2025 07:01:07 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+16.03.2025 07:01:07 [ServerPanelConfig]: Reading Server Config
+16.03.2025 07:01:07 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+16.03.2025 07:01:07 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+16.03.2025 07:01:07 [ServerPanelConfigRPC]: GetConfigRequest
+16.03.2025 07:01:07 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+16.03.2025 07:01:07 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+16.03.2025 07:01:07 [ServerPanelHelpers]: Initialized ServerPanelBase
+16.03.2025 07:29:34 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+16.03.2025 07:36:55 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+16.03.2025 07:36:55 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+16.03.2025 07:44:10 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+16.03.2025 07:44:10 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+16.03.2025 07:48:35 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+16.03.2025 07:48:35 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+16.03.2025 08:12:23 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+16.03.2025 08:24:01 [ServerPanelConfigRPC]: butlao13 (zITiOFF2CVidG6S3dDaMOqvo_Ww5lFsICdPsQgLm8GI=) - Config sync
+16.03.2025 08:36:31 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+16.03.2025 08:53:11 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+16.03.2025 08:57:04 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+16.03.2025 08:57:28 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+16.03.2025 08:57:28 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+16.03.2025 09:43:49 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+16.03.2025 09:44:57 [ServerPanelConfigRPC]: Litte-bean (7qYfha5zA1PauoqPmVhx6wtkxuuZFQUOIhCrcAxrX0M=) - Config sync
+16.03.2025 09:53:54 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 09:53:54 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 10:07:05 [ServerPanelConfigRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Config sync
+16.03.2025 10:13:49 [ServerPanelConfigRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Config sync
+16.03.2025 10:27:37 [ServerPanelStatsRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Player Stats sync
+16.03.2025 10:27:37 [ServerPanelStatsRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Player Minimum Stats sync
+16.03.2025 10:28:12 [ServerPanelStatsRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Player Stats sync
+16.03.2025 10:28:12 [ServerPanelStatsRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Player Minimum Stats sync
+16.03.2025 10:28:28 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 10:28:28 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 10:44:48 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 10:44:48 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 10:48:15 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync

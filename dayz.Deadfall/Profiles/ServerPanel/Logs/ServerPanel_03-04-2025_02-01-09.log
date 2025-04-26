@@ -1,0 +1,15 @@
+---------------------------------------------
+ServerPanel log started at 03.04.2025 02:01:09
+
+03.04.2025 02:01:09 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+03.04.2025 02:01:09 [ServerPanelConfig]: Reading Server Config
+03.04.2025 02:01:09 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+03.04.2025 02:01:09 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+03.04.2025 02:01:09 [ServerPanelConfigRPC]: GetConfigRequest
+03.04.2025 02:01:09 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+03.04.2025 02:01:09 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+03.04.2025 02:01:09 [ServerPanelHelpers]: Initialized ServerPanelBase
+03.04.2025 02:03:06 [ServerPanelConfigRPC]: Daddy Yoda (FtMTnYvIuO8a3LThIwJZgLEUWNsNBLDD2TYK2hZq3XY=) - Config sync
+03.04.2025 02:03:15 [ServerPanelConfigRPC]: TemuEnjoyer (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+03.04.2025 02:03:24 [ServerPanelConfigRPC]: War (Dwe5m4Kt5tT0Pu77b1iK61asFYU-1GyH4vX9jWZ7qJc=) - Config sync
+03.04.2025 02:03:38 [ServerPanelConfigRPC]: Cody_The_HC (wr7AHSM-rjj3iPKn50qvAthn9ffT-qem8bQ35FBx0sc=) - Config sync

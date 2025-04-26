@@ -1,0 +1,17 @@
+20:38:08.387 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6679.62, 102.5, 6108.47>) entered the safezone
+20:38:08.388 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+20:38:49.127 [Safezone] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us= pos=<6681.77, 102.5, 6108.13>) entered the safezone
+20:38:49.128 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+20:41:06.171 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+20:42:23.900 [MissionAirdrop] An airdrop is heading towards "Huron" (pos=<5645.566895, 0.000000, 8244.150391> type=Random_Huron) with a ExpansionAirdropContainer_Basebuilding
+20:46:15.461 [Safezone] Player "MrWowaWowa" (id=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ= pos=<6688, 102.61, 6083.64>) entered the safezone
+20:46:15.462 [Party] Player "MrWowaWowa" (id=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) joinded the party "Die dreisten Drei" (id=46 ownerUID=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= ownerName=Eric)
+20:54:44.081 [Market] Player "MrWowaWowa" (id=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) has sold m4_t3nrdsoptic x1 (483a6520, Battery9V<48678160>) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 382.
+20:55:10.037 [VehicleDeleted] Old_Bike_Green (id=712B1434854862DB15A276A2C069FACD pos=<6691.01, 102.61, 6085.47>)
+20:55:18.487 [Party] Player "MrWowaWowa" (id=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) left the party "Die dreisten Drei" (id=46 ownerUID=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= ownerName=Eric)
+20:56:25.704 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+21:45:19.085 [Safezone] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6679.62, 102.5, 6108.47>) entered the safezone
+21:45:19.086 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+21:59:39.227 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+22:00:01.551 [Party] Player "London" (id=kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+22:00:01.558 [Party] Player "F11 Simulator" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

@@ -1,0 +1,15 @@
+---------------------------------------------
+ServerPanel log started at 29.03.2025 11:01:05
+
+29.03.2025 11:01:05 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+29.03.2025 11:01:05 [ServerPanelConfig]: Reading Server Config
+29.03.2025 11:01:05 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+29.03.2025 11:01:05 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+29.03.2025 11:01:05 [ServerPanelConfigRPC]: GetConfigRequest
+29.03.2025 11:01:05 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+29.03.2025 11:01:05 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+29.03.2025 11:01:05 [ServerPanelHelpers]: Initialized ServerPanelBase
+29.03.2025 12:50:10 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+29.03.2025 13:10:22 [ServerPanelConfigRPC]: whodaddy001 (ullThsEYW0vuVRILSHGlHrrALF6mV4AGYQSePKajUc4=) - Config sync
+29.03.2025 14:01:42 [ServerPanelConfigRPC]: Allen (gN4e40lsjcWMgHoZy-_QUh2rgApNbJSCNu62mt9RL7Y=) - Config sync
+29.03.2025 14:53:19 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync

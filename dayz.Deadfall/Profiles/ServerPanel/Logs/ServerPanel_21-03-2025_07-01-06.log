@@ -1,0 +1,15 @@
+---------------------------------------------
+ServerPanel log started at 21.03.2025 07:01:06
+
+21.03.2025 07:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+21.03.2025 07:01:06 [ServerPanelConfig]: Reading Server Config
+21.03.2025 07:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+21.03.2025 07:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+21.03.2025 07:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+21.03.2025 07:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+21.03.2025 07:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+21.03.2025 07:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+21.03.2025 08:27:16 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+21.03.2025 10:29:33 [ServerPanelConfigRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Config sync
+21.03.2025 10:29:52 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Stats sync
+21.03.2025 10:29:52 [ServerPanelStatsRPC]: Saz (YHLo2WDmi_EvfumrqV1ZHm_645vwtBS3yzLv3lpmXxs=) - Player Minimum Stats sync

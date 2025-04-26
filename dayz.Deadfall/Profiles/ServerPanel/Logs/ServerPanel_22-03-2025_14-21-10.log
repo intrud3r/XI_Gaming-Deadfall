@@ -1,0 +1,21 @@
+---------------------------------------------
+ServerPanel log started at 22.03.2025 14:21:10
+
+22.03.2025 14:21:10 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+22.03.2025 14:21:10 [ServerPanelConfig]: Reading Server Config
+22.03.2025 14:21:10 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+22.03.2025 14:21:10 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+22.03.2025 14:21:10 [ServerPanelConfigRPC]: GetConfigRequest
+22.03.2025 14:21:10 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+22.03.2025 14:21:10 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+22.03.2025 14:21:10 [ServerPanelHelpers]: Initialized ServerPanelBase
+22.03.2025 14:24:24 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+22.03.2025 14:27:01 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+22.03.2025 14:30:49 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+22.03.2025 14:31:28 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+22.03.2025 14:32:46 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+22.03.2025 14:32:46 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+22.03.2025 14:42:02 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+22.03.2025 14:42:02 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+22.03.2025 14:49:08 [ServerPanelConfigRPC]: Christiandarkan (FMRYBAefGQ5HYZCE5oLCejpgzMBxT1mAzSnVQ_rde_I=) - Config sync
+22.03.2025 14:53:42 [ServerPanelConfigRPC]: Mido (dtBrTODogZ8rHAVNFTJ9C_NvpkyA9gRQu7bfAps_vPI=) - Config sync

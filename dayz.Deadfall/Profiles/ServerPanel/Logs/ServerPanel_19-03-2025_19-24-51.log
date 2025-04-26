@@ -1,0 +1,43 @@
+---------------------------------------------
+ServerPanel log started at 19.03.2025 19:24:51
+
+19.03.2025 19:24:51 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+19.03.2025 19:24:51 [ServerPanelConfig]: Reading Server Config
+19.03.2025 19:24:51 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+19.03.2025 19:24:51 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+19.03.2025 19:24:51 [ServerPanelConfigRPC]: GetConfigRequest
+19.03.2025 19:24:51 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+19.03.2025 19:24:51 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+19.03.2025 19:24:51 [ServerPanelHelpers]: Initialized ServerPanelBase
+19.03.2025 19:26:58 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+19.03.2025 19:31:18 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+19.03.2025 19:36:58 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 19:36:58 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 19:42:12 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 19:42:12 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 20:08:31 [ServerPanelConfigRPC]: Donnie Deeks (GBfj3hSt2OSYAyU5ct3jrz7-L9j9UxpFHlBzXjWvrxE=) - Config sync
+19.03.2025 20:14:02 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 20:14:02 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 20:17:41 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 20:17:41 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 20:30:40 [ServerPanelConfigRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Config sync
+19.03.2025 20:36:38 [ServerPanelConfigRPC]: OggeBus (wkk1mrza3iZgU5_c7L5ghneFErlsOpS83YXPnYzAoNU=) - Config sync
+19.03.2025 20:39:15 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Stats sync
+19.03.2025 20:39:15 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Minimum Stats sync
+19.03.2025 20:40:23 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Stats sync
+19.03.2025 20:40:23 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Minimum Stats sync
+19.03.2025 20:40:29 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Stats sync
+19.03.2025 20:40:29 [ServerPanelStatsRPC]: Midcore (C6l31GQ_Cfx9qWquBRyDTrVxJw0RFgo5nc066-cGNcc=) - Player Minimum Stats sync
+19.03.2025 21:05:00 [ServerPanelConfigRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Config sync
+19.03.2025 21:05:37 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Stats sync
+19.03.2025 21:05:37 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Minimum Stats sync
+19.03.2025 21:19:19 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 21:19:19 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 21:24:57 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 21:24:57 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 21:26:38 [ServerPanelConfigRPC]: under age  (SXvNvqOVFnh_lIF6vEaS5ZzvNCS_FYgk_nn1R7SkEI4=) - Config sync
+19.03.2025 21:47:08 [ServerPanelConfigRPC]: under age  (SXvNvqOVFnh_lIF6vEaS5ZzvNCS_FYgk_nn1R7SkEI4=) - Config sync
+19.03.2025 21:48:21 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+19.03.2025 21:48:21 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+19.03.2025 21:56:21 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Stats sync
+19.03.2025 21:56:21 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Minimum Stats sync

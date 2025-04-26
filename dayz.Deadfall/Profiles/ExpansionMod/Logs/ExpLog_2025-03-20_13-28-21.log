@@ -1,0 +1,154 @@
+13:33:36.347 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Basebuilding
+13:35:44.417 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6679.73, 102.5, 6109.89>) entered the safezone
+13:35:44.421 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+13:36:32.839 [Party] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+13:37:43.761 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold cz527 x1 (45b2bfc0, Mag_CZ527_5rnd<460ca280>, ammo_762x39 x2) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 117.
+13:38:45.187 [VehicleEnter] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=9C9B54DFD44C4160ADED9C8A8A10797F pos=<7481.22, 120.73, 6328.32>) as driver
+13:39:50.796 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold drybag_yellow x1 (45ac48c0) at the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 22.
+13:40:27.601 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 139 on his ATM account.
+13:41:00.449 [Safezone] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6739.97, 109.07, 6041.62>) entered the safezone
+13:41:07.257 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+13:41:16.789 [VehicleLeave] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=9C9B54DFD44C4160ADED9C8A8A10797F pos=<6689.43, 102.59, 6071.31>)
+13:41:20.675 [VehicleDeleted] Lady_Bicycle (id=9C9B54DFD44C4160ADED9C8A8A10797F pos=<6689.43, 102.59, 6071.31>)
+13:43:07.238 [VehicleDeleted] Lady_Bicycle (id=2DBE3095284F0AD57A12C190E09C9E69 pos=<6710.18, 109.14, 6042.74>)
+13:43:27.445 [VehicleDeleted] Old_Bike_Pink (id=70219C1D564C60F8BCB4C38C61094EF0 pos=<6695.65, 108.73, 6042.24>)
+13:44:41.593 [VehicleDeleted] Old_Bike_Blue (id=4148F9F5EA4F8EDDCBE13E9D8E5F0982 pos=<6694.68, 109.92, 6038.99>)
+13:44:45.621 [VehicleDeleted] Lady_Bicycle (id=81A53CC5D84D1A879F6B8295D864714C pos=<6693.9, 109.87, 6039.19>)
+13:45:21.410 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+13:49:30.261 [VehicleDeleted] Old_Bike_Green (id=87C77F2EDA442AA8CB7E59B2986E66EB pos=<4301.39, 174.87, 6269.56>)
+13:50:51.996 [VehicleDeleted] Old_Bike_Blue (id=C6F6B067EE483D720B169A88648FDE73 pos=<5233.29, 364.15, 5232.7>)
+13:51:09.863 [VehicleDeleted] Old_Bike_Blue (id=3723AA55D34AD35392914C8535791D95 pos=<5236.46, 364.15, 5237.3>)
+13:51:41.527 [VehicleAttachments] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=CB618D61734CB476B9962B96680762D3 pos=<5237.2, 364.15, 5237.47>)
+13:51:52.367 [VehicleDeleted] Old_Bike_Blue (id=CB618D61734CB476B9962B96680762D3 pos=<5237.11, 364.16, 5237.5>)
+13:52:24.925 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5253.22, 359.68, 5251.3>) as driver
+13:54:02.285 [VehicleDeleted] Old_Bike_White (id=BC668E26A348AF906A71BEBAA4E1C5A6 pos=<6923.65, 126.29, 5761.88>)
+13:54:14.058 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5271.89, 359.68, 5219.69>)
+13:55:37.664 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5271.89, 359.68, 5219.69>) as driver
+13:56:17.542 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5250.3, 351.03, 5170.24>)
+13:58:14.675 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5250.3, 351.03, 5170.24>) as driver
+14:01:24.945 [VehicleDeleted] Old_Bike_Green (id=750662270C4E0F5982B7E4A88E8C6490 pos=<6678.38, 201.02, 4957.98>)
+14:01:29.726 [VehicleDeleted] Old_Bike_Green (id=CE1B6DCC094CF0EB61F4249F86B0C8DF pos=<6677.53, 201.08, 4957.23>)
+14:01:31.984 [VehicleDeleted] Old_Bike_Green (id=08DE87579449DD4329D3DE96C9345812 pos=<6677.04, 201.12, 4956.66>)
+14:01:51.015 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5230.74, 351.03, 5174.21>)
+14:02:27.738 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+14:02:47.796 [VehicleDeleted] Old_Bike (id=A8743DA9CF4AAB902AFEE897D2FE416D pos=<6880.54, 127.11, 5755.46>)
+14:03:15.011 [VehicleDeleted] Old_Bike (id=AA905E303048C0033EAA3DBAB49FC14F pos=<6876.99, 127.11, 5746.51>)
+14:04:11.117 [VehicleDeleted] Old_Bike (id=6E1ECDE51C47D4EBDAAB21B3148CA213 pos=<6862.38, 128.51, 5770.8>)
+14:05:04.656 [VehicleDeleted] Old_Bike (id=02041495C24B147E19161880B1CD1D4A pos=<6862.73, 128.51, 5770.55>)
+14:05:15.183 [VehicleEnter] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=118619621B4D8CEEF9DB93B9091DDF0B pos=<4528.16, 338.77, 4724.73>) as driver
+14:05:18.226 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Bicycle (id=FA461D315942817D755FD893EB5EA2EB pos=<6862.29, 128.51, 5770.46>) as driver
+14:06:06.269 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Bicycle (id=FA461D315942817D755FD893EB5EA2EB pos=<6851.35, 127.11, 5755.44>)
+14:06:15.339 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Bicycle (id=FA461D315942817D755FD893EB5EA2EB pos=<6851.35, 127.11, 5755.44>) as driver
+14:06:27.085 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<5230.74, 351.03, 5174.21>) as driver
+14:06:32.867 [VehicleLeave] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=118619621B4D8CEEF9DB93B9091DDF0B pos=<4620.95, 338.76, 4712.3>)
+14:06:38.792 [VehicleDeleted] Old_Bike (id=118619621B4D8CEEF9DB93B9091DDF0B pos=<4620.95, 338.77, 4712.3>)
+14:07:01.398 [VehicleEnter] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=7C00D382CD4DF430DD9076B89BF948D8 pos=<4641.95, 338.76, 4718.05>) as driver
+14:07:13.730 [Safezone] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6728.9, 111.09, 6033.2>) entered the safezone
+14:08:11.640 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+14:08:19.718 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<6028.3, 189.64, 5136.74>)
+14:08:30.113 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<6028.3, 189.64, 5136.74>) as driver
+14:09:06.652 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<6184.66, 154.72, 5288.16>)
+14:09:19.558 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<6184.66, 154.72, 5288.16>) as driver
+14:10:15.316 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=FC945D424547BA1C40E368A3787654D5 pos=<6335.42, 107.46, 5373.96>)
+14:10:27.144 [VehicleDeleted] Old_Bike_Blue (id=FC945D424547BA1C40E368A3787654D5 pos=<6335.42, 107.46, 5373.96>)
+14:10:41.710 [VehicleEnter] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) entered vehicle Bicycle (id=66098DB22F49C286D3F8B39A2D9A591A pos=<6347.02, 107.49, 5374.44>) as driver
+14:12:38.179 [VehicleLeave] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=7C00D382CD4DF430DD9076B89BF948D8 pos=<6395.79, 202.81, 4561.48>)
+14:12:42.503 [VehicleDeleted] Old_Bike (id=7C00D382CD4DF430DD9076B89BF948D8 pos=<6395.87, 202.9, 4561.46>)
+14:12:55.980 [VehicleEnter] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=B5DFC1276D4B80CA77C66DBB4AE1C381 pos=<6396.15, 203.29, 4556.03>) as driver
+14:13:24.566 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Bicycle (id=FA461D315942817D755FD893EB5EA2EB pos=<6855.36, 127.18, 5753.11>)
+14:13:27.613 [VehicleDeleted] Old_Bike (id=FA461D315942817D755FD893EB5EA2EB pos=<6855.36, 127.18, 5753.11>)
+14:13:38.691 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6769.17, 103.11, 6081.08>) entered the safezone
+14:13:56.949 [VehicleLeave] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left vehicle Bicycle (id=66098DB22F49C286D3F8B39A2D9A591A pos=<6701.11, 102.93, 6069.68>)
+14:15:39.074 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold mosin9130 x1 (5f4e7600, PUScopeOptic<3b01bb90>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 900.
+14:15:51.468 [VehicleLeave] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=B5DFC1276D4B80CA77C66DBB4AE1C381 pos=<6670.05, 145.24, 5632.13>)
+14:16:08.882 [VehicleDeleted] Old_Bike (id=B5DFC1276D4B80CA77C66DBB4AE1C381 pos=<6670.05, 145.24, 5632.13>)
+14:16:32.539 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_762x54tracer x34 (768dcdf0, 768d9420) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 102.
+14:16:35.246 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_762x54 x1 (768d9fb0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 1.
+14:16:41.914 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold ammo_762x54 x24 (768d9fb0, 768d65e0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 24.
+14:16:54.828 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought pnc_mag_awm_5rnd x1 (3f36ebf0) from the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 500.
+14:17:00.316 [VehicleEnter] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) entered vehicle Bicycle (id=9749580ADE4B8A5A2D42F086600C02B5 pos=<6665.5, 145.85, 5635.49>) as driver
+14:17:21.500 [Safezone] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6735.81, 108.8, 6039.99>) entered the safezone
+14:17:56.789 [Safezone] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6669.86, 122.45, 6014.41>) entered the safezone
+14:18:07.890 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammo_expansion_338 x1 (441d8eb0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+14:18:17.335 [VehicleLeave] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left vehicle Bicycle (id=9749580ADE4B8A5A2D42F086600C02B5 pos=<6692.8, 102.59, 6091.6>)
+14:18:26.324 [VehicleDeleted] Old_Bike_White (id=9749580ADE4B8A5A2D42F086600C02B5 pos=<6692.8, 102.59, 6091.6>)
+14:18:34.421 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef7a7d0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:34.835 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef8a630) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:35.316 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef8b1c0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:35.777 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef89aa0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:36.167 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef88380) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:36.550 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef8c8e0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:36.925 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought ammobox_300aac_ap_20rnd x1 (5ef9d2d0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:18:52.292 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammo_expansion_338 x1 (5ef9b020) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 2.
+14:19:31.039 [Market] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) has bought expansionmich2001desert x1 (4d99d1c0) from the trader "Clothing (Naomi [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 150.
+14:20:19.960 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+14:20:21.187 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_338lapuamagnum_20rnd x1 (49ba6420) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:21:57.886 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_338lapuamagnum_20rnd x3 (460d38d0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 192.
+14:22:12.394 [VehicleAttachments] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=93538CE312473477A040CE862549C1D7 pos=<6658.13, 128.26, 5980.21>)
+14:22:34.636 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has bought ammobox_338lapuamagnum_20rnd x1 (464cfa70) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) for a price of 64.
+14:23:51.054 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+14:24:37.835 [VehicleDeleted] Old_Bike_White (id=93538CE312473477A040CE862549C1D7 pos=<6658.16, 128.26, 5980.17>)
+14:24:48.187 [Safezone] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= pos=<6669.62, 121.3, 6015.46>) entered the safezone
+14:25:22.535 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 203 on his ATM account.
+14:27:51.285 [VehicleEnter] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) entered vehicle Bicycle (id=EB629CF5B84938197D27438C22D6F488 pos=<6862.14, 128.51, 5770.73>) as driver
+14:27:52.253 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold m4_t3nrdsoptic x1 (43e5ad80) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 375.
+14:28:08.339 [VehicleLeave] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left vehicle Bicycle (id=EB629CF5B84938197D27438C22D6F488 pos=<6862.14, 128.51, 5770.73>)
+14:28:11.621 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 375 on his ATM account.
+14:28:16.589 [VehicleDeleted] Old_Bike (id=EB629CF5B84938197D27438C22D6F488 pos=<6862.14, 128.51, 5770.73>)
+14:28:35.824 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+14:29:25.039 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+14:29:39.683 [VehicleDeleted] Old_Bike_White (id=3D5984E3E64CC6B29C472E8C5DF2F060 pos=<6698.62, 102.83, 6070.41>)
+14:32:21.109 [VehicleDeleted] Old_Bike_Blue (id=A1098D781A47BEC65E61D9B0FFFC2A90 pos=<1998.02, 180.62, 8326.64>)
+14:32:52.082 [VehicleDeleted] Old_Bike (id=70FDDB1E6F4CD4221FC7B887326C30F4 pos=<7481.46, 124.07, 6348.57>)
+14:32:55.457 [VehicleDeleted] Old_Bike (id=268F563B7E4891FDF14ED38CA88FD26A pos=<7480.33, 124.08, 6349.15>)
+14:32:59.210 [VehicleDeleted] Old_Bike (id=4A4043791F42E6BB814F859B591E40F3 pos=<7479.07, 124.07, 6349.75>)
+14:33:04.140 [VehicleDeleted] Old_Bike (id=9C90071278400AE1D481EEA571040FEE pos=<7477.75, 124.07, 6350.15>)
+14:33:41.812 [VehicleDeleted] Old_Bike_Red (id=4E33F2BCDB4DFF7B56305EB6D087B7B2 pos=<6697.74, 102.8, 6070.51>)
+14:34:08.734 [VehicleDeleted] Old_Bike (id=D6873564B141E68A8278A0B79FBA30FC pos=<2932.4, 154.36, 6932.18>)
+14:34:35.632 [VehicleDeleted] Lady_Bicycle (id=42DE4A91CD4B174567FDD99A5C901BC0 pos=<6535.74, 142.68, 6023.09>)
+14:35:45.062 [VehicleDeleted] Lady_Bicycle (id=B5A6B1F61C420FCCC34CDCA957F8F2E1 pos=<7483.24, 120.72, 6348.73>)
+14:35:53.218 [VehicleDeleted] Lady_Bicycle (id=C572882382403F764DCE73853CECCA6E pos=<7482.22, 120.72, 6349.48>)
+14:37:41.753 [Party] Player "Rage" (id=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+14:37:55.023 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:37:55.023 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.88, 131.56, 5764.07>) damaged ExpansionWall6x3 at <6860.07, 128.27, 5765.75>
+14:37:55.023 [BaseBuildingRaiding] They dealt 120 * 1 = 120 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:37:55.023 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29880
+14:37:55.023 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:00.441 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:38:00.441 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.88, 131.56, 5764.07>) damaged ExpansionWall6x3 at <6860.45, 128.27, 5766.42>
+14:38:00.441 [BaseBuildingRaiding] They dealt 120 * 1 = 120 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:38:00.441 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29880
+14:38:00.441 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:01.410 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:38:01.410 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.88, 131.56, 5764.07>) damaged ExpansionWall6x3 at <6860.45, 128.27, 5766.42>
+14:38:01.410 [BaseBuildingRaiding] They dealt 120 * 1 = 120 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:38:01.410 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29880 to 29760
+14:38:01.410 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:07.453 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:38:07.457 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.71, 131.56, 5764.26>) damaged ExpansionWall6x3 at <6860.92, 128.27, 5767.18>
+14:38:07.457 [BaseBuildingRaiding] They dealt 120 * 1 = 120 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:38:07.457 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29880
+14:38:07.457 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:09.007 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:38:09.007 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.71, 131.56, 5764.26>) damaged ExpansionWall6x3 at <6860.92, 128.27, 5767.18>
+14:38:09.007 [BaseBuildingRaiding] They dealt 120 * 1 = 120 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:38:09.007 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29880 to 29760
+14:38:09.007 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:09.105 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:38:09.105 [BaseBuildingRaiding] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68= pos=<6863.71, 131.56, 5764.26>) damaged ExpansionWall6x3 at <6860.92, 128.27, 5767.18>
+14:38:09.105 [BaseBuildingRaiding] They dealt 9.65015 * 1 = 9.65015 damage with Bullet_300AAC from PNC_W_HoneyBadger_kry
+14:38:09.105 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29760 to 29750.3
+14:38:09.105 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:38:10.882 [VehicleDeleted] Lady_Bicycle (id=4F6E062C2E4D51C78D695F922D4F4956 pos=<6412.95, 203.29, 4572.14>)
+14:39:12.316 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+14:39:31.582 [VehicleDeleted] Old_Bike_White (id=48822062714B069DFE50FD888271BD99 pos=<6926.23, 126.47, 5760.31>)
+14:40:25.382 [VehicleDeleted] Old_Bike_Green (id=F34A0188F640DBA2BA828AAFE60433AD pos=<946.89, 157.78, 8038.18>)
+14:40:25.382 [VehicleDeleted] Old_Bike_Blue (id=66098DB22F49C286D3F8B39A2D9A591A pos=<6701.11, 102.93, 6069.68>)
+14:41:19.183 [VehicleDeleted] Old_Bike_Red (id=A3106A9663443210B4CE62AD1722235F pos=<7063.5, 162.64, 5188.43>)
+14:41:19.183 [VehicleDeleted] Old_Bike_Green (id=DC09545FAD42D1AF0476BAA66B51E7E7 pos=<7443.77, 176, 4823>)
+14:44:54.390 [VehicleDeleted] Old_Bike_Blue (id=59EC1481BB49D49B67A893A47EAAB7BF pos=<7876.33, 188.73, 3088.22>)
+14:50:17.191 [VehicleDeleted] Old_Bike (id=8C2BE5E20F416ABFA0468AA576F253F5 pos=<6365.78, 174.87, 5736.38>)
+14:51:37.890 [VehicleDeleted] Old_Bike (id=8106CB5875402D77A89DE2AF4860CF4F pos=<8241.13, 171.09, 6843.11>)
+14:54:48.390 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+14:57:00.699 [VehicleDeleted] Old_Bike_Green (id=F0D352024C4B5DF2034294A0BD867036 pos=<6674.53, 201.3, 4954.32>)
+15:00:01.382 [Party] Player "Sir Trippy" (id=qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

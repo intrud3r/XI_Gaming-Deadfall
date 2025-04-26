@@ -1,0 +1,3 @@
+{
+    "WebhookLogs": "url (EVERYTHING AFTER https://discord.com/api/webhooks/ (Ex: https://discord.com/api/webhooks/12312541 would be 12312541))"
+}

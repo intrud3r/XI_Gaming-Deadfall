@@ -1,0 +1,17 @@
+15:01:45.703 [Party] Player "JoC" (id=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw=) joinded the party "Mohe" (id=60 ownerUID=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw= ownerName=JoC)
+15:03:24.289 [Party] Player "kiros17" (id=mFwkwZ4ycT08JXS479ZoQlt8k9NJ2j-kbGHk3YhjXLY=) joinded the party "Mohe" (id=60 ownerUID=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw= ownerName=JoC)
+15:06:17.089 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Medical
+16:07:18.211 [Party] Player "kiros17" (id=mFwkwZ4ycT08JXS479ZoQlt8k9NJ2j-kbGHk3YhjXLY=) left the party "Mohe" (id=60 ownerUID=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw= ownerName=JoC)
+16:07:29.766 [Party] Player "JoC" (id=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw=) left the party "Mohe" (id=60 ownerUID=x_AcOpmBroXY1OJfAB0w2skr_hUh_-ZsTGbi8infUpw= ownerName=JoC)
+16:32:04.203 [MissionAirdrop] An airdrop is heading towards "Huron" (pos=<5645.566895, 0.000000, 8244.150391> type=Random_Huron) with a ExpansionAirdropContainer_Military
+17:31:58.694 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) joinded the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)
+17:57:43.242 [MissionAirdrop] An airdrop is heading towards "Ontario" (pos=<6884.233398, 0.000000, 2921.709961> type=Random_Ontario) with a ExpansionAirdropContainer_Basebuilding
+18:48:28.379 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) joinded the party "Die dreisten Drei" (id=46 ownerUID=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= ownerName=Eric)
+18:54:54.833 [VehicleDeleted] Lady_Bicycle (id=804FD9DFCB4593AC26E1A69E47EE973B pos=<4283.03, 174.85, 6568.24>)
+18:56:00.628 [VehicleEnter] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) entered vehicle Bicycle (id=723100EB884721B2D82B068F568C0628 pos=<4285.64, 174.85, 6568.49>) as driver
+18:56:39.114 [VehicleLeave] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left vehicle Bicycle (id=723100EB884721B2D82B068F568C0628 pos=<4521.18, 183.65, 6570.06>)
+18:57:55.939 [VehicleEnter] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) entered vehicle Bicycle (id=723100EB884721B2D82B068F568C0628 pos=<4521.18, 183.65, 6570.06>) as driver
+18:58:01.141 [Safezone] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0= pos=<6700.19, 102.78, 6073.4>) entered the safezone
+18:58:28.921 [VehicleLeave] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left vehicle Bicycle (id=723100EB884721B2D82B068F568C0628 pos=<4682.4, 183.28, 6655.04>)
+18:59:16.832 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left the party "Die dreisten Drei" (id=46 ownerUID=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= ownerName=Eric)
+18:59:31.367 [Party] Player "Druss" (id=mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) left the party "SLAVES" (id=1 ownerUID=m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss= ownerName=F11 Simulator)

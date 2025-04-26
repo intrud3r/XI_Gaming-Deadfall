@@ -1,0 +1,48 @@
+---------------------------------------------
+ServerPanel log started at 16.03.2025 11:01:04
+
+16.03.2025 11:01:04 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+16.03.2025 11:01:04 [ServerPanelConfig]: Reading Server Config
+16.03.2025 11:01:04 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+16.03.2025 11:01:04 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+16.03.2025 11:01:04 [ServerPanelConfigRPC]: GetConfigRequest
+16.03.2025 11:01:04 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+16.03.2025 11:01:04 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+16.03.2025 11:01:04 [ServerPanelHelpers]: Initialized ServerPanelBase
+16.03.2025 11:01:34 [ServerPanelConfigRPC]: Sothach (CulrU4gnR10itzmJXlLiwPKKVgZj3gDqbi1aegMM9F0=) - Config sync
+16.03.2025 11:01:35 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+16.03.2025 11:01:42 [ServerPanelConfigRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Config sync
+16.03.2025 11:02:04 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+16.03.2025 11:25:05 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 11:25:05 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 11:36:15 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 11:36:15 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 11:42:32 [ServerPanelConfigRPC]: InsaneDragon (x4LagE1tkWZT3bjC-XP6rLWv8DeK3_mU6p_YbkyonaU=) - Config sync
+16.03.2025 11:59:09 [ServerPanelConfigRPC]: TWISTED (VCCXa5z0PvNuApK0J5mfYMZSHb_q9DB8VTnM5OLUKRw=) - Config sync
+16.03.2025 12:09:24 [ServerPanelConfigRPC]: LEZIENTE (ps47fp3xeoA9NP4omdc75NKxQkScsxXydelOk12yuJU=) - Config sync
+16.03.2025 12:20:02 [ServerPanelConfigRPC]: LEZIENTE (ps47fp3xeoA9NP4omdc75NKxQkScsxXydelOk12yuJU=) - Config sync
+16.03.2025 12:29:48 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+16.03.2025 12:30:23 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Stats sync
+16.03.2025 12:30:23 [ServerPanelStatsRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Player Minimum Stats sync
+16.03.2025 12:34:53 [ServerPanelConfigRPC]: TWISTED (VCCXa5z0PvNuApK0J5mfYMZSHb_q9DB8VTnM5OLUKRw=) - Config sync
+16.03.2025 12:57:28 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+16.03.2025 13:01:46 [ServerPanelConfigRPC]: RoamDee (frclhQGSbmussfaaohIfYLsIajOW8_O57j7ATxHZZO0=) - Config sync
+16.03.2025 13:03:27 [ServerPanelConfigRPC]: TWISTED (VCCXa5z0PvNuApK0J5mfYMZSHb_q9DB8VTnM5OLUKRw=) - Config sync
+16.03.2025 13:12:35 [ServerPanelConfigRPC]: GrumpyD75 (Zjm0-MEQae98tV96JF6Qw__BbT0r3hLRGc8gavsPARo=) - Config sync
+16.03.2025 13:14:39 [ServerPanelConfigRPC]: Shanks (ao6b49zEsYtQiXOHkIMLAbzO_v2ZwgznGLYE0fO8YhQ=) - Config sync
+16.03.2025 13:27:48 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+16.03.2025 13:37:39 [ServerPanelConfigRPC]: BillionFoldWorld (YBt0pYfUL_R785fCJCdFerWJFg182BMm3z3T5Bv_0V0=) - Config sync
+16.03.2025 13:39:46 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 13:39:46 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 13:45:38 [ServerPanelConfigRPC]: Chewy (h6Nn4Dspr3vpHso2XGwPT_y-z4pvZTcRNxi2Co7XsGc=) - Config sync
+16.03.2025 14:02:33 [ServerPanelConfigRPC]: Chewy (h6Nn4Dspr3vpHso2XGwPT_y-z4pvZTcRNxi2Co7XsGc=) - Config sync
+16.03.2025 14:07:20 [ServerPanelStatsRPC]: GrumpyD75 (Zjm0-MEQae98tV96JF6Qw__BbT0r3hLRGc8gavsPARo=) - Player Stats sync
+16.03.2025 14:07:20 [ServerPanelStatsRPC]: GrumpyD75 (Zjm0-MEQae98tV96JF6Qw__BbT0r3hLRGc8gavsPARo=) - Player Minimum Stats sync
+16.03.2025 14:12:00 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 14:12:00 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync
+16.03.2025 14:12:09 [ServerPanelConfigRPC]: BillionFoldWorld (YBt0pYfUL_R785fCJCdFerWJFg182BMm3z3T5Bv_0V0=) - Config sync
+16.03.2025 14:16:13 [ServerPanelConfigRPC]: Kyma (fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) - Config sync
+16.03.2025 14:25:09 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+16.03.2025 14:33:20 [ServerPanelConfigRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Config sync
+16.03.2025 14:50:32 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Stats sync
+16.03.2025 14:50:32 [ServerPanelStatsRPC]: Sir Trippy (qZqolO4hbF2D7i2SHl6eLqgMczahG7_bAPkC9G_OL68=) - Player Minimum Stats sync

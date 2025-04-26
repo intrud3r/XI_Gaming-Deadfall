@@ -1,0 +1,20 @@
+02:06:21.205 [MissionAirdrop] An airdrop is heading towards "Mohawk" (pos=<7978.891113, 0.000000, 7093.604004> type=Random_Mohawk) with a ExpansionAirdropContainer_Military
+03:32:58.245 [MissionAirdrop] An airdrop is heading towards "Seneca" (pos=<7648.691895, 0.000000, 1011.718018> type=Random_Seneca) with a ExpansionAirdropContainer_Basebuilding
+05:00:32.246 [MissionAirdrop] An airdrop is heading towards "OWF Industries" (pos=<7167.299805, 0.000000, 4161.319824> type=Random_OWFIndustries) with a ExpansionAirdropContainer_Military
+05:28:00.340 [Killfeed] Chukk commited suicide with Bone Knife.
+05:39:20.582 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<7086.93, 144.16, 8584.81>) as driver
+05:39:25.302 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<7086.93, 144.16, 8584.81>)
+05:39:38.825 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<7086.93, 144.16, 8584.81>) as driver
+05:41:11.416 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<6887.94, 104.76, 8344.9>)
+05:43:57.827 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<6887.94, 104.76, 8344.9>) as driver
+05:44:12.356 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<6838.36, 106.61, 8341.79>)
+05:46:43.142 [VehicleDeleted] Lady_Bicycle (id=6AFA0A95474CE235C9E559B0AC2F6625 pos=<6838.34, 106.52, 8341.77>)
+05:46:57.410 [VehicleDeleted] Lady_Bicycle (id=C45A588128446B9F4F3762804CB82631 pos=<6841.82, 106.61, 8346.46>)
+05:47:05.763 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=65A84C98694E6D39024475A86F6449B8 pos=<6842.2, 106.61, 8347.57>) as driver
+05:48:30.020 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=65A84C98694E6D39024475A86F6449B8 pos=<6385.74, 113.62, 8402.52>)
+05:48:52.825 [VehicleDeleted] Lady_Bicycle (id=65A84C98694E6D39024475A86F6449B8 pos=<6385.75, 113.62, 8402.54>)
+05:48:59.584 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=27D1D66091439F4A62B343B729BF44C8 pos=<6385.56, 113.48, 8400.2>) as driver
+05:49:49.951 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=27D1D66091439F4A62B343B729BF44C8 pos=<6195.07, 123.99, 8174.28>)
+05:55:18.435 [VehicleEnter] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) entered vehicle Bicycle (id=27D1D66091439F4A62B343B729BF44C8 pos=<6195.07, 123.99, 8174.28>) as driver
+05:56:48.305 [VehicleLeave] Player "Chukk" (id=d7M5yYza6upjhgYoj1kBsOsf-qF8GrT2g4VGrUG99pM=) left vehicle Bicycle (id=27D1D66091439F4A62B343B729BF44C8 pos=<6057.08, 178.01, 7648.05>)
+05:57:59.277 [VehicleDeleted] Lady_Bicycle (id=27D1D66091439F4A62B343B729BF44C8 pos=<6057.08, 178.01, 7648.05>)

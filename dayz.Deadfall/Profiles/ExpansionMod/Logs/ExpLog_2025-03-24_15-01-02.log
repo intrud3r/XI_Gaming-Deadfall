@@ -1,0 +1,27 @@
+15:06:17.566 [MissionAirdrop] An airdrop is heading towards "Mohawk" (pos=<7978.891113, 0.000000, 7093.604004> type=Random_Mohawk) with a ExpansionAirdropContainer_Military
+15:51:27.078 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) joinded the party "Die dreisten Drei" (id=46 ownerUID=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8= ownerName=Eric)
+15:54:06.535 [VehicleDeleted] Lady_Bicycle_Purple (id=6EDEDB96CC48151BAE04A4952BD9293E pos=<4272.73, 174.85, 6568.34>)
+15:54:22.472 [VehicleEnter] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) entered vehicle Bicycle (id=4D1A08577B406AA4A84BCC8EDFA4C20C pos=<4286.19, 174.85, 6567.5>) as driver
+15:57:26.367 [VehicleAttachments] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=E0BAF71C6A4D5C5D7670278F872A3458 pos=<5849.4, 194.5, 5863.35>)
+15:57:31.332 [VehicleDeleted] Old_Bike_Red (id=E0BAF71C6A4D5C5D7670278F872A3458 pos=<5849.48, 194.36, 5863.29>)
+15:58:17.976 [VehicleLeave] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left vehicle Bicycle (id=4D1A08577B406AA4A84BCC8EDFA4C20C pos=<4254.78, 248.28, 5638.17>)
+15:58:20.808 [VehicleDeleted] Lady_Bicycle_Purple (id=4D1A08577B406AA4A84BCC8EDFA4C20C pos=<4254.78, 248.28, 5638.17>)
+15:58:33.625 [VehicleEnter] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) entered vehicle Bicycle (id=C79FCD562B4FCBD5B71B0CAFAE9176CE pos=<4254.02, 249.66, 5635>) as driver
+15:59:50.250 [VehicleDeleted] Old_Bike_Red (id=7EA002A7DE4C102D627B538A5F30BD25 pos=<5818.2, 210.15, 5871.02>)
+16:00:00.816 [VehicleDeleted] Old_Bike_Red (id=262D3D07614A05CB07484DAFD96F90E3 pos=<5813.66, 208.71, 5863.53>)
+16:00:47.171 [VehicleEnter] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) entered vehicle Bicycle (id=C9AEF7D08A450023F1ACC88ACE79DB61 pos=<5812.67, 208.9, 5861.84>) as driver
+16:02:52.925 [VehicleLeave] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) left vehicle Bicycle (id=C9AEF7D08A450023F1ACC88ACE79DB61 pos=<4995.94, 255.28, 5853.72>)
+16:02:54.945 [VehicleLeave] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left vehicle Bicycle (id=C79FCD562B4FCBD5B71B0CAFAE9176CE pos=<4166.69, 338.75, 4775.16>)
+16:03:17.390 [VehicleDeleted] Old_Bike_Red (id=C9AEF7D08A450023F1ACC88ACE79DB61 pos=<4995.94, 255.28, 5853.72>)
+16:03:25.085 [VehicleEnter] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) entered vehicle Bicycle (id=D46247D4B54BD22B5CD91181A8888D03 pos=<4995.17, 255.14, 5856.55>) as driver
+16:05:58.429 [VehicleLeave] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) left vehicle Bicycle (id=D46247D4B54BD22B5CD91181A8888D03 pos=<3996.16, 166.28, 5766.72>)
+16:06:05.195 [VehicleDeleted] Old_Bike_Red (id=D46247D4B54BD22B5CD91181A8888D03 pos=<3996.16, 166.28, 5766.72>)
+16:06:19.828 [VehicleEnter] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) entered vehicle Bicycle (id=8C4E71BC044DF49090B731AC91F110A6 pos=<3988.61, 166.28, 5762.41>) as driver
+16:10:38.152 [VehicleLeave] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) left vehicle Bicycle (id=8C4E71BC044DF49090B731AC91F110A6 pos=<2525.15, 264.36, 5657.42>)
+16:10:43.515 [VehicleEnter] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) entered vehicle Bicycle (id=8C4E71BC044DF49090B731AC91F110A6 pos=<2525.15, 264.36, 5657.42>) as driver
+16:10:46.429 [VehicleLeave] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) left vehicle Bicycle (id=8C4E71BC044DF49090B731AC91F110A6 pos=<2525.15, 264.36, 5657.42>)
+16:10:47.898 [VehicleDeleted] Old_Bike_Red (id=8C4E71BC044DF49090B731AC91F110A6 pos=<2525.15, 264.36, 5657.42>)
+16:10:55.695 [VehicleEnter] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) entered vehicle Bicycle (id=99F5E3319242900749436EAB1181E70B pos=<2523.93, 264.34, 5659.99>) as driver
+16:13:28.441 [VehicleEnter] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) entered vehicle Bicycle (id=C79FCD562B4FCBD5B71B0CAFAE9176CE pos=<4166.69, 338.75, 4775.16>) as driver
+16:13:54.250 [VehicleLeave] Player "Kyma" (id=fVpKi1QM3XWUFD-MRt7Z2tIj9G_sYf21_LAnW2Kmnqg=) left vehicle Bicycle (id=99F5E3319242900749436EAB1181E70B pos=<1594.18, 245.66, 6246.51>)
+16:13:57.984 [VehicleDeleted] Old_Bike_Red (id=99F5E3319242900749436EAB1181E70B pos=<1594.18, 245.66, 6246.51>)

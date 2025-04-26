@@ -1,0 +1,49 @@
+---------------------------------------------
+ServerPanel log started at 30.03.2025 21:01:06
+
+30.03.2025 21:01:06 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+30.03.2025 21:01:06 [ServerPanelConfig]: Reading Server Config
+30.03.2025 21:01:06 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+30.03.2025 21:01:06 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+30.03.2025 21:01:06 [ServerPanelConfigRPC]: GetConfigRequest
+30.03.2025 21:01:06 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+30.03.2025 21:01:06 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+30.03.2025 21:01:06 [ServerPanelHelpers]: Initialized ServerPanelBase
+30.03.2025 21:30:47 [ServerPanelConfigRPC]: Flip (IgO1ePTb4aY3qe_d-S5N3luZ3iOm384AvaIG3bmV3YY=) - Config sync
+30.03.2025 21:35:37 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+30.03.2025 23:00:05 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync
+30.03.2025 23:14:36 [ServerPanelConfigRPC]: kowalski (fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) - Config sync
+30.03.2025 23:16:31 [ServerPanelConfigRPC]: mormonrice (SWrhd9ziwAZonrmk5cFvI9UDhCjNa3qYrpi7hYisi14=) - Config sync
+30.03.2025 23:19:02 [ServerPanelConfigRPC]: kid_thicarus (PCa2rHYMSoktREnBdCJhud3yF7sSVJm0VfvU9nkLX9I=) - Config sync
+30.03.2025 23:19:32 [ServerPanelConfigRPC]: QuickSilver1221 (8VmSLnSQp_MuVeEslDbEY-CdAYRH_jfejIzMoWisN_4=) - Config sync
+30.03.2025 23:24:59 [ServerPanelConfigRPC]: BolbyCheez (SW5c8LwZJpjoNf4Vhp8j7PhK3OI54VEXx4TRlQeef_k=) - Config sync
+30.03.2025 23:26:31 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+30.03.2025 23:32:41 [ServerPanelConfigRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+30.03.2025 23:33:10 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+30.03.2025 23:34:51 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 23:34:51 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+30.03.2025 23:38:29 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+30.03.2025 23:38:29 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 00:14:41 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+31.03.2025 00:24:35 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 00:24:35 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 00:24:36 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 00:24:36 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 00:30:37 [ServerPanelConfigRPC]: Hutch (NCt_N5_qQF-rVKuC9zgxthdVRunW6bi2CSf86nt8dUY=) - Config sync
+31.03.2025 00:31:20 [ServerPanelConfigRPC]: kowalski (fXcf1bSgAVMkcqN0Vs-7BBLpdbzmtt5itpI71DF07kM=) - Config sync
+31.03.2025 00:34:37 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 00:34:37 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 00:40:36 [ServerPanelConfigRPC]: FENR1R (iNrVe7SaqeILs1mGQCuhEyy7pyTblyjBHOZ9V3kuMI8=) - Config sync
+31.03.2025 00:45:05 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 00:45:05 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 00:49:36 [ServerPanelStatsRPC]: FENR1R (iNrVe7SaqeILs1mGQCuhEyy7pyTblyjBHOZ9V3kuMI8=) - Player Stats sync
+31.03.2025 00:49:36 [ServerPanelStatsRPC]: FENR1R (iNrVe7SaqeILs1mGQCuhEyy7pyTblyjBHOZ9V3kuMI8=) - Player Minimum Stats sync
+31.03.2025 00:50:32 [ServerPanelStatsRPC]: FENR1R (iNrVe7SaqeILs1mGQCuhEyy7pyTblyjBHOZ9V3kuMI8=) - Player Stats sync
+31.03.2025 00:50:32 [ServerPanelStatsRPC]: FENR1R (iNrVe7SaqeILs1mGQCuhEyy7pyTblyjBHOZ9V3kuMI8=) - Player Minimum Stats sync
+31.03.2025 00:58:14 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 00:58:14 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 01:05:55 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 01:05:55 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+31.03.2025 01:10:47 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+31.03.2025 01:36:03 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+31.03.2025 01:36:03 [ServerPanelStatsRPC]: Happiness (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync

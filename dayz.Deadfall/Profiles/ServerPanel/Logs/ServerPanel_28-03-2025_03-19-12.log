@@ -1,0 +1,13 @@
+---------------------------------------------
+ServerPanel log started at 28.03.2025 03:19:12
+
+28.03.2025 03:19:12 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+28.03.2025 03:19:12 [ServerPanelConfig]: Reading Server Config
+28.03.2025 03:19:12 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+28.03.2025 03:19:12 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+28.03.2025 03:19:12 [ServerPanelConfigRPC]: GetConfigRequest
+28.03.2025 03:19:12 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+28.03.2025 03:19:12 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+28.03.2025 03:19:12 [ServerPanelHelpers]: Initialized ServerPanelBase
+28.03.2025 03:20:27 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+28.03.2025 05:01:23 [ServerPanelConfigRPC]: Gun (dQV0MWQE63QrNRXqd-4btd7ZbIxSfqWMKo6FakQaWEs=) - Config sync

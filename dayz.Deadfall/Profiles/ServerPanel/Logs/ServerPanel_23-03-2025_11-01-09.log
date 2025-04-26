@@ -1,0 +1,93 @@
+---------------------------------------------
+ServerPanel log started at 23.03.2025 11:01:09
+
+23.03.2025 11:01:09 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+23.03.2025 11:01:09 [ServerPanelConfig]: Reading Server Config
+23.03.2025 11:01:09 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+23.03.2025 11:01:09 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+23.03.2025 11:01:09 [ServerPanelConfigRPC]: GetConfigRequest
+23.03.2025 11:01:09 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+23.03.2025 11:01:09 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+23.03.2025 11:01:09 [ServerPanelHelpers]: Initialized ServerPanelBase
+23.03.2025 11:01:43 [ServerPanelConfigRPC]: MrWowaWowa (wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ=) - Config sync
+23.03.2025 11:01:44 [ServerPanelConfigRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Config sync
+23.03.2025 11:09:32 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 11:09:32 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 11:09:44 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+23.03.2025 11:17:08 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 11:17:08 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 11:18:37 [ServerPanelConfigRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Config sync
+23.03.2025 11:21:11 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 11:21:11 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 11:22:32 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 11:22:32 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 11:32:26 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Stats sync
+23.03.2025 11:32:26 [ServerPanelStatsRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Player Minimum Stats sync
+23.03.2025 11:33:43 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 11:33:43 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 11:41:10 [ServerPanelConfigRPC]: DUSTY PINKY (s8r0CBUvA4m0dDsoAZ-_G4y6F5w2f9qLRLI59dyQZnI=) - Config sync
+23.03.2025 11:54:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 11:54:28 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:01:46 [ServerPanelConfigRPC]: Gaz_78 (vUh6yCqxWeP6oK3uYFr-a8vnL9F295gT6PVCz9WXrIg=) - Config sync
+23.03.2025 12:02:48 [ServerPanelConfigRPC]: Gaz_78 (vUh6yCqxWeP6oK3uYFr-a8vnL9F295gT6PVCz9WXrIg=) - Config sync
+23.03.2025 12:02:49 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:02:49 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:02:49 [ServerPanelConfigRPC]: Mlle JeSsS (PO0m7u4YjfQdITZAcquwUhlDQtqNiX7zpk0HZB6OeXc=) - Config sync
+23.03.2025 12:06:41 [ServerPanelConfigRPC]: Triforce (XUIp7H7YpSzw2cOw-B5UJCdQOiBvpfbAWYMM274DKUE=) - Config sync
+23.03.2025 12:07:36 [ServerPanelConfigRPC]: LEZIENTE (ps47fp3xeoA9NP4omdc75NKxQkScsxXydelOk12yuJU=) - Config sync
+23.03.2025 12:08:27 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:08:27 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:09:12 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 12:09:12 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 12:10:09 [ServerPanelConfigRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Config sync
+23.03.2025 12:15:26 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Stats sync
+23.03.2025 12:15:26 [ServerPanelStatsRPC]: Ov3rKi11 (P_LVluee20-ZP_xemam3V_6hnFSPQ6Uqa7dsMv8yuYY=) - Player Minimum Stats sync
+23.03.2025 12:19:46 [ServerPanelConfigRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Config sync
+23.03.2025 12:20:40 [ServerPanelConfigRPC]: LEZIENTE (ps47fp3xeoA9NP4omdc75NKxQkScsxXydelOk12yuJU=) - Config sync
+23.03.2025 12:22:39 [ServerPanelConfigRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Config sync
+23.03.2025 12:23:24 [ServerPanelConfigRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Config sync
+23.03.2025 12:29:39 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:29:39 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:31:09 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 12:31:09 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 12:31:13 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:31:13 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:36:33 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 12:36:33 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 12:36:35 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:36:35 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:36:39 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 12:36:39 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 12:37:59 [ServerPanelStatsRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Player Stats sync
+23.03.2025 12:37:59 [ServerPanelStatsRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Player Minimum Stats sync
+23.03.2025 12:44:37 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 12:44:37 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 12:55:46 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 12:55:46 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 13:02:06 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 13:02:06 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 13:08:38 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 13:08:38 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 13:12:41 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+23.03.2025 13:24:52 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 13:24:52 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 13:25:02 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 13:25:02 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 13:26:42 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 13:26:42 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 13:26:44 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 13:26:44 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 13:27:09 [ServerPanelConfigRPC]: Rage (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+23.03.2025 13:28:10 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Stats sync
+23.03.2025 13:28:10 [ServerPanelStatsRPC]: Stivi the Kid (W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) - Player Minimum Stats sync
+23.03.2025 13:32:37 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Stats sync
+23.03.2025 13:32:37 [ServerPanelStatsRPC]: ElBizzy (zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) - Player Minimum Stats sync
+23.03.2025 13:33:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Stats sync
+23.03.2025 13:33:34 [ServerPanelStatsRPC]: Mard (OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) - Player Minimum Stats sync
+23.03.2025 13:50:28 [ServerPanelConfigRPC]: Greven (1n2JlVN5AMG4bMch1yIHlj7U313_NbNmoCmqn6lUZrU=) - Config sync
+23.03.2025 13:53:53 [ServerPanelConfigRPC]: Stinkalicious Babe (NXiuw-hLAdXcMQLK94DrIvJqDJbQxXS4AsifPAf3vXg=) - Config sync
+23.03.2025 14:09:26 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Stats sync
+23.03.2025 14:09:26 [ServerPanelStatsRPC]: Eric (DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) - Player Minimum Stats sync
+23.03.2025 14:09:37 [ServerPanelStatsRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Player Stats sync
+23.03.2025 14:09:37 [ServerPanelStatsRPC]: MaHxMi3 | Slayer (_AqICEBF10fARr_5J1u6RE7mqS8sFkumFiqXBfcXjhU=) - Player Minimum Stats sync
+23.03.2025 14:17:00 [ServerPanelConfigRPC]: dr robert neville (-poMAUXyukG9utTFZWQlLCetkGe1Q-_V89zMifDpdYI=) - Config sync

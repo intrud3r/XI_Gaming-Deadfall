@@ -1,0 +1,59 @@
+---------------------------------------------
+ServerPanel log started at 17.03.2025 11:01:05
+
+17.03.2025 11:01:05 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+17.03.2025 11:01:05 [ServerPanelConfig]: Reading Server Config
+17.03.2025 11:01:05 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+17.03.2025 11:01:05 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+17.03.2025 11:01:05 [ServerPanelConfigRPC]: GetConfigRequest
+17.03.2025 11:01:05 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+17.03.2025 11:01:05 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+17.03.2025 11:01:05 [ServerPanelHelpers]: Initialized ServerPanelBase
+17.03.2025 11:02:12 [ServerPanelConfigRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Config sync
+17.03.2025 11:03:04 [ServerPanelConfigRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Config sync
+17.03.2025 11:03:52 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+17.03.2025 11:06:03 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:06:03 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:15:36 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:15:36 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:39:14 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:39:14 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:42:17 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:42:17 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:55:26 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:55:26 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:55:27 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:55:27 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:55:29 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 11:55:29 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 11:57:02 [ServerPanelStatsRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Player Stats sync
+17.03.2025 11:57:02 [ServerPanelStatsRPC]: Druss (mvB_p65s26M1iDgS3KgKpm-UzbAyYM5rER5IINF2xI0=) - Player Minimum Stats sync
+17.03.2025 12:06:37 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 12:06:37 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 12:10:09 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 12:10:09 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 12:14:58 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 12:14:58 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 12:16:16 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+17.03.2025 12:16:22 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 12:16:22 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 12:18:11 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+17.03.2025 12:19:37 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:19:37 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:19:43 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:19:43 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:28:21 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:28:21 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:29:38 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:29:38 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:32:31 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:32:31 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:33:35 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Stats sync
+17.03.2025 12:33:35 [ServerPanelStatsRPC]: London (kOLgOs9yYBFVRQG3lqoHveYdP5X8y3SO69cq5MiR4us=) - Player Minimum Stats sync
+17.03.2025 12:37:39 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:37:39 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 12:43:11 [ServerPanelConfigRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Config sync
+17.03.2025 12:44:48 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Stats sync
+17.03.2025 12:44:48 [ServerPanelStatsRPC]: Brewce (XL1GT1pp_f-jQGOrP6YuCPttwyD--b5ziLbGiXICjFs=) - Player Minimum Stats sync
+17.03.2025 13:32:45 [ServerPanelConfigRPC]: Christiandarkan (FMRYBAefGQ5HYZCE5oLCejpgzMBxT1mAzSnVQ_rde_I=) - Config sync
+17.03.2025 13:35:37 [ServerPanelConfigRPC]: Christiandarkan (FMRYBAefGQ5HYZCE5oLCejpgzMBxT1mAzSnVQ_rde_I=) - Config sync

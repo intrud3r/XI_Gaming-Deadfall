@@ -1,0 +1,16 @@
+---------------------------------------------
+ServerPanel log started at 29.03.2025 22:01:07
+
+29.03.2025 22:01:07 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+29.03.2025 22:01:07 [ServerPanelConfig]: Reading Server Config
+29.03.2025 22:01:07 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+29.03.2025 22:01:07 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+29.03.2025 22:01:07 [ServerPanelConfigRPC]: GetConfigRequest
+29.03.2025 22:01:07 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+29.03.2025 22:01:07 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+29.03.2025 22:01:07 [ServerPanelHelpers]: Initialized ServerPanelBase
+29.03.2025 22:01:41 [ServerPanelConfigRPC]: Trippdaddy (tFNVR4lJXlK7ys1rjXeU2WO2Frslyl9y8mq3pLuXeXg=) - Config sync
+29.03.2025 22:01:58 [ServerPanelConfigRPC]: babyalfredo (amexATdYpRnRgir1Oa5WyemQasKtdzgXxA3GmwOS2P8=) - Config sync
+29.03.2025 23:03:31 [ServerPanelConfigRPC]: F11 Simulator (m_TD03B4NXDQrU5koHpLq3WyQf1hXTvQSdETJOTM8ss=) - Config sync
+30.03.2025 00:49:08 [ServerPanelConfigRPC]: WeRunIt23 (dOa-dRcX_CV9XKAODdga_Gfbup0MFivrhSeMsvvzo-A=) - Config sync
+30.03.2025 02:21:41 [ServerPanelConfigRPC]: dre (5iHawFF-5d6C8jZ5Dr1e85Po8Lvgz-RoyGxL7iY3DW8=) - Config sync

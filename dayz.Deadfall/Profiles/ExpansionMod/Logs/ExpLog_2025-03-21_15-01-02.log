@@ -1,0 +1,48 @@
+15:02:09.546 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) joinded the party "Hawk Fearless" (id=5 ownerUID=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ= ownerName=MrWowaWowa)
+15:06:17.121 [MissionAirdrop] An airdrop is heading towards "Cayuga" (pos=<9227.352539, 0.000000, 3293.108398> type=Random_Cayuga) with a ExpansionAirdropContainer_Military
+15:18:03.937 [Party] Player "Eric" (id=DT1QFut1v8UN48skN3UnroicVIl_5hTizZZZSwLRxk8=) left the party "Hawk Fearless" (id=5 ownerUID=wBwiybhmqSv3IfINgIr99PhPwxKwXc4RCt6SZurIBXQ= ownerName=MrWowaWowa)
+16:28:17.773 [Party] Player "YellowMan03" (id=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs=) joinded the party "Seraph Intrepid" (id=30 ownerUID=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs= ownerName=YellowMan03)
+16:33:11.261 [MissionAirdrop] An airdrop is heading towards "Huron" (pos=<5645.566895, 0.000000, 8244.150391> type=Random_Huron) with a ExpansionAirdropContainer_Medical
+16:48:02.394 [Party] Player "YellowMan03" (id=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs=) left the party "Seraph Intrepid" (id=30 ownerUID=Q5YYCirVtNrxz4WQIODDgTTJ2c72jSwr9IjthoaUGfs= ownerName=YellowMan03)
+17:58:47.265 [MissionAirdrop] An airdrop is heading towards "Wind Farm" (pos=<6469.119629, 0.000000, 6864.399902> type=Random_WindFarm) with a ExpansionAirdropContainer_Military
+18:09:59.203 [VehicleDeleted] Old_Bike_Pink (id=9C681D7FEA483DC54C09A1B3A76845A4 pos=<8770.63, 150.19, 2322.81>)
+18:10:57.609 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=55AFEB39B240D55E0CDB63B16A8E1464 pos=<8730.19, 150.19, 2329.61>) as driver
+18:11:43.679 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=55AFEB39B240D55E0CDB63B16A8E1464 pos=<8619, 135.07, 2608.09>)
+18:13:27.984 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=55AFEB39B240D55E0CDB63B16A8E1464 pos=<8619, 135.07, 2608.09>) as driver
+18:19:25.742 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=55AFEB39B240D55E0CDB63B16A8E1464 pos=<8143.21, 132.15, 1688.11>)
+18:20:02.156 [VehicleDeleted] Old_Bike_Pink (id=55AFEB39B240D55E0CDB63B16A8E1464 pos=<8143.21, 132.15, 1688.11>)
+18:21:53.203 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=555851259849EC32ECE7199005E9330E pos=<8136.77, 132.15, 1684.01>) as driver
+18:23:48.742 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=555851259849EC32ECE7199005E9330E pos=<8467, 118.15, 1259.06>)
+18:23:51.085 [VehicleDeleted] Old_Bike_Pink (id=555851259849EC32ECE7199005E9330E pos=<8467, 118.15, 1259.06>)
+18:31:09.414 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=CA1D04946546D44087B094AE4342C9D0 pos=<8334.38, 103.01, 1245.16>) as driver
+18:36:28.546 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=CA1D04946546D44087B094AE4342C9D0 pos=<8389.37, 129.6, 1086.67>)
+18:37:36.851 [VehicleDeleted] Old_Bike_Pink (id=DA7435BDE24C34FAE5BAEFB27797E8E8 pos=<8465.07, 118, 1259.94>)
+18:37:51.812 [VehicleEnter] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) entered vehicle Bicycle (id=5E2A61FBE54EC6444ABFDC80A0C71610 pos=<8464.49, 117.01, 1253.67>) as driver
+18:38:26.671 [VehicleLeave] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left vehicle Bicycle (id=5E2A61FBE54EC6444ABFDC80A0C71610 pos=<8387.65, 131.46, 1080.04>)
+18:38:37.507 [VehicleAttachments] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) detached Bicycle Wheel (type=bicycle_wheel) from vehicle Bicycle (id=CA1D04946546D44087B094AE4342C9D0 pos=<8389.37, 129.6, 1086.67>)
+18:38:48.546 [VehicleDeleted] Old_Bike_White (id=CA1D04946546D44087B094AE4342C9D0 pos=<8389.53, 129.56, 1086.73>)
+18:39:16.000 [VehicleDeleted] Old_Bike_White (id=ED541517D74DC988085D5DB0D9D3C50B pos=<8390.65, 129.17, 1087.57>)
+18:40:59.289 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6669.43, 102.5, 6096.4>) entered the safezone
+18:40:59.289 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:42:50.312 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold cz527 x1 (ec787400, Mag_CZ527_5rnd<b9b65e50>, ammo_762x39 x3) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 107.
+18:43:38.515 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) joinded the party "Deadbeets" (id=43 ownerUID= ownerName=)
+18:43:38.523 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) created a party named Deadbeets (beats)
+18:44:00.546 [ATM] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has deposited 107 on his ATM account.
+18:44:39.976 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:45:06.695 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) joinded the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+18:45:28.640 [Market] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) has sold huntingoptic x1 (ce559060) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 187.
+18:48:27.218 [Party] Player "XxTeckxX" (id=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI=) left the party "Deadbeets" (id=43 ownerUID=n79Ba3oylhnLN-_2dARnhZsmB210eaQUKSMOo2tLoTI= ownerName=XxTeckxX)
+18:49:52.593 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:51:10.992 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6740.73, 107.81, 6042.66>) entered the safezone
+18:53:25.804 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:53:29.070 [Safezone] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= pos=<6679.8, 118.13, 6017.67>) entered the safezone
+18:57:26.039 [Safezone] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk= pos=<6650.66, 126.25, 6017.38>) entered the safezone
+18:57:40.406 [Safezone] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8= pos=<6632.07, 133.68, 6024.27>) entered the safezone
+18:59:02.062 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold acogoptic x1 (c463e350) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 56.
+18:59:05.453 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold huntingoptic x1 (c4641390) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 750.
+18:59:22.882 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ak_railhndgrd x1 (ce0c3ed0) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 150.
+18:59:24.218 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold mp5_railhndgrd x1 (ce0ba880) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 112.
+18:59:29.570 [Market] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) has sold ak_bayonet x1 (ce0ee900) at the trader "Attachments (Jose [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Trader Zone" (pos=<6675.160645, 104.603935, 6114.155762>) and got 28.
+19:00:01.515 [Party] Player "ElBizzy" (id=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:00:01.523 [Party] Player "Stivi the Kid" (id=W44v5r64t_fNpgzRQNLTal2wQQBqWJ8o-Qcc6Jd5hw8=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
+19:00:01.523 [Party] Player "Mard" (id=OAEsqfVu9Ya3qx3X2Q_PgbpxSoSDXOIUHhH8VWVuumk=) left the party "Viper Ethereal" (id=33 ownerUID=zazFLAJ4lPF6TvVQMMREjst1jC8o_Id9oh_TjGBwaP8= ownerName=ElBizzy)
