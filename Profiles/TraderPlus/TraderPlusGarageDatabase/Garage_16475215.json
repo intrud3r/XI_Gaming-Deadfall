@@ -1,0 +1,46 @@
+{
+    "OwnerName": "{G3R}_Hou$3",
+    "OwnerID": "16475215",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "Candy_MustFrank_NoGun",
+            "VehicleCargoId": 1729127557,
+            "VehicleID": 88885678,
+            "Timestamp": 0,
+            "EngineHealth": 22000.0,
+            "FuelAmmount": 49.49058151245117,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        },
+        {
+            "VehicleName": "Helipolice_swat_SIB5_clear",
+            "VehicleCargoId": 1729131814,
+            "VehicleID": 88882288,
+            "Timestamp": 0,
+            "EngineHealth": 6000.0,
+            "FuelAmmount": 0.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        },
+        {
+            "VehicleName": "HeliSIB_UH1D_clear",
+            "VehicleCargoId": 1729220085,
+            "VehicleID": 88885678,
+            "Timestamp": 0,
+            "EngineHealth": 3822.490966796875,
+            "FuelAmmount": 42.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}
